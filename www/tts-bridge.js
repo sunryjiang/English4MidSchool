@@ -2,31 +2,56 @@
  * TTS 桥接：安卓 WebView 不支持 Web Speech API(speechSynthesis)，
  * 这里用 Capacitor 的原生 TextToSpeech 插件伪装出一个 speechSynthesis，
  * 让 vocab.js / reading.js / app.js 里原来的朗读代码无需改动即可发音。
+ *
+ * 发音质量：
+ *  - 英语统一使用用户在首页选择的口音（美式 en-US / 英式 en-GB）。
+ *  - 主动在设备已安装的音色中挑选最合适的英语音色（优先精确口音、优先 Google 引擎）。
  * 仅在 Capacitor 原生环境下生效；普通浏览器仍用系统自带的 speechSynthesis。
  */
 (function () {
   "use strict";
   var Cap = window.Capacitor;
   var isNative = !!(Cap && typeof Cap.isNativePlatform === "function" && Cap.isNativePlatform());
-  if (!isNative) return; // 浏览器里不接管，用原生 Web Speech
+  if (!isNative) return;
   var TTS = Cap.Plugins && Cap.Plugins.TextToSpeech;
   if (!TTS) return;
 
-  var voices = [];
+  var rawVoices = [];
   function refreshVoices(cb) {
     if (!TTS.getSupportedVoices) { if (cb) cb(); return; }
     TTS.getSupportedVoices()
-      .then(function (r) {
-        voices = ((r && r.voices) || []).map(function (v) {
-          return { lang: v.lang || "", name: v.name || "", voiceURI: v.voiceURI || v.name || "", default: false };
-        });
-        if (cb) cb();
-      })
+      .then(function (r) { rawVoices = (r && r.voices) || []; if (cb) cb(); })
       .catch(function () { if (cb) cb(); });
   }
   refreshVoices();
 
-  // 伪 SpeechSynthesisUtterance
+  function norm(s) { return (s || "").toLowerCase().replace(/_/g, "-"); }
+  function accent() {
+    try { return localStorage.getItem("ttsAccent") || "en-US"; }
+    catch (e) { return "en-US"; }
+  }
+
+  // 选出最合适的英语音色：优先精确口音(en-us/en-gb)，其次任意英语；同类里优先 Google 引擎
+  function pickVoiceIndex(targetLang) {
+    if (!rawVoices.length) return -1;
+    var t = norm(targetLang);          // en-us
+    var base = t.split("-")[0];        // en
+    var bestI = -1, best = -1;
+    for (var i = 0; i < rawVoices.length; i++) {
+      var v = rawVoices[i];
+      var lang = norm(v.lang);
+      var name = norm(v.name) + " " + norm(v.voiceURI);
+      var s = -1;
+      if (lang === t) s = 100;
+      else if (lang.indexOf(base + "-") === 0 || lang === base) s = 40;
+      if (s < 0) continue;             // 非目标语言，跳过
+      if (name.indexOf("google") >= 0) s += 20;
+      if (name.indexOf("network") >= 0) s += 5;
+      if (s > best) { best = s; bestI = i; }
+    }
+    return bestI;
+  }
+
   function Utter(text) {
     this.text = text || "";
     this.lang = "en-US";
@@ -40,36 +65,33 @@
   }
   window.SpeechSynthesisUtterance = Utter;
 
-  var curToken = 0;      // 用于取消：旧任务回调不再触发
-  var speakingFlag = false;
-  var pausedFlag = false;
-
-  function clampRate(r) {
-    r = Number(r) || 1;
-    if (r < 0.1) r = 0.1;
-    if (r > 2.0) r = 2.0;
-    return r;
-  }
+  var curToken = 0, speakingFlag = false, pausedFlag = false;
+  function clampRate(r) { r = Number(r) || 1; if (r < 0.1) r = 0.1; if (r > 2) r = 2; return r; }
 
   var shim = {
-    getVoices: function () { return voices; },
+    getVoices: function () {
+      return rawVoices.map(function (v) {
+        return { lang: v.lang, name: v.name, voiceURI: v.voiceURI, default: !!v.default };
+      });
+    },
     speak: function (u) {
       if (!u) return;
       var token = ++curToken;
-      speakingFlag = true;
-      pausedFlag = false;
-      var lang = (u.voice && u.voice.lang) || u.lang || "en-US";
-      if (typeof u.onstart === "function") { try { u.onstart(); } catch (e) {} }
-      TTS.speak({
-        text: u.text,
-        lang: lang,
-        rate: clampRate(u.rate),
+      speakingFlag = true; pausedFlag = false;
+      var lang = u.lang || "en-US";
+      if (norm(lang).indexOf("en") === 0) lang = accent(); // 英语一律用所选口音
+      var opts = {
+        text: u.text, lang: lang, rate: clampRate(u.rate),
         pitch: Number(u.pitch) || 1,
         volume: u.volume == null ? 1.0 : Number(u.volume),
         category: "playback"
-      })
+      };
+      var vi = pickVoiceIndex(lang);
+      if (vi >= 0) opts.voice = vi;
+      if (typeof u.onstart === "function") { try { u.onstart(); } catch (e) {} }
+      TTS.speak(opts)
         .then(function () {
-          if (token !== curToken) return; // 已被取消
+          if (token !== curToken) return;
           speakingFlag = false;
           if (typeof u.onend === "function") { try { u.onend(); } catch (e) {} }
         })
@@ -81,22 +103,15 @@
         });
     },
     cancel: function () {
-      curToken++;           // 让进行中的任务回调失效，避免误触发“下一句”
-      speakingFlag = false;
-      pausedFlag = false;
+      curToken++; speakingFlag = false; pausedFlag = false;
       if (TTS.stop) TTS.stop().catch(function () {});
     },
-    // 原生插件不支持真正的暂停/恢复：暂停即停止当前朗读
     pause: function () {
-      curToken++;
-      speakingFlag = false;
-      pausedFlag = true;
+      curToken++; speakingFlag = false; pausedFlag = true;
       if (TTS.stop) TTS.stop().catch(function () {});
     },
     resume: function () { pausedFlag = false; },
-    addEventListener: function (ev, cb) {
-      if (ev === "voiceschanged") refreshVoices(cb);
-    },
+    addEventListener: function (ev, cb) { if (ev === "voiceschanged") refreshVoices(cb); },
     removeEventListener: function () {},
     get speaking() { return speakingFlag; },
     get paused() { return pausedFlag; },
@@ -104,9 +119,6 @@
     onvoiceschanged: null
   };
 
-  try {
-    Object.defineProperty(window, "speechSynthesis", { value: shim, configurable: true });
-  } catch (e) {
-    window.speechSynthesis = shim;
-  }
+  try { Object.defineProperty(window, "speechSynthesis", { value: shim, configurable: true }); }
+  catch (e) { window.speechSynthesis = shim; }
 })();

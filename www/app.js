@@ -648,6 +648,21 @@
     }
   }
 
+  // 返回键：知识点内 → 返回语法首页；已在语法首页 → 返回三大模块首页
+  (function wireBack() {
+    const b = $("#backBtn");
+    if (!b) return;
+    b.addEventListener("click", () => {
+      if (currentIndex >= 0) {
+        showHome();
+        if (history.replaceState) history.replaceState(null, "", location.pathname);
+        else location.hash = "";
+      } else {
+        location.href = "index.html";
+      }
+    });
+  })();
+
   (function wireTeach() {
     const toggle = $("#teachToggle");
     const stop = $("#teachStop");

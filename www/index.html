@@ -63,8 +63,25 @@
     .card-grammar { background: linear-gradient(135deg, #2e5b9e, #1f3b73); }
     .card-vocab   { background: linear-gradient(135deg, #e0872f, #c0641c); }
     .card-reading { background: linear-gradient(135deg, #1a8a4a, #0f6a38); }
+    .ah-setting {
+      margin-top: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      font-size: 14px;
+      color: var(--gray-700);
+    }
+    .ah-setting select {
+      padding: 7px 12px;
+      border-radius: 10px;
+      border: 1px solid var(--gray-200);
+      background: #fff;
+      font-size: 14px;
+      color: var(--blue-900);
+    }
     .ah-foot {
-      margin-top: 26px;
+      margin-top: 18px;
       text-align: center;
       font-size: 12px;
       color: var(--gray-500);
@@ -107,7 +124,26 @@
       </a>
     </div>
 
+    <div class="ah-setting">
+      <label for="accentSel">🔊 朗读口音</label>
+      <select id="accentSel">
+        <option value="en-US">美式发音 (US)</option>
+        <option value="en-GB">英式发音 (UK)</option>
+      </select>
+    </div>
+
     <div class="ah-foot">初中英语四周提升 · 离线学习</div>
   </main>
+
+  <script>
+    (function () {
+      var sel = document.getElementById("accentSel");
+      if (!sel) return;
+      try { sel.value = localStorage.getItem("ttsAccent") || "en-US"; } catch (e) {}
+      sel.addEventListener("change", function () {
+        try { localStorage.setItem("ttsAccent", sel.value); } catch (e) {}
+      });
+    })();
+  </script>
 </body>
 </html>
