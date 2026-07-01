@@ -35,6 +35,9 @@
 
   const els = {
     unitList: document.getElementById("unitList"),
+    side: document.getElementById("vocabSide"),
+    overlay: document.getElementById("overlay"),
+    menuToggle: document.getElementById("menuToggle"),
     toolbar: document.getElementById("vocabToolbar"),
     vtTitle: document.getElementById("vtTitle"),
     vtProgress: document.getElementById("vtProgress"),
@@ -97,7 +100,20 @@
     els.toolbar.classList.remove("hidden");
     els.cardControls.classList.remove("hidden");
     renderCard();
+    closeSide();
   }
+
+  function toggleSide() {
+    if (!els.side) return;
+    els.side.classList.toggle("open");
+    if (els.overlay) els.overlay.classList.toggle("show");
+  }
+  function closeSide() {
+    if (els.side) els.side.classList.remove("open");
+    if (els.overlay) els.overlay.classList.remove("show");
+  }
+  if (els.menuToggle) els.menuToggle.onclick = toggleSide;
+  if (els.overlay) els.overlay.onclick = closeSide;
 
   function renderCard() {
     if (!curWords.length) return;
