@@ -31,7 +31,7 @@
     catch (e) { return "en-US"; }
   }
 
-  // 选出最合适的英语音色：优先精确口音(en-us/en-gb)，其次任意英语；同类里优先 Google 引擎
+  // 选出最合适的英语音色：优先精确口音(en-us/en-gb)，优先 Google 优质音色，避开 eSpeak/Pico 等机械音
   function pickVoiceIndex(targetLang) {
     if (!rawVoices.length) return -1;
     var t = norm(targetLang);          // en-us
@@ -45,8 +45,10 @@
       if (lang === t) s = 100;
       else if (lang.indexOf(base + "-") === 0 || lang === base) s = 40;
       if (s < 0) continue;             // 非目标语言，跳过
-      if (name.indexOf("google") >= 0) s += 20;
-      if (name.indexOf("network") >= 0) s += 5;
+      if (name.indexOf("google") >= 0) s += 30;      // Google 神经网络音，自然
+      if (name.indexOf("-local") >= 0) s += 8;       // 本地高质量音，离线可用
+      else if (name.indexOf("network") >= 0) s += 4; // 网络音质量高但需联网
+      if (/espeak|pico|formant/.test(name)) s -= 60; // 机械合成音，尽量避开
       if (s > best) { best = s; bestI = i; }
     }
     return bestI;
