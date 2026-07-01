@@ -136,8 +136,9 @@
       it.words.forEach((w) => {
         html +=
           '<div class="wg-item"><span class="wg-spk" data-w="' +
-          encodeURIComponent(w.word) + '">🔊</span> <b>' + w.word +
-          "</b> <i>" + (w.pos || "") + "</i> " + (w.cn || "") + "</div>";
+          encodeURIComponent(w.word) + '">🔊</span> <b>' + w.word + "</b>" +
+          (w.ipa ? ' <span class="wg-ipa">/' + w.ipa + "/</span>" : "") +
+          " <i>" + (w.pos || "") + "</i> " + (w.cn || "") + "</div>";
       });
       html += "</div>";
     }

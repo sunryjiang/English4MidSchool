@@ -41,31 +41,37 @@
     {
      "word": "family",
      "pos": "n.",
+     "ipa": "ˈfæməli",
      "cn": "家庭"
     },
     {
      "word": "father",
      "pos": "n.",
+     "ipa": "ˈfɑːðə",
      "cn": "父亲"
     },
     {
      "word": "mother",
      "pos": "n.",
+     "ipa": "ˈmʌðə",
      "cn": "母亲"
     },
     {
      "word": "doctor",
      "pos": "n.",
+     "ipa": "ˈdɒktə",
      "cn": "医生"
     },
     {
      "word": "teacher",
      "pos": "n.",
+     "ipa": "ˈtiːtʃə",
      "cn": "教师"
     },
     {
      "word": "sister",
      "pos": "n.",
+     "ipa": "sɪstə",
      "cn": "姐妹"
     }
    ],
@@ -128,31 +134,37 @@
     {
      "word": "school",
      "pos": "n.",
+     "ipa": "skuːl",
      "cn": "学校"
     },
     {
      "word": "morning",
      "pos": "n.",
+     "ipa": "ˈmɔːnɪŋ",
      "cn": "早晨"
     },
     {
      "word": "class",
      "pos": "n.",
+     "ipa": "klɑːs",
      "cn": "课"
     },
     {
      "word": "lunch",
      "pos": "n.",
+     "ipa": "lʌntʃ",
      "cn": "午饭"
     },
     {
      "word": "homework",
      "pos": "n.",
+     "ipa": "hɒmjuːɔːk",
      "cn": "作业"
     },
     {
      "word": "bike",
      "pos": "n.",
+     "ipa": "baɪk",
      "cn": "自行车"
     }
    ],
@@ -215,31 +227,37 @@
     {
      "word": "healthy",
      "pos": "adj.",
+     "ipa": "ˈhelθi",
      "cn": "健康的"
     },
     {
      "word": "breakfast",
      "pos": "n.",
+     "ipa": "ˈbrekfəst",
      "cn": "早餐"
     },
     {
      "word": "milk",
      "pos": "n.",
+     "ipa": "mɪlk",
      "cn": "牛奶"
     },
     {
      "word": "fruit",
      "pos": "n.",
+     "ipa": "fruːt",
      "cn": "水果"
     },
     {
      "word": "vegetable",
      "pos": "n.",
+     "ipa": "ˈvedʒtəbl",
      "cn": "蔬菜"
     },
     {
      "word": "strong",
      "pos": "adj.",
+     "ipa": "strɒŋ",
      "cn": "强壮的"
     }
    ],
@@ -302,31 +320,37 @@
     {
      "word": "pet",
      "pos": "n.",
+     "ipa": "pet",
      "cn": "宠物"
     },
     {
      "word": "dog",
      "pos": "n.",
+     "ipa": "dɒɡ",
      "cn": "狗"
     },
     {
      "word": "brown",
      "pos": "adj.",
+     "ipa": "brəʊn",
      "cn": "棕色的"
     },
     {
      "word": "ball",
      "pos": "n.",
+     "ipa": "bæl",
      "cn": "球"
     },
     {
      "word": "evening",
      "pos": "n.",
+     "ipa": "ˈiːvnɪŋ",
      "cn": "傍晚"
     },
     {
      "word": "walk",
      "pos": "n./v.",
+     "ipa": "wɔːk",
      "cn": "散步；走"
     }
    ],
@@ -389,31 +413,37 @@
     {
      "word": "weather",
      "pos": "n.",
+     "ipa": "ˈweðə",
      "cn": "天气"
     },
     {
      "word": "season",
      "pos": "n.",
+     "ipa": "ˈsiːzn",
      "cn": "季节"
     },
     {
      "word": "spring",
      "pos": "n.",
+     "ipa": "sprɪŋ",
      "cn": "春天"
     },
     {
      "word": "summer",
      "pos": "n.",
+     "ipa": "sʌmə",
      "cn": "夏天"
     },
     {
      "word": "winter",
      "pos": "n.",
+     "ipa": "wɪntə",
      "cn": "冬天"
     },
     {
      "word": "snow",
      "pos": "v./n.",
+     "ipa": "snəʊ",
      "cn": "下雪；雪"
     }
    ],
@@ -476,31 +506,37 @@
     {
      "word": "hobby",
      "pos": "n.",
+     "ipa": "hɒbi",
      "cn": "爱好"
     },
     {
      "word": "read",
      "pos": "v.",
+     "ipa": "riːd",
      "cn": "读"
     },
     {
      "word": "story",
      "pos": "n.",
+     "ipa": "stɔːi",
      "cn": "故事"
     },
     {
      "word": "hero",
      "pos": "n.",
+     "ipa": "ˈhɪərəʊ",
      "cn": "英雄"
     },
     {
      "word": "library",
      "pos": "n.",
+     "ipa": "ˈlaɪbrəri",
      "cn": "图书馆"
     },
     {
      "word": "favourite",
      "pos": "adj.",
+     "ipa": "ˈfeɪvərɪt",
      "cn": "最喜欢的"
     }
    ],
@@ -563,31 +599,37 @@
     {
      "word": "friend",
      "pos": "n.",
+     "ipa": "frend",
      "cn": "朋友"
     },
     {
      "word": "tall",
      "pos": "adj.",
+     "ipa": "tæl",
      "cn": "高的"
     },
     {
      "word": "kind",
      "pos": "adj.",
+     "ipa": "kɪnd",
      "cn": "善良的"
     },
     {
      "word": "same",
      "pos": "adj.",
+     "ipa": "seɪm",
      "cn": "相同的"
     },
     {
      "word": "help",
      "pos": "v.",
+     "ipa": "help",
      "cn": "帮助"
     },
     {
      "word": "together",
      "pos": "adv.",
+     "ipa": "təˈɡeðə",
      "cn": "一起"
     }
    ],
@@ -654,31 +696,37 @@
     {
      "word": "zoo",
      "pos": "n.",
+     "ipa": "zuː",
      "cn": "动物园"
     },
     {
      "word": "monkey",
      "pos": "n.",
+     "ipa": "ˈmʌŋki",
      "cn": "猴子"
     },
     {
      "word": "elephant",
      "pos": "n.",
+     "ipa": "ˈelɪfənt",
      "cn": "大象"
     },
     {
      "word": "picnic",
      "pos": "n.",
+     "ipa": "pɪknɪk",
      "cn": "野餐"
     },
     {
      "word": "photo",
      "pos": "n.",
+     "ipa": "ˈfəʊtəʊ",
      "cn": "照片"
     },
     {
      "word": "forget",
      "pos": "v.",
+     "ipa": "fəˈɡet",
      "cn": "忘记"
     }
    ],
@@ -745,31 +793,37 @@
     {
      "word": "birthday",
      "pos": "n.",
+     "ipa": "bɜːθdeɪ",
      "cn": "生日"
     },
     {
      "word": "party",
      "pos": "n.",
+     "ipa": "pɑːti",
      "cn": "聚会"
     },
     {
      "word": "cake",
      "pos": "n.",
+     "ipa": "keɪk",
      "cn": "蛋糕"
     },
     {
      "word": "present",
      "pos": "n.",
+     "ipa": "present",
      "cn": "礼物"
     },
     {
      "word": "sing",
      "pos": "v.",
+     "ipa": "sɪŋ",
      "cn": "唱歌"
     },
     {
      "word": "dance",
      "pos": "v.",
+     "ipa": "dæns",
      "cn": "跳舞"
     }
    ],
@@ -836,31 +890,37 @@
     {
      "word": "rain",
      "pos": "v./n.",
+     "ipa": "reɪn",
      "cn": "下雨；雨"
     },
     {
      "word": "umbrella",
      "pos": "n.",
+     "ipa": "ʌmbrelə",
      "cn": "雨伞"
     },
     {
      "word": "gate",
      "pos": "n.",
+     "ipa": "ɡeɪt",
      "cn": "大门"
     },
     {
      "word": "suddenly",
      "pos": "adv.",
+     "ipa": "sʌdenli",
      "cn": "突然"
     },
     {
      "word": "share",
      "pos": "v.",
+     "ipa": "ʃeə",
      "cn": "分享"
     },
     {
      "word": "thankful",
      "pos": "adj.",
+     "ipa": "θæŋkfl",
      "cn": "感激的"
     }
    ],
@@ -927,31 +987,37 @@
     {
      "word": "cook",
      "pos": "v.",
+     "ipa": "kuːk",
      "cn": "做饭"
     },
     {
      "word": "wash",
      "pos": "v.",
+     "ipa": "wɒʃ",
      "cn": "洗"
     },
     {
      "word": "meat",
      "pos": "n.",
+     "ipa": "miːt",
      "cn": "肉"
     },
     {
      "word": "fry",
      "pos": "v.",
+     "ipa": "fri",
      "cn": "煎，炸"
     },
     {
      "word": "dinner",
      "pos": "n.",
+     "ipa": "ˈdɪnə",
      "cn": "晚饭"
     },
     {
      "word": "enjoy",
      "pos": "v.",
+     "ipa": "endʒɔɪ",
      "cn": "享受"
     }
    ],
@@ -1018,31 +1084,37 @@
     {
      "word": "match",
      "pos": "n.",
+     "ipa": "mætʃ",
      "cn": "比赛"
     },
     {
      "word": "team",
      "pos": "n.",
+     "ipa": "tiːm",
      "cn": "队伍"
     },
     {
      "word": "goal",
      "pos": "n.",
+     "ipa": "ɡəʊl",
      "cn": "进球，球门"
     },
     {
      "word": "score",
      "pos": "v.",
+     "ipa": "skɔː",
      "cn": "得分"
     },
     {
      "word": "win",
      "pos": "v.",
+     "ipa": "wɪn",
      "cn": "赢"
     },
     {
      "word": "success",
      "pos": "n.",
+     "ipa": "səkˈses",
      "cn": "成功"
     }
    ],
@@ -1109,31 +1181,37 @@
     {
      "word": "visit",
      "pos": "v.",
+     "ipa": "vɪsɪt",
      "cn": "拜访"
     },
     {
      "word": "village",
      "pos": "n.",
+     "ipa": "ˈvɪlɪdʒ",
      "cn": "村庄"
     },
     {
      "word": "fresh",
      "pos": "adj.",
+     "ipa": "freʃ",
      "cn": "新鲜的"
     },
     {
      "word": "garden",
      "pos": "n.",
+     "ipa": "ˈɡɑːdn",
      "cn": "花园"
     },
     {
      "word": "plant",
      "pos": "n.",
+     "ipa": "plænt",
      "cn": "植物"
     },
     {
      "word": "star",
      "pos": "n.",
+     "ipa": "stɑː",
      "cn": "星星"
     }
    ],
@@ -1200,31 +1278,37 @@
     {
      "word": "lose",
      "pos": "v.",
+     "ipa": "luːz",
      "cn": "丢失"
     },
     {
      "word": "key",
      "pos": "n.",
+     "ipa": "kei",
      "cn": "钥匙"
     },
     {
      "word": "worried",
      "pos": "adj.",
+     "ipa": "wɒriːd",
      "cn": "担心的"
     },
     {
      "word": "remember",
      "pos": "v.",
+     "ipa": "remembə",
      "cn": "记得"
     },
     {
      "word": "park",
      "pos": "n.",
+     "ipa": "pɑːk",
      "cn": "公园"
     },
     {
      "word": "carefully",
      "pos": "adv.",
+     "ipa": "kɑːefʌli",
      "cn": "小心地"
     }
    ],
@@ -1291,31 +1375,37 @@
     {
      "word": "dream",
      "pos": "n.",
+     "ipa": "driːm",
      "cn": "梦想"
     },
     {
      "word": "future",
      "pos": "n.",
+     "ipa": "ˈfjuːtʃə",
      "cn": "未来"
     },
     {
      "word": "grow",
      "pos": "v.",
+     "ipa": "ɡrəʊ",
      "cn": "成长"
     },
     {
      "word": "science",
      "pos": "n.",
+     "ipa": "ˈsaɪəns",
      "cn": "科学"
     },
     {
      "word": "believe",
      "pos": "v.",
+     "ipa": "bɪˈliːv",
      "cn": "相信"
     },
     {
      "word": "success",
      "pos": "n.",
+     "ipa": "səkˈses",
      "cn": "成功"
     }
    ],
@@ -1382,31 +1472,37 @@
     {
      "word": "holiday",
      "pos": "n.",
+     "ipa": "hɒlɪdeɪ",
      "cn": "假期"
     },
     {
      "word": "plan",
      "pos": "n.",
+     "ipa": "plæn",
      "cn": "计划"
     },
     {
      "word": "travel",
      "pos": "v.",
+     "ipa": "trævəl",
      "cn": "旅行"
     },
     {
      "word": "visit",
      "pos": "v.",
+     "ipa": "vɪsɪt",
      "cn": "参观"
     },
     {
      "word": "hope",
      "pos": "v.",
+     "ipa": "həʊp",
      "cn": "希望"
     },
     {
      "word": "wonderful",
      "pos": "adj.",
+     "ipa": "ˈwʌndəfl",
      "cn": "精彩的"
     }
    ],
@@ -1473,31 +1569,37 @@
     {
      "word": "computer",
      "pos": "n.",
+     "ipa": "kɒmpʌtə",
      "cn": "电脑"
     },
     {
      "word": "change",
      "pos": "v.",
+     "ipa": "tʃæŋdʒ",
      "cn": "改变"
     },
     {
      "word": "Internet",
      "pos": "n.",
+     "ipa": "ɪntɜːnet",
      "cn": "互联网"
     },
     {
      "word": "information",
      "pos": "n.",
+     "ipa": "ɪnfɔːmæʃn",
      "cn": "信息"
     },
     {
      "word": "technology",
      "pos": "n.",
+     "ipa": "tetʃnɒlədʒi",
      "cn": "科技"
     },
     {
      "word": "proper",
      "pos": "adj.",
+     "ipa": "prɒpə",
      "cn": "恰当的"
     }
    ],
@@ -1564,31 +1666,37 @@
     {
      "word": "environment",
      "pos": "n.",
+     "ipa": "envɜːɒnment",
      "cn": "环境"
     },
     {
      "word": "river",
      "pos": "n.",
+     "ipa": "ˈrɪvə",
      "cn": "河流"
     },
     {
      "word": "dirty",
      "pos": "adj.",
+     "ipa": "dɜːti",
      "cn": "脏的"
     },
     {
      "word": "rubbish",
      "pos": "n.",
+     "ipa": "rʌbɪʃ",
      "cn": "垃圾"
     },
     {
      "word": "plant",
      "pos": "v.",
+     "ipa": "plænt",
      "cn": "种植"
     },
     {
      "word": "protect",
      "pos": "v.",
+     "ipa": "prɒtekt",
      "cn": "保护"
     }
    ],
@@ -1655,31 +1763,37 @@
     {
      "word": "letter",
      "pos": "n.",
+     "ipa": "letə",
      "cn": "信"
     },
     {
      "word": "happen",
      "pos": "v.",
+     "ipa": "hæpən",
      "cn": "发生"
     },
     {
      "word": "club",
      "pos": "n.",
+     "ipa": "klʌb",
      "cn": "社团"
     },
     {
      "word": "improve",
      "pos": "v.",
+     "ipa": "ɪmprəʊv",
      "cn": "提高"
     },
     {
      "word": "show",
      "pos": "n.",
+     "ipa": "ʃəʊ",
      "cn": "演出"
     },
     {
      "word": "join",
      "pos": "v.",
+     "ipa": "dʒɔɪn",
      "cn": "加入"
     }
    ],
@@ -1746,31 +1860,37 @@
     {
      "word": "health",
      "pos": "n.",
+     "ipa": "helθ",
      "cn": "健康"
     },
     {
      "word": "sleep",
      "pos": "n./v.",
+     "ipa": "sliːp",
      "cn": "睡眠；睡"
     },
     {
      "word": "exercise",
      "pos": "n.",
+     "ipa": "ˈeksəsaɪz",
      "cn": "锻炼"
     },
     {
      "word": "choice",
      "pos": "n.",
+     "ipa": "tʃɔɪs",
      "cn": "选择"
     },
     {
      "word": "illness",
      "pos": "n.",
+     "ipa": "ɪlnes",
      "cn": "疾病"
     },
     {
      "word": "regularly",
      "pos": "adv.",
+     "ipa": "reɡʌlɑːli",
      "cn": "有规律地"
     }
    ],
@@ -1837,31 +1957,37 @@
     {
      "word": "autumn",
      "pos": "n.",
+     "ipa": "ɔːtʌmn",
      "cn": "秋天"
     },
     {
      "word": "leaf",
      "pos": "n.",
+     "ipa": "liːf",
      "cn": "叶子"
     },
     {
      "word": "harvest",
      "pos": "n.",
+     "ipa": "hɑːvest",
      "cn": "收获"
     },
     {
      "word": "crop",
      "pos": "n.",
+     "ipa": "krɒp",
      "cn": "庄稼"
     },
     {
      "word": "field",
      "pos": "n.",
+     "ipa": "fiːld",
      "cn": "田野"
     },
     {
      "word": "joy",
      "pos": "n.",
+     "ipa": "dʒɔɪ",
      "cn": "喜悦"
     }
    ],
@@ -1928,31 +2054,37 @@
     {
      "word": "festival",
      "pos": "n.",
+     "ipa": "ˈfestɪvl",
      "cn": "节日"
     },
     {
      "word": "celebrate",
      "pos": "v.",
+     "ipa": "selebreɪt",
      "cn": "庆祝"
     },
     {
      "word": "decorate",
      "pos": "v.",
+     "ipa": "dekɔːeɪt",
      "cn": "装饰"
     },
     {
      "word": "couplet",
      "pos": "n.",
+     "ipa": "kaʊplet",
      "cn": "对联"
     },
     {
      "word": "firework",
      "pos": "n.",
+     "ipa": "fɜːjuːɔːk",
      "cn": "烟花"
     },
     {
      "word": "midnight",
      "pos": "n.",
+     "ipa": "mɪdnaɪt",
      "cn": "午夜"
     }
    ],
@@ -2019,31 +2151,37 @@
     {
      "word": "scientist",
      "pos": "n.",
+     "ipa": "ssiːntɪst",
      "cn": "科学家"
     },
     {
      "word": "famous",
      "pos": "adj.",
+     "ipa": "ˈfeɪməs",
      "cn": "著名的"
     },
     {
      "word": "rice",
      "pos": "n.",
+     "ipa": "raɪs",
      "cn": "水稻，米饭"
     },
     {
      "word": "grain",
      "pos": "n.",
+     "ipa": "ɡreɪn",
      "cn": "谷物"
     },
     {
      "word": "feed",
      "pos": "v.",
+     "ipa": "fiːd",
      "cn": "喂养"
     },
     {
      "word": "remember",
      "pos": "v.",
+     "ipa": "remembə",
      "cn": "记住"
     }
    ],
@@ -2110,31 +2248,37 @@
     {
      "word": "water",
      "pos": "n.",
+     "ipa": "ˈwɔːtə",
      "cn": "水"
     },
     {
      "word": "resource",
      "pos": "n.",
+     "ipa": "resaʊrs",
      "cn": "资源"
     },
     {
      "word": "waste",
      "pos": "v.",
+     "ipa": "wæst",
      "cn": "浪费"
     },
     {
      "word": "save",
      "pos": "v.",
+     "ipa": "seɪv",
      "cn": "节约"
     },
     {
      "word": "tap",
      "pos": "n.",
+     "ipa": "tæp",
      "cn": "水龙头"
     },
     {
      "word": "collect",
      "pos": "v.",
+     "ipa": "kɒlekt",
      "cn": "收集"
     }
    ],
@@ -2201,31 +2345,37 @@
     {
      "word": "habit",
      "pos": "n.",
+     "ipa": "ˈhæbɪt",
      "cn": "习惯"
     },
     {
      "word": "benefit",
      "pos": "v.",
+     "ipa": "benefɪt",
      "cn": "使受益"
     },
     {
      "word": "knowledge",
      "pos": "n.",
+     "ipa": "ˈnɒlɪdʒ",
      "cn": "知识"
     },
     {
      "word": "wise",
      "pos": "adj.",
+     "ipa": "waɪs",
      "cn": "智慧的"
     },
     {
      "word": "understand",
      "pos": "v.",
+     "ipa": "ˌʌndəˈstænd",
      "cn": "理解"
     },
     {
      "word": "lonely",
      "pos": "adj.",
+     "ipa": "lɒneli",
      "cn": "孤独的"
     }
    ],
@@ -2292,31 +2442,37 @@
     {
      "word": "volunteer",
      "pos": "n.",
+     "ipa": "vɒlʌntiːə",
      "cn": "志愿者"
     },
     {
      "word": "alone",
      "pos": "adv.",
+     "ipa": "æləʊn",
      "cn": "独自"
     },
     {
      "word": "blind",
      "pos": "adj.",
+     "ipa": "blɪnd",
      "cn": "失明的"
     },
     {
      "word": "move",
      "pos": "v.",
+     "ipa": "muːv",
      "cn": "感动"
     },
     {
      "word": "smile",
      "pos": "n.",
+     "ipa": "smaɪl",
      "cn": "微笑"
     },
     {
      "word": "future",
      "pos": "n.",
+     "ipa": "ˈfjuːtʃə",
      "cn": "未来"
     }
    ],
@@ -2383,31 +2539,37 @@
     {
      "word": "thirsty",
      "pos": "adj.",
+     "ipa": "θɜːsti",
      "cn": "口渴的"
     },
     {
      "word": "crow",
      "pos": "n.",
+     "ipa": "krəʊ",
      "cn": "乌鸦"
     },
     {
      "word": "jug",
      "pos": "n.",
+     "ipa": "dʒʌɡ",
      "cn": "罐子"
     },
     {
      "word": "reach",
      "pos": "v.",
+     "ipa": "riːtʃ",
      "cn": "够到"
     },
     {
      "word": "stone",
      "pos": "n.",
+     "ipa": "stəʊn",
      "cn": "石头"
     },
     {
      "word": "wisdom",
      "pos": "n.",
+     "ipa": "wɪsdɒm",
      "cn": "智慧"
     }
    ],
@@ -2474,31 +2636,37 @@
     {
      "word": "difficulty",
      "pos": "n.",
+     "ipa": "dɪfɪkʌlti",
      "cn": "困难"
     },
     {
      "word": "deal",
      "pos": "v.",
+     "ipa": "diːl",
      "cn": "处理"
     },
     {
      "word": "fail",
      "pos": "v.",
+     "ipa": "feɪl",
      "cn": "失败"
     },
     {
      "word": "invent",
      "pos": "v.",
+     "ipa": "ɪnvent",
      "cn": "发明"
     },
     {
      "word": "failure",
      "pos": "n.",
+     "ipa": "feɪlɜː",
      "cn": "失败"
     },
     {
      "word": "win",
      "pos": "v.",
+     "ipa": "wɪn",
      "cn": "获胜"
     }
    ],
