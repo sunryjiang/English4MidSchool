@@ -1,0 +1,8 @@
+{
+  "appId": "com.chuzhong.yingyu",
+  "appName": "初中英语提升",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}

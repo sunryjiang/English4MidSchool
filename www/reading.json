@@ -1,0 +1,2525 @@
+{
+ "items": [
+  {
+   "day": 1,
+   "week": 1,
+   "level": 1,
+   "title": "My Family",
+   "theme": "人物 · 家庭",
+   "wordCount": 39,
+   "sentences": [
+    {
+     "en": "I have a happy family.",
+     "cn": "我有一个幸福的家庭。"
+    },
+    {
+     "en": "There are four people in my family.",
+     "cn": "我家有四口人。"
+    },
+    {
+     "en": "My father is a doctor.",
+     "cn": "我爸爸是一名医生。"
+    },
+    {
+     "en": "My mother is a teacher.",
+     "cn": "我妈妈是一名教师。"
+    },
+    {
+     "en": "I have a little sister.",
+     "cn": "我有一个小妹妹。"
+    },
+    {
+     "en": "She is only five years old.",
+     "cn": "她只有五岁。"
+    },
+    {
+     "en": "We love each other very much.",
+     "cn": "我们彼此非常相爱。"
+    }
+   ],
+   "words": [
+    {
+     "word": "family",
+     "pos": "n.",
+     "cn": "家庭"
+    },
+    {
+     "word": "father",
+     "pos": "n.",
+     "cn": "父亲"
+    },
+    {
+     "word": "mother",
+     "pos": "n.",
+     "cn": "母亲"
+    },
+    {
+     "word": "doctor",
+     "pos": "n.",
+     "cn": "医生"
+    },
+    {
+     "word": "teacher",
+     "pos": "n.",
+     "cn": "教师"
+    },
+    {
+     "word": "sister",
+     "pos": "n.",
+     "cn": "姐妹"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How many people are there in the family? ______ (数字英文).",
+     "a": "Four",
+     "tip": "There are four people."
+    },
+    {
+     "q": "What is the father? He is a ______.",
+     "a": "doctor",
+     "tip": "My father is a doctor."
+    },
+    {
+     "q": "How old is the sister? She is ______ years old.",
+     "a": "five",
+     "tip": "only five years old"
+    }
+   ]
+  },
+  {
+   "day": 2,
+   "week": 1,
+   "level": 1,
+   "title": "My School Day",
+   "theme": "学校 · 时间",
+   "wordCount": 48,
+   "sentences": [
+    {
+     "en": "I get up at six thirty every morning.",
+     "cn": "我每天早上六点半起床。"
+    },
+    {
+     "en": "I go to school by bike.",
+     "cn": "我骑自行车去上学。"
+    },
+    {
+     "en": "Classes begin at eight o'clock.",
+     "cn": "八点开始上课。"
+    },
+    {
+     "en": "I like English and music best.",
+     "cn": "我最喜欢英语和音乐。"
+    },
+    {
+     "en": "At noon I have lunch at school.",
+     "cn": "中午我在学校吃午饭。"
+    },
+    {
+     "en": "School is over at four in the afternoon.",
+     "cn": "下午四点放学。"
+    },
+    {
+     "en": "Then I go home and do my homework.",
+     "cn": "然后我回家做作业。"
+    }
+   ],
+   "words": [
+    {
+     "word": "school",
+     "pos": "n.",
+     "cn": "学校"
+    },
+    {
+     "word": "morning",
+     "pos": "n.",
+     "cn": "早晨"
+    },
+    {
+     "word": "class",
+     "pos": "n.",
+     "cn": "课"
+    },
+    {
+     "word": "lunch",
+     "pos": "n.",
+     "cn": "午饭"
+    },
+    {
+     "word": "homework",
+     "pos": "n.",
+     "cn": "作业"
+    },
+    {
+     "word": "bike",
+     "pos": "n.",
+     "cn": "自行车"
+    }
+   ],
+   "questions": [
+    {
+     "q": "When does he get up? At six ______.",
+     "a": "thirty",
+     "tip": "at six thirty"
+    },
+    {
+     "q": "How does he go to school? By ______.",
+     "a": "bike",
+     "tip": "go to school by bike"
+    },
+    {
+     "q": "What subject does he like best? ______ and music.",
+     "a": "English",
+     "tip": "I like English and music best."
+    }
+   ]
+  },
+  {
+   "day": 3,
+   "week": 1,
+   "level": 1,
+   "title": "Healthy Food",
+   "theme": "食物 · 健康",
+   "wordCount": 47,
+   "sentences": [
+    {
+     "en": "I like healthy food very much.",
+     "cn": "我非常喜欢健康食品。"
+    },
+    {
+     "en": "For breakfast, I eat eggs and bread.",
+     "cn": "早餐我吃鸡蛋和面包。"
+    },
+    {
+     "en": "I drink a glass of milk every day.",
+     "cn": "我每天喝一杯牛奶。"
+    },
+    {
+     "en": "Fruit and vegetables are good for us.",
+     "cn": "水果和蔬菜对我们有好处。"
+    },
+    {
+     "en": "I don't eat too much junk food.",
+     "cn": "我不吃太多垃圾食品。"
+    },
+    {
+     "en": "Water is better than cola.",
+     "cn": "水比可乐更好。"
+    },
+    {
+     "en": "Good food keeps us healthy and strong.",
+     "cn": "好的食物让我们健康强壮。"
+    }
+   ],
+   "words": [
+    {
+     "word": "healthy",
+     "pos": "adj.",
+     "cn": "健康的"
+    },
+    {
+     "word": "breakfast",
+     "pos": "n.",
+     "cn": "早餐"
+    },
+    {
+     "word": "milk",
+     "pos": "n.",
+     "cn": "牛奶"
+    },
+    {
+     "word": "fruit",
+     "pos": "n.",
+     "cn": "水果"
+    },
+    {
+     "word": "vegetable",
+     "pos": "n.",
+     "cn": "蔬菜"
+    },
+    {
+     "word": "strong",
+     "pos": "adj.",
+     "cn": "强壮的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does he eat for breakfast? Eggs and ______.",
+     "a": "bread",
+     "tip": "eggs and bread"
+    },
+    {
+     "q": "What is good for us? Fruit and ______.",
+     "a": "vegetables",
+     "tip": "Fruit and vegetables are good for us."
+    },
+    {
+     "q": "What is better than cola? ______.",
+     "a": "Water",
+     "tip": "Water is better than cola."
+    }
+   ]
+  },
+  {
+   "day": 4,
+   "week": 1,
+   "level": 1,
+   "title": "My Pet Dog",
+   "theme": "动物",
+   "wordCount": 41,
+   "sentences": [
+    {
+     "en": "I have a lovely pet dog.",
+     "cn": "我有一只可爱的宠物狗。"
+    },
+    {
+     "en": "Its name is Lucky.",
+     "cn": "它的名字叫 Lucky。"
+    },
+    {
+     "en": "Lucky has short brown hair.",
+     "cn": "Lucky 有一身棕色的短毛。"
+    },
+    {
+     "en": "It likes running and playing with a ball.",
+     "cn": "它喜欢跑步和玩球。"
+    },
+    {
+     "en": "Every evening I take it for a walk.",
+     "cn": "每天傍晚我带它去散步。"
+    },
+    {
+     "en": "Lucky is my good friend.",
+     "cn": "Lucky 是我的好朋友。"
+    },
+    {
+     "en": "I love it very much.",
+     "cn": "我非常爱它。"
+    }
+   ],
+   "words": [
+    {
+     "word": "pet",
+     "pos": "n.",
+     "cn": "宠物"
+    },
+    {
+     "word": "dog",
+     "pos": "n.",
+     "cn": "狗"
+    },
+    {
+     "word": "brown",
+     "pos": "adj.",
+     "cn": "棕色的"
+    },
+    {
+     "word": "ball",
+     "pos": "n.",
+     "cn": "球"
+    },
+    {
+     "word": "evening",
+     "pos": "n.",
+     "cn": "傍晚"
+    },
+    {
+     "word": "walk",
+     "pos": "n./v.",
+     "cn": "散步；走"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the dog's name? ______.",
+     "a": "Lucky",
+     "tip": "Its name is Lucky."
+    },
+    {
+     "q": "What colour is its hair? ______.",
+     "a": "brown",
+     "tip": "short brown hair"
+    },
+    {
+     "q": "When does he walk the dog? Every ______.",
+     "a": "evening",
+     "tip": "Every evening I take it for a walk."
+    }
+   ]
+  },
+  {
+   "day": 5,
+   "week": 1,
+   "level": 1,
+   "title": "The Weather",
+   "theme": "自然 · 天气",
+   "wordCount": 47,
+   "sentences": [
+    {
+     "en": "The weather is different in four seasons.",
+     "cn": "四季的天气各不相同。"
+    },
+    {
+     "en": "In spring, it is warm and windy.",
+     "cn": "春天温暖多风。"
+    },
+    {
+     "en": "In summer, it is hot and sunny.",
+     "cn": "夏天炎热晴朗。"
+    },
+    {
+     "en": "In autumn, it is cool and dry.",
+     "cn": "秋天凉爽干燥。"
+    },
+    {
+     "en": "In winter, it is cold and it often snows.",
+     "cn": "冬天寒冷，经常下雪。"
+    },
+    {
+     "en": "I like spring best.",
+     "cn": "我最喜欢春天。"
+    },
+    {
+     "en": "The flowers are beautiful in spring.",
+     "cn": "春天花儿很美。"
+    }
+   ],
+   "words": [
+    {
+     "word": "weather",
+     "pos": "n.",
+     "cn": "天气"
+    },
+    {
+     "word": "season",
+     "pos": "n.",
+     "cn": "季节"
+    },
+    {
+     "word": "spring",
+     "pos": "n.",
+     "cn": "春天"
+    },
+    {
+     "word": "summer",
+     "pos": "n.",
+     "cn": "夏天"
+    },
+    {
+     "word": "winter",
+     "pos": "n.",
+     "cn": "冬天"
+    },
+    {
+     "word": "snow",
+     "pos": "v./n.",
+     "cn": "下雪；雪"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is the weather in summer? Hot and ______.",
+     "a": "sunny",
+     "tip": "hot and sunny"
+    },
+    {
+     "q": "What season does he like best? ______.",
+     "a": "spring",
+     "tip": "I like spring best."
+    },
+    {
+     "q": "What often happens in winter? It often ______.",
+     "a": "snows",
+     "tip": "it often snows"
+    }
+   ]
+  },
+  {
+   "day": 6,
+   "week": 1,
+   "level": 1,
+   "title": "My Hobby",
+   "theme": "兴趣爱好",
+   "wordCount": 47,
+   "sentences": [
+    {
+     "en": "My hobby is reading books.",
+     "cn": "我的爱好是读书。"
+    },
+    {
+     "en": "I read for about an hour every day.",
+     "cn": "我每天读大约一个小时。"
+    },
+    {
+     "en": "I like stories about animals and heroes.",
+     "cn": "我喜欢关于动物和英雄的故事。"
+    },
+    {
+     "en": "Books teach me a lot of new things.",
+     "cn": "书教会我许多新知识。"
+    },
+    {
+     "en": "On weekends, I often go to the library.",
+     "cn": "周末我常去图书馆。"
+    },
+    {
+     "en": "Reading makes me happy.",
+     "cn": "阅读让我快乐。"
+    },
+    {
+     "en": "It is my favourite thing to do.",
+     "cn": "这是我最喜欢做的事。"
+    }
+   ],
+   "words": [
+    {
+     "word": "hobby",
+     "pos": "n.",
+     "cn": "爱好"
+    },
+    {
+     "word": "read",
+     "pos": "v.",
+     "cn": "读"
+    },
+    {
+     "word": "story",
+     "pos": "n.",
+     "cn": "故事"
+    },
+    {
+     "word": "hero",
+     "pos": "n.",
+     "cn": "英雄"
+    },
+    {
+     "word": "library",
+     "pos": "n.",
+     "cn": "图书馆"
+    },
+    {
+     "word": "favourite",
+     "pos": "adj.",
+     "cn": "最喜欢的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is his hobby? ______ books.",
+     "a": "Reading",
+     "tip": "My hobby is reading books."
+    },
+    {
+     "q": "How long does he read every day? About an ______.",
+     "a": "hour",
+     "tip": "about an hour every day"
+    },
+    {
+     "q": "Where does he go on weekends? To the ______.",
+     "a": "library",
+     "tip": "go to the library"
+    }
+   ]
+  },
+  {
+   "day": 7,
+   "week": 1,
+   "level": 1,
+   "title": "My Best Friend",
+   "theme": "人物 · 朋友",
+   "wordCount": 48,
+   "sentences": [
+    {
+     "en": "Ann is my best friend.",
+     "cn": "Ann 是我最好的朋友。"
+    },
+    {
+     "en": "She is a tall and kind girl.",
+     "cn": "她是个高个子、善良的女孩。"
+    },
+    {
+     "en": "We are in the same class.",
+     "cn": "我们在同一个班。"
+    },
+    {
+     "en": "She is good at maths and often helps me.",
+     "cn": "她数学很好，常帮助我。"
+    },
+    {
+     "en": "We play games together after school.",
+     "cn": "放学后我们一起玩游戏。"
+    },
+    {
+     "en": "We share our happiness and problems.",
+     "cn": "我们分享快乐与烦恼。"
+    },
+    {
+     "en": "I am glad to have such a good friend.",
+     "cn": "有这样一个好朋友我很高兴。"
+    }
+   ],
+   "words": [
+    {
+     "word": "friend",
+     "pos": "n.",
+     "cn": "朋友"
+    },
+    {
+     "word": "tall",
+     "pos": "adj.",
+     "cn": "高的"
+    },
+    {
+     "word": "kind",
+     "pos": "adj.",
+     "cn": "善良的"
+    },
+    {
+     "word": "same",
+     "pos": "adj.",
+     "cn": "相同的"
+    },
+    {
+     "word": "help",
+     "pos": "v.",
+     "cn": "帮助"
+    },
+    {
+     "word": "together",
+     "pos": "adv.",
+     "cn": "一起"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who is the writer's best friend? ______.",
+     "a": "Ann",
+     "tip": "Ann is my best friend."
+    },
+    {
+     "q": "What is Ann good at? ______.",
+     "a": "maths",
+     "tip": "She is good at maths"
+    },
+    {
+     "q": "When do they play games? ______ school.",
+     "a": "after",
+     "tip": "play games together after school"
+    }
+   ]
+  },
+  {
+   "day": 8,
+   "week": 2,
+   "level": 2,
+   "title": "A Trip to the Zoo",
+   "theme": "过去时 · 出行",
+   "wordCount": 60,
+   "sentences": [
+    {
+     "en": "Last Sunday my family went to the zoo.",
+     "cn": "上周日我们全家去了动物园。"
+    },
+    {
+     "en": "The weather was fine and warm.",
+     "cn": "天气晴朗温暖。"
+    },
+    {
+     "en": "We saw many kinds of animals there.",
+     "cn": "我们在那里看到了许多种动物。"
+    },
+    {
+     "en": "The monkeys were funny and clever.",
+     "cn": "猴子们又有趣又聪明。"
+    },
+    {
+     "en": "A big elephant ate a lot of bananas.",
+     "cn": "一头大象吃了很多香蕉。"
+    },
+    {
+     "en": "At noon we had a picnic under a tree.",
+     "cn": "中午我们在树下野餐。"
+    },
+    {
+     "en": "We took many photos and had a great time.",
+     "cn": "我们拍了很多照片，玩得很开心。"
+    },
+    {
+     "en": "I will never forget that happy day.",
+     "cn": "我永远不会忘记那快乐的一天。"
+    }
+   ],
+   "words": [
+    {
+     "word": "zoo",
+     "pos": "n.",
+     "cn": "动物园"
+    },
+    {
+     "word": "monkey",
+     "pos": "n.",
+     "cn": "猴子"
+    },
+    {
+     "word": "elephant",
+     "pos": "n.",
+     "cn": "大象"
+    },
+    {
+     "word": "picnic",
+     "pos": "n.",
+     "cn": "野餐"
+    },
+    {
+     "word": "photo",
+     "pos": "n.",
+     "cn": "照片"
+    },
+    {
+     "word": "forget",
+     "pos": "v.",
+     "cn": "忘记"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where did the family go? To the ______.",
+     "a": "zoo",
+     "tip": "went to the zoo"
+    },
+    {
+     "q": "How was the weather? Fine and ______.",
+     "a": "warm",
+     "tip": "The weather was fine and warm."
+    },
+    {
+     "q": "What did the elephant eat? A lot of ______.",
+     "a": "bananas",
+     "tip": "ate a lot of bananas"
+    }
+   ]
+  },
+  {
+   "day": 9,
+   "week": 2,
+   "level": 2,
+   "title": "My Birthday Party",
+   "theme": "过去时 · 生日",
+   "wordCount": 54,
+   "sentences": [
+    {
+     "en": "Yesterday was my thirteenth birthday.",
+     "cn": "昨天是我十三岁生日。"
+    },
+    {
+     "en": "My parents held a party for me.",
+     "cn": "父母为我办了一个聚会。"
+    },
+    {
+     "en": "Many of my friends came to my home.",
+     "cn": "我的许多朋友来到我家。"
+    },
+    {
+     "en": "My mother made a big chocolate cake.",
+     "cn": "妈妈做了一个大巧克力蛋糕。"
+    },
+    {
+     "en": "We sang, danced and played games.",
+     "cn": "我们唱歌、跳舞、做游戏。"
+    },
+    {
+     "en": "I got a lot of nice presents.",
+     "cn": "我收到了许多漂亮的礼物。"
+    },
+    {
+     "en": "Everyone was very happy that evening.",
+     "cn": "那天晚上大家都很开心。"
+    },
+    {
+     "en": "It was the best birthday in my life.",
+     "cn": "那是我一生中最棒的生日。"
+    }
+   ],
+   "words": [
+    {
+     "word": "birthday",
+     "pos": "n.",
+     "cn": "生日"
+    },
+    {
+     "word": "party",
+     "pos": "n.",
+     "cn": "聚会"
+    },
+    {
+     "word": "cake",
+     "pos": "n.",
+     "cn": "蛋糕"
+    },
+    {
+     "word": "present",
+     "pos": "n.",
+     "cn": "礼物"
+    },
+    {
+     "word": "sing",
+     "pos": "v.",
+     "cn": "唱歌"
+    },
+    {
+     "word": "dance",
+     "pos": "v.",
+     "cn": "跳舞"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How old was the writer? ______ (数字).",
+     "a": "Thirteen",
+     "tip": "my thirteenth birthday"
+    },
+    {
+     "q": "What did the mother make? A chocolate ______.",
+     "a": "cake",
+     "tip": "made a big chocolate cake"
+    },
+    {
+     "q": "How did everyone feel? Very ______.",
+     "a": "happy",
+     "tip": "Everyone was very happy"
+    }
+   ]
+  },
+  {
+   "day": 10,
+   "week": 2,
+   "level": 2,
+   "title": "A Rainy Day",
+   "theme": "过去时 · 天气",
+   "wordCount": 53,
+   "sentences": [
+    {
+     "en": "It rained heavily last Friday.",
+     "cn": "上周五雨下得很大。"
+    },
+    {
+     "en": "I forgot to bring my umbrella.",
+     "cn": "我忘了带伞。"
+    },
+    {
+     "en": "After school, I had to wait at the gate.",
+     "cn": "放学后，我不得不在校门口等着。"
+    },
+    {
+     "en": "Suddenly, my friend Tom came to me.",
+     "cn": "突然，我的朋友 Tom 走过来。"
+    },
+    {
+     "en": "He shared his umbrella with me.",
+     "cn": "他和我一起打伞。"
+    },
+    {
+     "en": "We walked home together in the rain.",
+     "cn": "我们在雨中一起走回家。"
+    },
+    {
+     "en": "I was wet but very thankful.",
+     "cn": "我淋湿了，但很感激。"
+    },
+    {
+     "en": "A good friend helps you in trouble.",
+     "cn": "好朋友会在你困难时帮助你。"
+    }
+   ],
+   "words": [
+    {
+     "word": "rain",
+     "pos": "v./n.",
+     "cn": "下雨；雨"
+    },
+    {
+     "word": "umbrella",
+     "pos": "n.",
+     "cn": "雨伞"
+    },
+    {
+     "word": "gate",
+     "pos": "n.",
+     "cn": "大门"
+    },
+    {
+     "word": "suddenly",
+     "pos": "adv.",
+     "cn": "突然"
+    },
+    {
+     "word": "share",
+     "pos": "v.",
+     "cn": "分享"
+    },
+    {
+     "word": "thankful",
+     "pos": "adj.",
+     "cn": "感激的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How was the rain? It rained ______.",
+     "a": "heavily",
+     "tip": "It rained heavily"
+    },
+    {
+     "q": "What did the writer forget? His ______.",
+     "a": "umbrella",
+     "tip": "forgot to bring my umbrella"
+    },
+    {
+     "q": "Who helped him? His friend ______.",
+     "a": "Tom",
+     "tip": "my friend Tom came to me"
+    }
+   ]
+  },
+  {
+   "day": 11,
+   "week": 2,
+   "level": 2,
+   "title": "Cooking with Mother",
+   "theme": "过去时 · 家务",
+   "wordCount": 56,
+   "sentences": [
+    {
+     "en": "Last weekend I helped my mother cook.",
+     "cn": "上周末我帮妈妈做饭。"
+    },
+    {
+     "en": "First, we washed the vegetables carefully.",
+     "cn": "首先，我们仔细地洗菜。"
+    },
+    {
+     "en": "Then my mother cut the meat into pieces.",
+     "cn": "然后妈妈把肉切成块。"
+    },
+    {
+     "en": "I was learning to fry eggs.",
+     "cn": "我在学煎鸡蛋。"
+    },
+    {
+     "en": "At first the eggs were a little burnt.",
+     "cn": "起初鸡蛋有点糊了。"
+    },
+    {
+     "en": "But I tried again and did better.",
+     "cn": "但我又试了一次，做得好多了。"
+    },
+    {
+     "en": "We enjoyed the dinner we made.",
+     "cn": "我们享用了自己做的晚饭。"
+    },
+    {
+     "en": "Cooking is not as easy as I thought.",
+     "cn": "做饭没有我想的那么容易。"
+    }
+   ],
+   "words": [
+    {
+     "word": "cook",
+     "pos": "v.",
+     "cn": "做饭"
+    },
+    {
+     "word": "wash",
+     "pos": "v.",
+     "cn": "洗"
+    },
+    {
+     "word": "meat",
+     "pos": "n.",
+     "cn": "肉"
+    },
+    {
+     "word": "fry",
+     "pos": "v.",
+     "cn": "煎，炸"
+    },
+    {
+     "word": "dinner",
+     "pos": "n.",
+     "cn": "晚饭"
+    },
+    {
+     "word": "enjoy",
+     "pos": "v.",
+     "cn": "享受"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who did the writer help? His ______.",
+     "a": "mother",
+     "tip": "helped my mother cook"
+    },
+    {
+     "q": "What did the writer learn to do? ______ eggs.",
+     "a": "fry",
+     "tip": "learning to fry eggs"
+    },
+    {
+     "q": "Were the first eggs good? No, they were a little ______.",
+     "a": "burnt",
+     "tip": "the eggs were a little burnt"
+    }
+   ]
+  },
+  {
+   "day": 12,
+   "week": 2,
+   "level": 2,
+   "title": "The Football Match",
+   "theme": "过去时 · 体育",
+   "wordCount": 57,
+   "sentences": [
+    {
+     "en": "Our class had a football match yesterday.",
+     "cn": "昨天我们班有一场足球赛。"
+    },
+    {
+     "en": "We played against Class Three.",
+     "cn": "我们对阵三班。"
+    },
+    {
+     "en": "The other team was really strong.",
+     "cn": "对方队伍很强。"
+    },
+    {
+     "en": "In the first half, we lost two goals.",
+     "cn": "上半场我们丢了两个球。"
+    },
+    {
+     "en": "Our teacher told us not to give up.",
+     "cn": "老师叫我们不要放弃。"
+    },
+    {
+     "en": "In the second half, we scored three times.",
+     "cn": "下半场我们进了三个球。"
+    },
+    {
+     "en": "At last, we won the game three to two.",
+     "cn": "最后我们以三比二赢得了比赛。"
+    },
+    {
+     "en": "Team work made our success possible.",
+     "cn": "团队合作让我们取得了成功。"
+    }
+   ],
+   "words": [
+    {
+     "word": "match",
+     "pos": "n.",
+     "cn": "比赛"
+    },
+    {
+     "word": "team",
+     "pos": "n.",
+     "cn": "队伍"
+    },
+    {
+     "word": "goal",
+     "pos": "n.",
+     "cn": "进球，球门"
+    },
+    {
+     "word": "score",
+     "pos": "v.",
+     "cn": "得分"
+    },
+    {
+     "word": "win",
+     "pos": "v.",
+     "cn": "赢"
+    },
+    {
+     "word": "success",
+     "pos": "n.",
+     "cn": "成功"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who did they play against? Class ______.",
+     "a": "Three",
+     "tip": "played against Class Three"
+    },
+    {
+     "q": "What did the teacher say? Not to ______ up.",
+     "a": "give",
+     "tip": "not to give up"
+    },
+    {
+     "q": "What was the final score? Three to ______.",
+     "a": "two",
+     "tip": "won the game three to two"
+    }
+   ]
+  },
+  {
+   "day": 13,
+   "week": 2,
+   "level": 2,
+   "title": "A Visit to Grandpa",
+   "theme": "过去时 · 家庭",
+   "wordCount": 51,
+   "sentences": [
+    {
+     "en": "During the holiday, I visited my grandpa.",
+     "cn": "假期里，我去看望了爷爷。"
+    },
+    {
+     "en": "He lives in a small village.",
+     "cn": "他住在一个小村庄里。"
+    },
+    {
+     "en": "The air there was fresh and clean.",
+     "cn": "那里的空气清新洁净。"
+    },
+    {
+     "en": "Grandpa was working in his garden.",
+     "cn": "爷爷正在他的园子里干活。"
+    },
+    {
+     "en": "He grew many kinds of vegetables.",
+     "cn": "他种了很多种蔬菜。"
+    },
+    {
+     "en": "I helped him water the plants.",
+     "cn": "我帮他给植物浇水。"
+    },
+    {
+     "en": "In the evening, we watched the stars.",
+     "cn": "晚上，我们一起看星星。"
+    },
+    {
+     "en": "Life in the countryside is peaceful.",
+     "cn": "乡村生活很宁静。"
+    }
+   ],
+   "words": [
+    {
+     "word": "visit",
+     "pos": "v.",
+     "cn": "拜访"
+    },
+    {
+     "word": "village",
+     "pos": "n.",
+     "cn": "村庄"
+    },
+    {
+     "word": "fresh",
+     "pos": "adj.",
+     "cn": "新鲜的"
+    },
+    {
+     "word": "garden",
+     "pos": "n.",
+     "cn": "花园"
+    },
+    {
+     "word": "plant",
+     "pos": "n.",
+     "cn": "植物"
+    },
+    {
+     "word": "star",
+     "pos": "n.",
+     "cn": "星星"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Where does grandpa live? In a small ______.",
+     "a": "village",
+     "tip": "lives in a small village"
+    },
+    {
+     "q": "How was the air there? Fresh and ______.",
+     "a": "clean",
+     "tip": "fresh and clean"
+    },
+    {
+     "q": "What did the writer help with? ______ the plants.",
+     "a": "water",
+     "tip": "helped him water the plants"
+    }
+   ]
+  },
+  {
+   "day": 14,
+   "week": 2,
+   "level": 2,
+   "title": "The Lost Key",
+   "theme": "过去时 · 生活",
+   "wordCount": 57,
+   "sentences": [
+    {
+     "en": "Yesterday afternoon I lost my key.",
+     "cn": "昨天下午我丢了钥匙。"
+    },
+    {
+     "en": "I looked for it everywhere but failed.",
+     "cn": "我到处找都没找到。"
+    },
+    {
+     "en": "I was worried because I couldn't get in.",
+     "cn": "我很着急，因为进不了门。"
+    },
+    {
+     "en": "Then I remembered my morning walk.",
+     "cn": "然后我想起了早上的散步。"
+    },
+    {
+     "en": "I went back to the park to look.",
+     "cn": "我回到公园去找。"
+    },
+    {
+     "en": "Luckily, the key was under a bench.",
+     "cn": "幸运的是，钥匙就在长椅下面。"
+    },
+    {
+     "en": "I felt so happy to find it again.",
+     "cn": "重新找到它我太高兴了。"
+    },
+    {
+     "en": "Now I always keep my key carefully.",
+     "cn": "现在我总是小心保管钥匙。"
+    }
+   ],
+   "words": [
+    {
+     "word": "lose",
+     "pos": "v.",
+     "cn": "丢失"
+    },
+    {
+     "word": "key",
+     "pos": "n.",
+     "cn": "钥匙"
+    },
+    {
+     "word": "worried",
+     "pos": "adj.",
+     "cn": "担心的"
+    },
+    {
+     "word": "remember",
+     "pos": "v.",
+     "cn": "记得"
+    },
+    {
+     "word": "park",
+     "pos": "n.",
+     "cn": "公园"
+    },
+    {
+     "word": "carefully",
+     "pos": "adv.",
+     "cn": "小心地"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the writer lose? His ______.",
+     "a": "key",
+     "tip": "I lost my key"
+    },
+    {
+     "q": "Why was he worried? He couldn't get ______.",
+     "a": "in",
+     "tip": "couldn't get in"
+    },
+    {
+     "q": "Where was the key? Under a ______.",
+     "a": "bench",
+     "tip": "the key was under a bench"
+    }
+   ]
+  },
+  {
+   "day": 15,
+   "week": 3,
+   "level": 3,
+   "title": "My Dream Job",
+   "theme": "将来时 · 理想",
+   "wordCount": 64,
+   "sentences": [
+    {
+     "en": "Everyone has a dream about the future.",
+     "cn": "每个人都有对未来的梦想。"
+    },
+    {
+     "en": "I want to be a doctor when I grow up.",
+     "cn": "长大后我想成为一名医生。"
+    },
+    {
+     "en": "Doctors help sick people get better.",
+     "cn": "医生帮助病人康复。"
+    },
+    {
+     "en": "To reach my dream, I must study hard now.",
+     "cn": "为了实现梦想，我现在必须努力学习。"
+    },
+    {
+     "en": "I will learn more about science and biology.",
+     "cn": "我将学习更多科学和生物知识。"
+    },
+    {
+     "en": "I am going to read many medical books.",
+     "cn": "我打算读很多医学书籍。"
+    },
+    {
+     "en": "I believe my dream will come true one day.",
+     "cn": "我相信总有一天梦想会实现。"
+    },
+    {
+     "en": "Hard work is the key to success.",
+     "cn": "努力是成功的关键。"
+    }
+   ],
+   "words": [
+    {
+     "word": "dream",
+     "pos": "n.",
+     "cn": "梦想"
+    },
+    {
+     "word": "future",
+     "pos": "n.",
+     "cn": "未来"
+    },
+    {
+     "word": "grow",
+     "pos": "v.",
+     "cn": "成长"
+    },
+    {
+     "word": "science",
+     "pos": "n.",
+     "cn": "科学"
+    },
+    {
+     "word": "believe",
+     "pos": "v.",
+     "cn": "相信"
+    },
+    {
+     "word": "success",
+     "pos": "n.",
+     "cn": "成功"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What does the writer want to be? A ______.",
+     "a": "doctor",
+     "tip": "I want to be a doctor"
+    },
+    {
+     "q": "What must he do now? Study ______.",
+     "a": "hard",
+     "tip": "I must study hard now"
+    },
+    {
+     "q": "What is the key to success? Hard ______.",
+     "a": "work",
+     "tip": "Hard work is the key to success."
+    }
+   ]
+  },
+  {
+   "day": 16,
+   "week": 3,
+   "level": 3,
+   "title": "Plans for the Holiday",
+   "theme": "将来时 · 计划",
+   "wordCount": 64,
+   "sentences": [
+    {
+     "en": "The summer holiday is coming soon.",
+     "cn": "暑假很快就要到了。"
+    },
+    {
+     "en": "I have made a plan for it.",
+     "cn": "我为它做了一个计划。"
+    },
+    {
+     "en": "First, I am going to finish my homework.",
+     "cn": "首先，我打算完成作业。"
+    },
+    {
+     "en": "Then I will travel to Beijing with my parents.",
+     "cn": "然后我要和父母去北京旅行。"
+    },
+    {
+     "en": "We are going to visit the Great Wall.",
+     "cn": "我们打算去参观长城。"
+    },
+    {
+     "en": "I hope I can take many beautiful photos.",
+     "cn": "我希望能拍很多漂亮的照片。"
+    },
+    {
+     "en": "I will also help my mother with the housework.",
+     "cn": "我还会帮妈妈做家务。"
+    },
+    {
+     "en": "I am sure it will be a wonderful holiday.",
+     "cn": "我确信这将是一个美妙的假期。"
+    }
+   ],
+   "words": [
+    {
+     "word": "holiday",
+     "pos": "n.",
+     "cn": "假期"
+    },
+    {
+     "word": "plan",
+     "pos": "n.",
+     "cn": "计划"
+    },
+    {
+     "word": "travel",
+     "pos": "v.",
+     "cn": "旅行"
+    },
+    {
+     "word": "visit",
+     "pos": "v.",
+     "cn": "参观"
+    },
+    {
+     "word": "hope",
+     "pos": "v.",
+     "cn": "希望"
+    },
+    {
+     "word": "wonderful",
+     "pos": "adj.",
+     "cn": "精彩的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What holiday is coming? The summer ______.",
+     "a": "holiday",
+     "tip": "The summer holiday is coming"
+    },
+    {
+     "q": "Where will they travel to? ______.",
+     "a": "Beijing",
+     "tip": "travel to Beijing"
+    },
+    {
+     "q": "What will they visit? The Great ______.",
+     "a": "Wall",
+     "tip": "visit the Great Wall"
+    }
+   ]
+  },
+  {
+   "day": 17,
+   "week": 3,
+   "level": 3,
+   "title": "Life with Computers",
+   "theme": "现在完成时 · 科技",
+   "wordCount": 59,
+   "sentences": [
+    {
+     "en": "Computers have changed our lives a lot.",
+     "cn": "电脑极大地改变了我们的生活。"
+    },
+    {
+     "en": "People use them to work and study.",
+     "cn": "人们用它们工作和学习。"
+    },
+    {
+     "en": "I have learned much from the Internet.",
+     "cn": "我从网上学到了很多。"
+    },
+    {
+     "en": "We can find information in a few seconds.",
+     "cn": "我们几秒钟就能找到信息。"
+    },
+    {
+     "en": "However, some students play too many games.",
+     "cn": "然而，有些学生玩太多游戏。"
+    },
+    {
+     "en": "This is bad for their eyes and studies.",
+     "cn": "这对他们的眼睛和学习有害。"
+    },
+    {
+     "en": "We should use computers in a proper way.",
+     "cn": "我们应当以正确的方式使用电脑。"
+    },
+    {
+     "en": "Technology should serve us, not control us.",
+     "cn": "科技应当服务我们，而不是控制我们。"
+    }
+   ],
+   "words": [
+    {
+     "word": "computer",
+     "pos": "n.",
+     "cn": "电脑"
+    },
+    {
+     "word": "change",
+     "pos": "v.",
+     "cn": "改变"
+    },
+    {
+     "word": "Internet",
+     "pos": "n.",
+     "cn": "互联网"
+    },
+    {
+     "word": "information",
+     "pos": "n.",
+     "cn": "信息"
+    },
+    {
+     "word": "technology",
+     "pos": "n.",
+     "cn": "科技"
+    },
+    {
+     "word": "proper",
+     "pos": "adj.",
+     "cn": "恰当的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What has changed our lives? ______.",
+     "a": "Computers",
+     "tip": "Computers have changed our lives"
+    },
+    {
+     "q": "What have they learned from? The ______.",
+     "a": "Internet",
+     "tip": "learned much from the Internet"
+    },
+    {
+     "q": "What is bad for eyes? Playing too many ______.",
+     "a": "games",
+     "tip": "play too many games"
+    }
+   ]
+  },
+  {
+   "day": 18,
+   "week": 3,
+   "level": 3,
+   "title": "Protecting the Environment",
+   "theme": "从句 · 环保",
+   "wordCount": 61,
+   "sentences": [
+    {
+     "en": "The environment around us is very important.",
+     "cn": "我们周围的环境非常重要。"
+    },
+    {
+     "en": "But it is getting worse these years.",
+     "cn": "但这些年它正变得越来越糟。"
+    },
+    {
+     "en": "Rivers that were clean are now dirty.",
+     "cn": "曾经清澈的河流如今变脏了。"
+    },
+    {
+     "en": "We must do something before it is too late.",
+     "cn": "我们必须在为时已晚之前采取行动。"
+    },
+    {
+     "en": "We should not throw rubbish everywhere.",
+     "cn": "我们不应到处乱扔垃圾。"
+    },
+    {
+     "en": "If everyone plants a tree, the earth will be greener.",
+     "cn": "如果每个人都种一棵树，地球会更绿。"
+    },
+    {
+     "en": "Saving water and paper also helps a lot.",
+     "cn": "节约水和纸也很有帮助。"
+    },
+    {
+     "en": "Let's work together to protect our home.",
+     "cn": "让我们一起保护我们的家园。"
+    }
+   ],
+   "words": [
+    {
+     "word": "environment",
+     "pos": "n.",
+     "cn": "环境"
+    },
+    {
+     "word": "river",
+     "pos": "n.",
+     "cn": "河流"
+    },
+    {
+     "word": "dirty",
+     "pos": "adj.",
+     "cn": "脏的"
+    },
+    {
+     "word": "rubbish",
+     "pos": "n.",
+     "cn": "垃圾"
+    },
+    {
+     "word": "plant",
+     "pos": "v.",
+     "cn": "种植"
+    },
+    {
+     "word": "protect",
+     "pos": "v.",
+     "cn": "保护"
+    }
+   ],
+   "questions": [
+    {
+     "q": "How is the environment getting? ______.",
+     "a": "worse",
+     "tip": "getting worse these years"
+    },
+    {
+     "q": "What shouldn't we throw everywhere? ______.",
+     "a": "rubbish",
+     "tip": "not throw rubbish everywhere"
+    },
+    {
+     "q": "What will make the earth greener? Planting a ______.",
+     "a": "tree",
+     "tip": "If everyone plants a tree"
+    }
+   ]
+  },
+  {
+   "day": 19,
+   "week": 3,
+   "level": 3,
+   "title": "A Letter to a Friend",
+   "theme": "现在完成时 · 书信",
+   "wordCount": 64,
+   "sentences": [
+    {
+     "en": "Dear Peter, how are you these days?",
+     "cn": "亲爱的 Peter，你最近怎么样？"
+    },
+    {
+     "en": "I have not written to you for a long time.",
+     "cn": "我很久没给你写信了。"
+    },
+    {
+     "en": "A lot of things have happened at my school.",
+     "cn": "我的学校发生了许多事。"
+    },
+    {
+     "en": "We have started a new English club.",
+     "cn": "我们成立了一个新的英语社团。"
+    },
+    {
+     "en": "Since then, my spoken English has improved.",
+     "cn": "从那以后，我的口语提高了。"
+    },
+    {
+     "en": "Next month we are going to have a show.",
+     "cn": "下个月我们将有一场演出。"
+    },
+    {
+     "en": "I hope you can come and join us.",
+     "cn": "我希望你能来加入我们。"
+    },
+    {
+     "en": "Please write back soon. Yours, Li Ming.",
+     "cn": "请尽快回信。你的，李明。"
+    }
+   ],
+   "words": [
+    {
+     "word": "letter",
+     "pos": "n.",
+     "cn": "信"
+    },
+    {
+     "word": "happen",
+     "pos": "v.",
+     "cn": "发生"
+    },
+    {
+     "word": "club",
+     "pos": "n.",
+     "cn": "社团"
+    },
+    {
+     "word": "improve",
+     "pos": "v.",
+     "cn": "提高"
+    },
+    {
+     "word": "show",
+     "pos": "n.",
+     "cn": "演出"
+    },
+    {
+     "word": "join",
+     "pos": "v.",
+     "cn": "加入"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who is the letter to? ______.",
+     "a": "Peter",
+     "tip": "Dear Peter"
+    },
+    {
+     "q": "What club have they started? A new ______ club.",
+     "a": "English",
+     "tip": "a new English club"
+    },
+    {
+     "q": "What has improved? His spoken ______.",
+     "a": "English",
+     "tip": "my spoken English has improved"
+    }
+   ]
+  },
+  {
+   "day": 20,
+   "week": 3,
+   "level": 3,
+   "title": "Advice on Health",
+   "theme": "情态动词 · 健康",
+   "wordCount": 53,
+   "sentences": [
+    {
+     "en": "Good health is more important than anything.",
+     "cn": "健康比什么都重要。"
+    },
+    {
+     "en": "To stay healthy, we should eat well.",
+     "cn": "为了保持健康，我们应当吃得好。"
+    },
+    {
+     "en": "We ought to have enough sleep every night.",
+     "cn": "我们每晚应当有充足的睡眠。"
+    },
+    {
+     "en": "We must take exercise regularly.",
+     "cn": "我们必须经常锻炼。"
+    },
+    {
+     "en": "Running and swimming are good choices.",
+     "cn": "跑步和游泳是不错的选择。"
+    },
+    {
+     "en": "We should not stay up too late.",
+     "cn": "我们不应熬夜太晚。"
+    },
+    {
+     "en": "Washing hands often keeps illness away.",
+     "cn": "勤洗手能远离疾病。"
+    },
+    {
+     "en": "A healthy body brings a happy life.",
+     "cn": "健康的身体带来幸福的生活。"
+    }
+   ],
+   "words": [
+    {
+     "word": "health",
+     "pos": "n.",
+     "cn": "健康"
+    },
+    {
+     "word": "sleep",
+     "pos": "n./v.",
+     "cn": "睡眠；睡"
+    },
+    {
+     "word": "exercise",
+     "pos": "n.",
+     "cn": "锻炼"
+    },
+    {
+     "word": "choice",
+     "pos": "n.",
+     "cn": "选择"
+    },
+    {
+     "word": "illness",
+     "pos": "n.",
+     "cn": "疾病"
+    },
+    {
+     "word": "regularly",
+     "pos": "adv.",
+     "cn": "有规律地"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is more important than anything? Good ______.",
+     "a": "health",
+     "tip": "Good health is more important"
+    },
+    {
+     "q": "How often should we exercise? ______.",
+     "a": "regularly",
+     "tip": "take exercise regularly"
+    },
+    {
+     "q": "What keeps illness away? Washing ______ often.",
+     "a": "hands",
+     "tip": "Washing hands often keeps illness away"
+    }
+   ]
+  },
+  {
+   "day": 21,
+   "week": 3,
+   "level": 3,
+   "title": "My Favourite Season",
+   "theme": "从句 · 描写",
+   "wordCount": 62,
+   "sentences": [
+    {
+     "en": "Autumn is the season that I like best.",
+     "cn": "秋天是我最喜欢的季节。"
+    },
+    {
+     "en": "The weather in autumn is cool and comfortable.",
+     "cn": "秋天的天气凉爽舒适。"
+    },
+    {
+     "en": "The leaves turn yellow and fall down slowly.",
+     "cn": "树叶变黄，慢慢落下。"
+    },
+    {
+     "en": "Farmers are busy because it is harvest time.",
+     "cn": "农民们很忙，因为这是收获的季节。"
+    },
+    {
+     "en": "They gather the crops that they have grown.",
+     "cn": "他们收割自己种下的庄稼。"
+    },
+    {
+     "en": "I often go hiking with my family in autumn.",
+     "cn": "秋天我常和家人去远足。"
+    },
+    {
+     "en": "The golden fields look really beautiful.",
+     "cn": "金色的田野看起来真美。"
+    },
+    {
+     "en": "Autumn always fills my heart with joy.",
+     "cn": "秋天总让我心中充满喜悦。"
+    }
+   ],
+   "words": [
+    {
+     "word": "autumn",
+     "pos": "n.",
+     "cn": "秋天"
+    },
+    {
+     "word": "leaf",
+     "pos": "n.",
+     "cn": "叶子"
+    },
+    {
+     "word": "harvest",
+     "pos": "n.",
+     "cn": "收获"
+    },
+    {
+     "word": "crop",
+     "pos": "n.",
+     "cn": "庄稼"
+    },
+    {
+     "word": "field",
+     "pos": "n.",
+     "cn": "田野"
+    },
+    {
+     "word": "joy",
+     "pos": "n.",
+     "cn": "喜悦"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Which season does the writer like best? ______.",
+     "a": "Autumn",
+     "tip": "Autumn is the season that I like best"
+    },
+    {
+     "q": "What colour do the leaves turn? ______.",
+     "a": "yellow",
+     "tip": "The leaves turn yellow"
+    },
+    {
+     "q": "Why are farmers busy? It is ______ time.",
+     "a": "harvest",
+     "tip": "it is harvest time"
+    }
+   ]
+  },
+  {
+   "day": 22,
+   "week": 4,
+   "level": 4,
+   "title": "The Spring Festival",
+   "theme": "综合 · 文化",
+   "wordCount": 69,
+   "sentences": [
+    {
+     "en": "The Spring Festival is the most important festival in China.",
+     "cn": "春节是中国最重要的节日。"
+    },
+    {
+     "en": "It is celebrated by people all over the country.",
+     "cn": "全国人民都庆祝它。"
+    },
+    {
+     "en": "Before the festival, houses are cleaned and decorated.",
+     "cn": "节前，家家户户打扫并装饰房屋。"
+    },
+    {
+     "en": "Red couplets are put on the doors for good luck.",
+     "cn": "红对联被贴在门上以求好运。"
+    },
+    {
+     "en": "On New Year's Eve, families get together for a big dinner.",
+     "cn": "除夕夜，家人团聚吃年夜饭。"
+    },
+    {
+     "en": "Children are given lucky money by their parents.",
+     "cn": "孩子们会收到父母给的压岁钱。"
+    },
+    {
+     "en": "Fireworks light up the sky at midnight.",
+     "cn": "午夜烟花照亮天空。"
+    },
+    {
+     "en": "The festival brings families closer together.",
+     "cn": "这个节日让家人更加亲近。"
+    }
+   ],
+   "words": [
+    {
+     "word": "festival",
+     "pos": "n.",
+     "cn": "节日"
+    },
+    {
+     "word": "celebrate",
+     "pos": "v.",
+     "cn": "庆祝"
+    },
+    {
+     "word": "decorate",
+     "pos": "v.",
+     "cn": "装饰"
+    },
+    {
+     "word": "couplet",
+     "pos": "n.",
+     "cn": "对联"
+    },
+    {
+     "word": "firework",
+     "pos": "n.",
+     "cn": "烟花"
+    },
+    {
+     "word": "midnight",
+     "pos": "n.",
+     "cn": "午夜"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is the most important festival in China? The Spring ______.",
+     "a": "Festival",
+     "tip": "the most important festival"
+    },
+    {
+     "q": "What are put on the doors? Red ______.",
+     "a": "couplets",
+     "tip": "Red couplets are put on the doors"
+    },
+    {
+     "q": "When do fireworks light up the sky? At ______.",
+     "a": "midnight",
+     "tip": "Fireworks light up the sky at midnight"
+    }
+   ]
+  },
+  {
+   "day": 23,
+   "week": 4,
+   "level": 4,
+   "title": "A Great Scientist",
+   "theme": "综合 · 人物",
+   "wordCount": 69,
+   "sentences": [
+    {
+     "en": "Yuan Longping was a famous Chinese scientist.",
+     "cn": "袁隆平是一位著名的中国科学家。"
+    },
+    {
+     "en": "He is known as the father of hybrid rice.",
+     "cn": "他被誉为杂交水稻之父。"
+    },
+    {
+     "en": "For many years, he worked hard in the fields.",
+     "cn": "多年来，他在田间辛勤工作。"
+    },
+    {
+     "en": "His new kind of rice can grow more grain.",
+     "cn": "他培育的新稻能产出更多粮食。"
+    },
+    {
+     "en": "Because of him, millions of people are fed.",
+     "cn": "因为他，数百万人得以温饱。"
+    },
+    {
+     "en": "His work has helped not only China but the world.",
+     "cn": "他的工作不仅帮助了中国，也帮助了世界。"
+    },
+    {
+     "en": "He once said he had a dream under the rice.",
+     "cn": "他曾说他有一个稻下乘凉的梦。"
+    },
+    {
+     "en": "He will always be remembered by us.",
+     "cn": "他将永远被我们铭记。"
+    }
+   ],
+   "words": [
+    {
+     "word": "scientist",
+     "pos": "n.",
+     "cn": "科学家"
+    },
+    {
+     "word": "famous",
+     "pos": "adj.",
+     "cn": "著名的"
+    },
+    {
+     "word": "rice",
+     "pos": "n.",
+     "cn": "水稻，米饭"
+    },
+    {
+     "word": "grain",
+     "pos": "n.",
+     "cn": "谷物"
+    },
+    {
+     "word": "feed",
+     "pos": "v.",
+     "cn": "喂养"
+    },
+    {
+     "word": "remember",
+     "pos": "v.",
+     "cn": "记住"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was Yuan Longping? A famous ______.",
+     "a": "scientist",
+     "tip": "a famous Chinese scientist"
+    },
+    {
+     "q": "What is he known as the father of? Hybrid ______.",
+     "a": "rice",
+     "tip": "the father of hybrid rice"
+    },
+    {
+     "q": "Who has his work helped? Not only China but the ______.",
+     "a": "world",
+     "tip": "helped not only China but the world"
+    }
+   ]
+  },
+  {
+   "day": 24,
+   "week": 4,
+   "level": 4,
+   "title": "Saving Water",
+   "theme": "综合 · 被动语态",
+   "wordCount": 68,
+   "sentences": [
+    {
+     "en": "Water is one of the most important natural resources.",
+     "cn": "水是最重要的自然资源之一。"
+    },
+    {
+     "en": "However, clean water is being wasted every day.",
+     "cn": "然而，干净的水每天都在被浪费。"
+    },
+    {
+     "en": "In some areas, water is badly needed by people.",
+     "cn": "在一些地区，人们急需用水。"
+    },
+    {
+     "en": "A lot of water can be saved in daily life.",
+     "cn": "日常生活中能节约很多水。"
+    },
+    {
+     "en": "Taps should be turned off after use.",
+     "cn": "用完后应关掉水龙头。"
+    },
+    {
+     "en": "Used water can be collected to clean the floor.",
+     "cn": "用过的水可以收集起来擦地。"
+    },
+    {
+     "en": "If water is saved by everyone, we will have enough.",
+     "cn": "如果人人节约用水，我们就会有足够的水。"
+    },
+    {
+     "en": "Remember, no water means no life.",
+     "cn": "记住，没有水就没有生命。"
+    }
+   ],
+   "words": [
+    {
+     "word": "water",
+     "pos": "n.",
+     "cn": "水"
+    },
+    {
+     "word": "resource",
+     "pos": "n.",
+     "cn": "资源"
+    },
+    {
+     "word": "waste",
+     "pos": "v.",
+     "cn": "浪费"
+    },
+    {
+     "word": "save",
+     "pos": "v.",
+     "cn": "节约"
+    },
+    {
+     "word": "tap",
+     "pos": "n.",
+     "cn": "水龙头"
+    },
+    {
+     "word": "collect",
+     "pos": "v.",
+     "cn": "收集"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What is being wasted every day? Clean ______.",
+     "a": "water",
+     "tip": "clean water is being wasted"
+    },
+    {
+     "q": "What should be turned off after use? ______.",
+     "a": "Taps",
+     "tip": "Taps should be turned off after use"
+    },
+    {
+     "q": "What does no water mean? No ______.",
+     "a": "life",
+     "tip": "no water means no life"
+    }
+   ]
+  },
+  {
+   "day": 25,
+   "week": 4,
+   "level": 4,
+   "title": "The Power of Reading",
+   "theme": "综合 · 议论",
+   "wordCount": 70,
+   "sentences": [
+    {
+     "en": "Reading is a habit that benefits us for life.",
+     "cn": "阅读是让我们受益一生的习惯。"
+    },
+    {
+     "en": "Through books, we can travel to any place and time.",
+     "cn": "通过书籍，我们能穿越任何地点和时代。"
+    },
+    {
+     "en": "Knowledge that we gain from reading is priceless.",
+     "cn": "从阅读中获得的知识是无价的。"
+    },
+    {
+     "en": "Good books are written by wise people.",
+     "cn": "好书是由智者写成的。"
+    },
+    {
+     "en": "They teach us how to think and how to live.",
+     "cn": "它们教会我们如何思考、如何生活。"
+    },
+    {
+     "en": "A person who loves reading is never lonely.",
+     "cn": "热爱阅读的人从不孤独。"
+    },
+    {
+     "en": "The more we read, the more we understand.",
+     "cn": "读得越多，懂得越多。"
+    },
+    {
+     "en": "So let us make reading a part of our life.",
+     "cn": "所以让我们把阅读变成生活的一部分。"
+    }
+   ],
+   "words": [
+    {
+     "word": "habit",
+     "pos": "n.",
+     "cn": "习惯"
+    },
+    {
+     "word": "benefit",
+     "pos": "v.",
+     "cn": "使受益"
+    },
+    {
+     "word": "knowledge",
+     "pos": "n.",
+     "cn": "知识"
+    },
+    {
+     "word": "wise",
+     "pos": "adj.",
+     "cn": "智慧的"
+    },
+    {
+     "word": "understand",
+     "pos": "v.",
+     "cn": "理解"
+    },
+    {
+     "word": "lonely",
+     "pos": "adj.",
+     "cn": "孤独的"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Reading is a habit that benefits us for ______.",
+     "a": "life",
+     "tip": "benefits us for life"
+    },
+    {
+     "q": "Who writes good books? ______ people.",
+     "a": "wise",
+     "tip": "written by wise people"
+    },
+    {
+     "q": "A person who loves reading is never ______.",
+     "a": "lonely",
+     "tip": "never lonely"
+    }
+   ]
+  },
+  {
+   "day": 26,
+   "week": 4,
+   "level": 4,
+   "title": "Being a Volunteer",
+   "theme": "综合 · 社会",
+   "wordCount": 71,
+   "sentences": [
+    {
+     "en": "Last winter, I became a volunteer in my city.",
+     "cn": "去年冬天，我成为了城里的一名志愿者。"
+    },
+    {
+     "en": "Our team helped the old people who lived alone.",
+     "cn": "我们的队伍帮助独居老人。"
+    },
+    {
+     "en": "We cleaned their rooms and bought food for them.",
+     "cn": "我们打扫他们的房间，为他们买食物。"
+    },
+    {
+     "en": "Some of us read newspapers to those who were blind.",
+     "cn": "我们中一些人给盲人读报纸。"
+    },
+    {
+     "en": "The old people were deeply moved by our help.",
+     "cn": "老人们被我们的帮助深深感动。"
+    },
+    {
+     "en": "Their warm smiles made all our work worthwhile.",
+     "cn": "他们温暖的微笑让我们的付出都值得。"
+    },
+    {
+     "en": "I have learned that giving is better than taking.",
+     "cn": "我懂得了给予胜于索取。"
+    },
+    {
+     "en": "I will keep helping others in the future.",
+     "cn": "将来我会继续帮助他人。"
+    }
+   ],
+   "words": [
+    {
+     "word": "volunteer",
+     "pos": "n.",
+     "cn": "志愿者"
+    },
+    {
+     "word": "alone",
+     "pos": "adv.",
+     "cn": "独自"
+    },
+    {
+     "word": "blind",
+     "pos": "adj.",
+     "cn": "失明的"
+    },
+    {
+     "word": "move",
+     "pos": "v.",
+     "cn": "感动"
+    },
+    {
+     "word": "smile",
+     "pos": "n.",
+     "cn": "微笑"
+    },
+    {
+     "word": "future",
+     "pos": "n.",
+     "cn": "未来"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What did the writer become? A ______.",
+     "a": "volunteer",
+     "tip": "I became a volunteer"
+    },
+    {
+     "q": "Who did the team help? The ______ people who lived alone.",
+     "a": "old",
+     "tip": "helped the old people who lived alone"
+    },
+    {
+     "q": "What is better than taking? ______.",
+     "a": "giving",
+     "tip": "giving is better than taking"
+    }
+   ]
+  },
+  {
+   "day": 27,
+   "week": 4,
+   "level": 4,
+   "title": "The Clever Crow",
+   "theme": "综合 · 寓言",
+   "wordCount": 71,
+   "sentences": [
+    {
+     "en": "One hot day, a thirsty crow was looking for water.",
+     "cn": "一个炎热的日子，一只口渴的乌鸦在找水。"
+    },
+    {
+     "en": "At last it found a jug with a little water inside.",
+     "cn": "最后它发现一个罐子，里面有一点水。"
+    },
+    {
+     "en": "But the water was too low for the crow to reach.",
+     "cn": "但水太低，乌鸦够不着。"
+    },
+    {
+     "en": "The clever bird thought of a good idea.",
+     "cn": "这只聪明的鸟想出了一个好主意。"
+    },
+    {
+     "en": "It picked up small stones one by one.",
+     "cn": "它一颗一颗地叼来小石子。"
+    },
+    {
+     "en": "The stones were dropped into the jug carefully.",
+     "cn": "石子被小心地放进罐子里。"
+    },
+    {
+     "en": "Slowly, the water rose to the top.",
+     "cn": "慢慢地，水升到了顶部。"
+    },
+    {
+     "en": "This story tells us that wisdom beats strength.",
+     "cn": "这个故事告诉我们智慧胜过蛮力。"
+    }
+   ],
+   "words": [
+    {
+     "word": "thirsty",
+     "pos": "adj.",
+     "cn": "口渴的"
+    },
+    {
+     "word": "crow",
+     "pos": "n.",
+     "cn": "乌鸦"
+    },
+    {
+     "word": "jug",
+     "pos": "n.",
+     "cn": "罐子"
+    },
+    {
+     "word": "reach",
+     "pos": "v.",
+     "cn": "够到"
+    },
+    {
+     "word": "stone",
+     "pos": "n.",
+     "cn": "石头"
+    },
+    {
+     "word": "wisdom",
+     "pos": "n.",
+     "cn": "智慧"
+    }
+   ],
+   "questions": [
+    {
+     "q": "What was the crow looking for? ______.",
+     "a": "water",
+     "tip": "looking for water"
+    },
+    {
+     "q": "What did it drop into the jug? Small ______.",
+     "a": "stones",
+     "tip": "picked up small stones"
+    },
+    {
+     "q": "What beats strength? ______.",
+     "a": "wisdom",
+     "tip": "wisdom beats strength"
+    }
+   ]
+  },
+  {
+   "day": 28,
+   "week": 4,
+   "level": 4,
+   "title": "Never Give Up",
+   "theme": "综合 · 励志",
+   "wordCount": 68,
+   "sentences": [
+    {
+     "en": "Everyone meets difficulties on the road of life.",
+     "cn": "每个人在人生路上都会遇到困难。"
+    },
+    {
+     "en": "What matters is how we deal with them.",
+     "cn": "重要的是我们如何面对它们。"
+    },
+    {
+     "en": "Thomas Edison failed thousands of times.",
+     "cn": "托马斯·爱迪生失败了成千上万次。"
+    },
+    {
+     "en": "But he never stopped trying new ways.",
+     "cn": "但他从未停止尝试新方法。"
+    },
+    {
+     "en": "Finally, the electric light was invented by him.",
+     "cn": "最终，电灯被他发明了出来。"
+    },
+    {
+     "en": "His story shows that failure is the mother of success.",
+     "cn": "他的故事说明失败是成功之母。"
+    },
+    {
+     "en": "When we fall down, we must stand up again.",
+     "cn": "当我们跌倒时，必须重新站起来。"
+    },
+    {
+     "en": "As long as we keep going, we will win in the end.",
+     "cn": "只要坚持下去，我们终将获胜。"
+    }
+   ],
+   "words": [
+    {
+     "word": "difficulty",
+     "pos": "n.",
+     "cn": "困难"
+    },
+    {
+     "word": "deal",
+     "pos": "v.",
+     "cn": "处理"
+    },
+    {
+     "word": "fail",
+     "pos": "v.",
+     "cn": "失败"
+    },
+    {
+     "word": "invent",
+     "pos": "v.",
+     "cn": "发明"
+    },
+    {
+     "word": "failure",
+     "pos": "n.",
+     "cn": "失败"
+    },
+    {
+     "word": "win",
+     "pos": "v.",
+     "cn": "获胜"
+    }
+   ],
+   "questions": [
+    {
+     "q": "Who failed thousands of times? Thomas ______.",
+     "a": "Edison",
+     "tip": "Thomas Edison failed thousands of times"
+    },
+    {
+     "q": "What was invented by him? The electric ______.",
+     "a": "light",
+     "tip": "the electric light was invented by him"
+    },
+    {
+     "q": "Failure is the mother of ______.",
+     "a": "success",
+     "tip": "failure is the mother of success"
+    }
+   ]
+  }
+ ],
+ "total": 28
+}

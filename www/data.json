@@ -1,0 +1,7159 @@
+{
+ "categories": [
+  "语音（音标）",
+  "词法",
+  "动词的时态",
+  "动词的语态",
+  "情态动词",
+  "非谓语动词",
+  "句法",
+  "动词的语气"
+ ],
+ "items": [
+  {
+   "id": "001",
+   "file": "元音音标",
+   "category": "语音（音标）",
+   "title": "国际音标 · 元音 (Vowels)",
+   "instruction": "根据例词写出划线部分的元音音标，或按提示填空。",
+   "sections": [
+    {
+     "heading": "一、音标概说",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "国际音标 (IPA) 是记录英语读音的符号，共 48 个：元音 20 个、辅音 28 个。掌握音标能帮助你独立拼读单词、纠正发音，是学好英语的基础。音标写在两条斜线之间，如 /iː/。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、单元音（12 个）",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "发音时口形和舌位保持不变的元音叫单元音。可分为长元音（带 ː）和短元音。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "音标",
+        "长/短",
+        "例词"
+       ],
+       "rows": [
+        [
+         "/iː/",
+         "长",
+         "see, tree, meet, he"
+        ],
+        [
+         "/ɪ/",
+         "短",
+         "sit, big, this, it"
+        ],
+        [
+         "/uː/",
+         "长",
+         "food, blue, do, too"
+        ],
+        [
+         "/ʊ/",
+         "短",
+         "book, good, put, look"
+        ],
+        [
+         "/ɜː/",
+         "长",
+         "bird, girl, her, work"
+        ],
+        [
+         "/ə/",
+         "短",
+         "about, teacher, banana"
+        ],
+        [
+         "/ɔː/",
+         "长",
+         "ball, door, four, more"
+        ],
+        [
+         "/ɒ/",
+         "短",
+         "dog, hot, box, not"
+        ],
+        [
+         "/ɑː/",
+         "长",
+         "car, father, arm, star"
+        ],
+        [
+         "/ʌ/",
+         "短",
+         "cup, bus, mother, sun"
+        ],
+        [
+         "/e/",
+         "短",
+         "bed, egg, red, ten"
+        ],
+        [
+         "/æ/",
+         "短",
+         "cat, bag, apple, hand"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "/ə/ 是最常见的元音，多出现在非重读音节，读得又轻又短，叫“弱读”。"
+      }
+     ]
+    },
+    {
+     "heading": "三、双元音（8 个）",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "由一个元音滑向另一个元音、口形有变化的元音叫双元音。前重后轻，前长后短。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "音标",
+        "例词"
+       ],
+       "rows": [
+        [
+         "/eɪ/",
+         "name, day, cake, play"
+        ],
+        [
+         "/aɪ/",
+         "my, bike, five, kite"
+        ],
+        [
+         "/ɔɪ/",
+         "boy, toy, noise, coin"
+        ],
+        [
+         "/aʊ/",
+         "how, now, house, cow"
+        ],
+        [
+         "/əʊ/",
+         "no, go, home, nose"
+        ],
+        [
+         "/ɪə/",
+         "here, ear, dear, near"
+        ],
+        [
+         "/eə/",
+         "hair, chair, bear, care"
+        ],
+        [
+         "/ʊə/",
+         "sure, tour, poor"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "字母 e 在 see, tree 中发长音 ______。",
+     "answer": "/iː/",
+     "tip": "长元音"
+    },
+    {
+     "q": "字母 i 在 sit, big 中发短音 ______。",
+     "answer": "/ɪ/",
+     "tip": "短元音"
+    },
+    {
+     "q": "字母组合 oo 在 book, good 中常发 ______。",
+     "answer": "/ʊ/",
+     "tip": "短元音"
+    },
+    {
+     "q": "字母 a 在 cat, bag 中发 ______。",
+     "answer": "/æ/",
+     "tip": "前元音"
+    },
+    {
+     "q": "字母 u 在 cup, bus 中发 ______。",
+     "answer": "/ʌ/",
+     "tip": "短元音"
+    },
+    {
+     "q": "字母组合 ay 在 day, play 中发双元音 ______。",
+     "answer": "/eɪ/",
+     "tip": "双元音"
+    },
+    {
+     "q": "字母 i 在 bike, five 中发双元音 ______。",
+     "answer": "/aɪ/",
+     "tip": "双元音"
+    },
+    {
+     "q": "字母组合 ow 在 how, now 中发 ______。",
+     "answer": "/aʊ/",
+     "tip": "双元音"
+    },
+    {
+     "q": "字母 o 在 no, go, home 中发 ______。",
+     "answer": "/əʊ/",
+     "tip": "双元音"
+    },
+    {
+     "q": "非重读音节中最常见的弱读元音是 ______。",
+     "answer": "/ə/",
+     "tip": "弱读"
+    }
+   ]
+  },
+  {
+   "id": "002",
+   "file": "辅音音标",
+   "category": "语音（音标）",
+   "title": "国际音标 · 辅音 (Consonants)",
+   "instruction": "根据例词写出划线部分的辅音音标，或按提示填空。",
+   "sections": [
+    {
+     "heading": "一、辅音概说",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "辅音发音时气流在口腔中受到阻碍。28 个辅音中，很多成对出现：一个清辅音（声带不振动）、一个浊辅音（声带振动）。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、成对的清浊辅音",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "清辅音",
+        "例词",
+        "浊辅音",
+        "例词"
+       ],
+       "rows": [
+        [
+         "/p/",
+         "pen, cup",
+         "/b/",
+         "bag, job"
+        ],
+        [
+         "/t/",
+         "ten, cat",
+         "/d/",
+         "dog, bed"
+        ],
+        [
+         "/k/",
+         "cat, book",
+         "/g/",
+         "go, big"
+        ],
+        [
+         "/f/",
+         "five, if",
+         "/v/",
+         "very, love"
+        ],
+        [
+         "/s/",
+         "sit, bus",
+         "/z/",
+         "zoo, is"
+        ],
+        [
+         "/θ/",
+         "think, mouth",
+         "/ð/",
+         "this, mother"
+        ],
+        [
+         "/ʃ/",
+         "she, fish",
+         "/ʒ/",
+         "usually, pleasure"
+        ],
+        [
+         "/tʃ/",
+         "chair, watch",
+         "/dʒ/",
+         "job, orange"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "/θ/ 和 /ð/ 要把舌尖轻放在上下齿之间，是中国学生的难点。"
+      }
+     ]
+    },
+    {
+     "heading": "三、其他辅音",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "音标",
+        "例词"
+       ],
+       "rows": [
+        [
+         "/m/",
+         "man, name"
+        ],
+        [
+         "/n/",
+         "no, ten"
+        ],
+        [
+         "/ŋ/",
+         "sing, English, thing"
+        ],
+        [
+         "/h/",
+         "hat, house"
+        ],
+        [
+         "/l/",
+         "leg, ball"
+        ],
+        [
+         "/r/",
+         "red, room"
+        ],
+        [
+         "/w/",
+         "we, window"
+        ],
+        [
+         "/j/",
+         "yes, you, year"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "/ŋ/ 只出现在音节末尾（如 -ing 结尾），发音时舌后部抬起，气流从鼻腔出来。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "字母 p 在 pen, cup 中发清辅音 ______。",
+     "answer": "/p/",
+     "tip": "清辅音"
+    },
+    {
+     "q": "字母 b 在 bag, job 中发浊辅音 ______。",
+     "answer": "/b/",
+     "tip": "浊辅音"
+    },
+    {
+     "q": "字母组合 th 在 think 中发清辅音 ______。",
+     "answer": "/θ/",
+     "tip": "清辅音"
+    },
+    {
+     "q": "字母组合 th 在 this, mother 中发浊辅音 ______。",
+     "answer": "/ð/",
+     "tip": "浊辅音"
+    },
+    {
+     "q": "字母组合 sh 在 she, fish 中发 ______。",
+     "answer": "/ʃ/",
+     "tip": "清辅音"
+    },
+    {
+     "q": "字母组合 ch 在 chair, watch 中发 ______。",
+     "answer": "/tʃ/",
+     "tip": "清辅音"
+    },
+    {
+     "q": "字母组合 ng 在 sing, English 中发 ______。",
+     "answer": "/ŋ/",
+     "tip": "鼻音"
+    },
+    {
+     "q": "字母 j 在 job, orange 中发 ______。",
+     "answer": "/dʒ/",
+     "tip": "浊辅音"
+    },
+    {
+     "q": "字母 z 在 zoo 中发浊辅音 ______。",
+     "answer": "/z/",
+     "tip": "浊辅音"
+    },
+    {
+     "q": "字母 y 在 yes, you 中发半元音 ______。",
+     "answer": "/j/",
+     "tip": "半元音"
+    }
+   ]
+  },
+  {
+   "id": "003",
+   "file": "读音规则与拼读",
+   "category": "语音（音标）",
+   "title": "读音规则与拼读 (Pronunciation Rules)",
+   "instruction": "根据读音规则填空。",
+   "sections": [
+    {
+     "heading": "一、元音字母在重读音节中的读音",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "元音字母 a, e, i, o, u 在开音节和闭音节中读音不同。掌握规律有助于见词能读。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "字母",
+        "开音节（读字母本身音）",
+        "闭音节（短元音）"
+       ],
+       "rows": [
+        [
+         "a",
+         "name /eɪ/, cake",
+         "cat /æ/, bag"
+        ],
+        [
+         "e",
+         "he /iː/, these",
+         "bed /e/, pen"
+        ],
+        [
+         "i",
+         "bike /aɪ/, kite",
+         "sit /ɪ/, big"
+        ],
+        [
+         "o",
+         "no /əʊ/, home",
+         "dog /ɒ/, hot"
+        ],
+        [
+         "u",
+         "use /juː/, cute",
+         "cup /ʌ/, bus"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "开音节：元音字母后没有辅音，或只有一个辅音字母 + 不发音的 e（如 name, bike）。闭音节：元音字母后有辅音字母且不以 e 结尾（如 cat, bed）。"
+      }
+     ]
+    },
+    {
+     "heading": "二、常见字母组合发音",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "字母组合",
+        "读音",
+        "例词"
+       ],
+       "rows": [
+        [
+         "ee / ea",
+         "/iː/",
+         "see, tea, meat"
+        ],
+        [
+         "oo",
+         "/uː/ 或 /ʊ/",
+         "food /uː/, book /ʊ/"
+        ],
+        [
+         "ar",
+         "/ɑː/",
+         "car, farm, star"
+        ],
+        [
+         "or",
+         "/ɔː/",
+         "for, short, born"
+        ],
+        [
+         "er / ir / ur",
+         "/ɜː/ 或 /ə/",
+         "her, bird, turn"
+        ],
+        [
+         "ai / ay",
+         "/eɪ/",
+         "rain, day, play"
+        ],
+        [
+         "oa / ow",
+         "/əʊ/",
+         "boat, snow"
+        ],
+        [
+         "ou / ow",
+         "/aʊ/",
+         "house, how"
+        ],
+        [
+         "oy / oi",
+         "/ɔɪ/",
+         "boy, boil"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、单词重音",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "英语单词有重读音节，读得重而长。音标中重音符号 ˈ 标在重读音节前。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "ˈteacher（重音在前）  toˈday（重音在后）  baˈnana（重音在中）"
+      },
+      {
+       "kind": "bullet",
+       "text": "双音节词多数重音在第一个音节：ˈapple, ˈwater, ˈhappy。"
+      },
+      {
+       "kind": "bullet",
+       "text": "以 -tion, -sion 结尾的词，重音在其前一个音节：inforˈmation, deˈcision。"
+      }
+     ]
+    },
+    {
+     "heading": "四、字母 c 和 g 的软硬音",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "c 在 e, i, y 前读 /s/（软音）：city, nice, cycle；其他情况读 /k/：cat, cup。"
+      },
+      {
+       "kind": "bullet",
+       "text": "g 在 e, i, y 前常读 /dʒ/（软音）：age, giant；其他情况读 /g/：go, big。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "name 中的 a 在开音节读 ______。",
+     "answer": "/eɪ/",
+     "tip": "开音节读字母音"
+    },
+    {
+     "q": "cat 中的 a 在闭音节读 ______。",
+     "answer": "/æ/",
+     "tip": "闭音节短元音"
+    },
+    {
+     "q": "bike 中的 i 在开音节读 ______。",
+     "answer": "/aɪ/",
+     "tip": "开音节"
+    },
+    {
+     "q": "字母组合 ee 在 see 中读 ______。",
+     "answer": "/iː/",
+     "tip": "字母组合"
+    },
+    {
+     "q": "字母组合 ar 在 car, farm 中读 ______。",
+     "answer": "/ɑː/",
+     "tip": "r 音节"
+    },
+    {
+     "q": "字母组合 oy 在 boy 中读 ______。",
+     "answer": "/ɔɪ/",
+     "tip": "双元音"
+    },
+    {
+     "q": "单词 today 的重音在 ______ 个音节。",
+     "answer": "第二",
+     "tip": "重音位置"
+    },
+    {
+     "q": "字母 c 在 city 中读 ______。",
+     "answer": "/s/",
+     "tip": "c 在 i 前读软音"
+    },
+    {
+     "q": "字母 g 在 age 中读 ______。",
+     "answer": "/dʒ/",
+     "tip": "g 在 e 前读软音"
+    },
+    {
+     "q": "字母组合 oo 在 book 中读 ______。",
+     "answer": "/ʊ/",
+     "tip": "短音"
+    }
+   ]
+  },
+  {
+   "id": "01",
+   "file": "名词",
+   "category": "词法",
+   "title": "名词 (Nouns)",
+   "instruction": "写出下列名词的正确形式（复数或所有格）填空。",
+   "sections": [
+    {
+     "heading": "一、名词的分类",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "名词是表示人、事物、地点或抽象概念名称的词。名词可分为专有名词和普通名词两大类。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "类别",
+        "说明",
+        "例词"
+       ],
+       "rows": [
+        [
+         "专有名词",
+         "特定的人、地、机构等，首字母大写",
+         "China, Tom, Monday, English"
+        ],
+        [
+         "普通名词—可数名词",
+         "可以计数，有单复数",
+         "book, apple, student, box"
+        ],
+        [
+         "普通名词—不可数名词",
+         "不可计数，无复数",
+         "water, money, rice, news, bread"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "可数名词与不可数名词的区分是初中重点：不可数名词一般没有复数，也不能直接用 a/an 修饰。"
+      }
+     ]
+    },
+    {
+     "heading": "二、可数名词的复数变化规则",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "变化方式",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般情况",
+         "加 -s",
+         "book→books, pen→pens"
+        ],
+        [
+         "以 s/x/ch/sh 结尾",
+         "加 -es",
+         "bus→buses, box→boxes, watch→watches, dish→dishes"
+        ],
+        [
+         "以 辅音字母+y 结尾",
+         "变 y 为 i 加 -es",
+         "family→families, city→cities"
+        ],
+        [
+         "以 元音字母+y 结尾",
+         "直接加 -s",
+         "boy→boys, day→days"
+        ],
+        [
+         "以 f/fe 结尾",
+         "多变 f/fe 为 v 加 -es",
+         "knife→knives, leaf→leaves, half→halves"
+        ],
+        [
+         "以 辅音字母+o 结尾",
+         "多加 -es（有例外）",
+         "tomato→tomatoes, potato→potatoes；photo→photos"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "不规则复数（需单独记忆）"
+      },
+      {
+       "kind": "eg",
+       "text": "man→men, woman→women, child→children, foot→feet, tooth→teeth, mouse→mice"
+      },
+      {
+       "kind": "eg",
+       "text": "单复数同形：sheep, deer, fish, Chinese, Japanese"
+      }
+     ]
+    },
+    {
+     "heading": "三、不可数名词的量的表达",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "不可数名词表达数量时，借助 “a/some + 量词 + of + 名词” 结构。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "a glass of water（一杯水）  two cups of tea（两杯茶）"
+      },
+      {
+       "kind": "eg",
+       "text": "a piece of paper/news/advice（一张纸／一条新闻／一条建议）"
+      },
+      {
+       "kind": "eg",
+       "text": "a bottle of milk  a bag of rice  three pieces of bread"
+      },
+      {
+       "kind": "note",
+       "text": "复数时把量词变复数：two glasses of water，而 water 本身不变。"
+      }
+     ]
+    },
+    {
+     "heading": "四、名词所有格",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. 's 所有格（多表示有生命的事物）"
+      },
+      {
+       "kind": "eg",
+       "text": "Tom's book（汤姆的书）  the students' books（学生们的书）"
+      },
+      {
+       "kind": "eg",
+       "text": "以 s 结尾的复数只加 ’：the teachers' room；不以 s 结尾的复数加 's：children's"
+      },
+      {
+       "kind": "sub",
+       "text": "2. of 所有格（多表示无生命的事物）"
+      },
+      {
+       "kind": "eg",
+       "text": "the door of the room（房间的门）  the end of the story（故事的结尾）"
+      },
+      {
+       "kind": "sub",
+       "text": "3. 双重所有格 / 特殊用法"
+      },
+      {
+       "kind": "eg",
+       "text": "a friend of my father's（我父亲的一位朋友）；表示时间、距离等：today's newspaper, ten minutes' walk"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "There are three ______ (box) on the desk.",
+     "answer": "boxes",
+     "tip": "以 x 结尾加 -es"
+    },
+    {
+     "q": "I have two ______ (knife).",
+     "answer": "knives",
+     "tip": "f 结尾变 v 加 -es"
+    },
+    {
+     "q": "Look at those ______ (child).",
+     "answer": "children",
+     "tip": "不规则复数"
+    },
+    {
+     "q": "We need a ______ of ______ (piece / paper).",
+     "answer": "piece / paper",
+     "tip": "不可数名词用 a piece of"
+    },
+    {
+     "q": "This is ______ (Tom) bike.",
+     "answer": "Tom's",
+     "tip": "有生命用 's 所有格"
+    },
+    {
+     "q": "The ______ (woman) are talking over there.",
+     "answer": "women",
+     "tip": "不规则复数"
+    },
+    {
+     "q": "How many ______ (tomato) do you want?",
+     "answer": "tomatoes",
+     "tip": "辅音+o 加 -es"
+    },
+    {
+     "q": "There is some ______ (water) in the bottle.",
+     "answer": "water",
+     "tip": "不可数名词不变"
+    },
+    {
+     "q": "These ______ (photo) are beautiful.",
+     "answer": "photos",
+     "tip": "photo 直接加 -s"
+    },
+    {
+     "q": "It's about ten ______ (minute) walk from here.",
+     "answer": "minutes'",
+     "tip": "时间所有格用 s'"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "file": "冠词",
+   "category": "词法",
+   "title": "冠词 (Articles)",
+   "instruction": "用 a / an / the 或用 “/” 表示不填，完成下列填空。",
+   "sections": [
+    {
+     "heading": "一、冠词的种类",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "冠词是虚词，放在名词前帮助说明名词所指的人或事物。分为不定冠词 a/an、定冠词 the，以及不使用冠词的“零冠词”。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、不定冠词 a / an",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "a/an 表示“一个”，用于单数可数名词前，指不确定的某一个。区分依据是后接单词的读音（不是字母）。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "用 a",
+        "用 an"
+       ],
+       "rows": [
+        [
+         "后接辅音音素开头的词",
+         "后接元音音素开头的词"
+        ],
+        [
+         "a book, a boy, a university [ju:]",
+         "an apple, an hour [au], an egg"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "主要用法"
+      },
+      {
+       "kind": "bullet",
+       "text": "第一次提到某人/物：I have a dog."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示“每一”：three times a week（每周三次）"
+      },
+      {
+       "kind": "bullet",
+       "text": "表示某一类：A tiger is a dangerous animal."
+      }
+     ]
+    },
+    {
+     "heading": "三、定冠词 the",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "特指双方都知道的人或物：Close the door, please."
+      },
+      {
+       "kind": "bullet",
+       "text": "第二次提到前面出现过的名词：I have a cat. The cat is white."
+      },
+      {
+       "kind": "bullet",
+       "text": "世界上独一无二的事物：the sun, the moon, the earth"
+      },
+      {
+       "kind": "bullet",
+       "text": "用在序数词、形容词最高级前：the first, the best"
+      },
+      {
+       "kind": "bullet",
+       "text": "用在乐器名词、方位、江河湖海、山脉群岛前：play the piano, in the east, the Great Wall"
+      },
+      {
+       "kind": "bullet",
+       "text": "用在姓氏复数前表示一家人：the Greens（格林一家）"
+      }
+     ]
+    },
+    {
+     "heading": "四、零冠词（不用冠词）",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "不可数名词、复数名词表示泛指：Water is important. I like apples."
+      },
+      {
+       "kind": "bullet",
+       "text": "专有名词、称呼、头衔前：China, Mr Green, Uncle Wang"
+      },
+      {
+       "kind": "bullet",
+       "text": "三餐、球类、棋类运动前：have breakfast, play football, play chess"
+      },
+      {
+       "kind": "bullet",
+       "text": "表示语言、学科、季节等：speak English, in spring"
+      },
+      {
+       "kind": "bullet",
+       "text": "固定搭配：go to school/bed, by bus, at home, at noon"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I have ______ apple. ______ apple is red.",
+     "answer": "an / The",
+     "tip": "首次用 an，再次特指用 the"
+    },
+    {
+     "q": "She plays ______ piano very well.",
+     "answer": "the",
+     "tip": "乐器前用 the"
+    },
+    {
+     "q": "We have ______ breakfast at seven.",
+     "answer": "/",
+     "tip": "三餐前不用冠词"
+    },
+    {
+     "q": "There is ______ university near my home.",
+     "answer": "a",
+     "tip": "university 读 [ju:] 用 a"
+    },
+    {
+     "q": "The sun rises in ______ east.",
+     "answer": "the",
+     "tip": "方位前用 the"
+    },
+    {
+     "q": "He is ______ honest boy.",
+     "answer": "an",
+     "tip": "honest 的 h 不发音，元音开头"
+    },
+    {
+     "q": "I go to ______ school by bus every day.",
+     "answer": "/",
+     "tip": "go to school 固定搭配"
+    },
+    {
+     "q": "Do you like playing ______ basketball?",
+     "answer": "/",
+     "tip": "球类运动前不用冠词"
+    },
+    {
+     "q": "Tom is ______ tallest in his class.",
+     "answer": "the",
+     "tip": "最高级前用 the"
+    },
+    {
+     "q": "______ Greens are watching TV now.",
+     "answer": "The",
+     "tip": "姓氏复数前用 the 表一家人"
+    }
+   ]
+  },
+  {
+   "id": "03",
+   "file": "代词",
+   "category": "词法",
+   "title": "代词 (Pronouns)",
+   "instruction": "用适当的代词完成下列填空。",
+   "sections": [
+    {
+     "heading": "一、人称代词与物主代词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "人称",
+        "主格",
+        "宾格",
+        "形容词性物主",
+        "名词性物主",
+        "反身代词"
+       ],
+       "rows": [
+        [
+         "我",
+         "I",
+         "me",
+         "my",
+         "mine",
+         "myself"
+        ],
+        [
+         "你",
+         "you",
+         "you",
+         "your",
+         "yours",
+         "yourself"
+        ],
+        [
+         "他",
+         "he",
+         "him",
+         "his",
+         "his",
+         "himself"
+        ],
+        [
+         "她",
+         "she",
+         "her",
+         "her",
+         "hers",
+         "herself"
+        ],
+        [
+         "它",
+         "it",
+         "it",
+         "its",
+         "its",
+         "itself"
+        ],
+        [
+         "我们",
+         "we",
+         "us",
+         "our",
+         "ours",
+         "ourselves"
+        ],
+        [
+         "你们",
+         "you",
+         "you",
+         "your",
+         "yours",
+         "yourselves"
+        ],
+        [
+         "他们",
+         "they",
+         "them",
+         "their",
+         "theirs",
+         "themselves"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "主格作主语，宾格作宾语；形容词性物主代词后必须接名词，名词性物主代词单独使用。"
+      },
+      {
+       "kind": "eg",
+       "text": "This is my book. = This book is mine."
+      },
+      {
+       "kind": "eg",
+       "text": "反身代词：Help yourself. / I made it myself.（我自己做的）"
+      }
+     ]
+    },
+    {
+     "heading": "二、指示代词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "this/these 指近处，that/those 指远处；this/that 修饰或指代单数，these/those 指代复数。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "This is my pen. Those are her books."
+      }
+     ]
+    },
+    {
+     "heading": "三、不定代词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "构成",
+        "用于肯定句",
+        "用于否定/疑问句",
+        "含义"
+       ],
+       "rows": [
+        [
+         "some- / any-",
+         "something, someone, somebody",
+         "anything, anyone, anybody",
+         "某物/某人"
+        ],
+        [
+         "no- / every-",
+         "nothing, nobody, everything",
+         "—",
+         "没有/每个"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "some 多用于肯定句，any 多用于否定句和疑问句；但表示请求或希望对方回答 yes 时，疑问句也可用 some。"
+      },
+      {
+       "kind": "eg",
+       "text": "Would you like some tea?（表示请求，用 some）"
+      },
+      {
+       "kind": "sub",
+       "text": "复合不定代词被形容词修饰时，形容词后置"
+      },
+      {
+       "kind": "eg",
+       "text": "something important（重要的事情）  nothing new（没什么新鲜事）"
+      },
+      {
+       "kind": "sub",
+       "text": "many/much/few/little 的区分"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "修饰可数",
+        "修饰不可数",
+        "含义"
+       ],
+       "rows": [
+        [
+         "many",
+         "much",
+         "许多"
+        ],
+        [
+         "a few（肯定）",
+         "a little（肯定）",
+         "一些"
+        ],
+        [
+         "few（否定）",
+         "little（否定）",
+         "很少/几乎没有"
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "This is ______ (I) book, not ______ (you).",
+     "answer": "my / yours",
+     "tip": "形容词性物主 + 名词性物主"
+    },
+    {
+     "q": "Can you help ______ (I) with my English?",
+     "answer": "me",
+     "tip": "作宾语用宾格"
+    },
+    {
+     "q": "The cat is washing ______ (it).",
+     "answer": "itself",
+     "tip": "反身代词"
+    },
+    {
+     "q": "Is there ______ (some) wrong with your car?",
+     "answer": "anything",
+     "tip": "疑问句用 anything"
+    },
+    {
+     "q": "I have ______ (few) money, so I can't buy it.",
+     "answer": "little",
+     "tip": "修饰不可数且否定意义"
+    },
+    {
+     "q": "There are ______ (few) apples left; let's share them.",
+     "answer": "a few",
+     "tip": "可数肯定意义"
+    },
+    {
+     "q": "Would you like ______ (any) coffee?",
+     "answer": "some",
+     "tip": "表示请求用 some"
+    },
+    {
+     "q": "Please help ______ (you) to some fish, kids.",
+     "answer": "yourselves",
+     "tip": "复数反身代词"
+    },
+    {
+     "q": "These books are ______ (they).",
+     "answer": "theirs",
+     "tip": "名词性物主代词"
+    },
+    {
+     "q": "There is ______ (something) interesting in the news.",
+     "answer": "something interesting",
+     "tip": "形容词后置"
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "file": "数词",
+   "category": "词法",
+   "title": "数词 (Numerals)",
+   "instruction": "写出括号内数词的正确形式填空。",
+   "sections": [
+    {
+     "heading": "一、基数词与序数词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "基数词表示数目多少（one, two...），序数词表示顺序先后（first, second...）。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "基数词",
+        "序数词",
+        "缩写"
+       ],
+       "rows": [
+        [
+         "one",
+         "first",
+         "1st"
+        ],
+        [
+         "two",
+         "second",
+         "2nd"
+        ],
+        [
+         "three",
+         "third",
+         "3rd"
+        ],
+        [
+         "five",
+         "fifth",
+         "5th"
+        ],
+        [
+         "eight",
+         "eighth",
+         "8th"
+        ],
+        [
+         "nine",
+         "ninth",
+         "9th"
+        ],
+        [
+         "twelve",
+         "twelfth",
+         "12th"
+        ],
+        [
+         "twenty",
+         "twentieth",
+         "20th"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "序数词构成规律"
+      },
+      {
+       "kind": "bullet",
+       "text": "一般在基数词后加 -th：four→fourth, six→sixth"
+      },
+      {
+       "kind": "bullet",
+       "text": "特殊：one→first, two→second, three→third, five→fifth, eight→eighth, nine→ninth, twelve→twelfth"
+      },
+      {
+       "kind": "bullet",
+       "text": "以 -ty 结尾变 y 为 i 加 -eth：twenty→twentieth"
+      },
+      {
+       "kind": "bullet",
+       "text": "几十几只把个位变序数词：twenty-first, thirty-second"
+      }
+     ]
+    },
+    {
+     "heading": "二、数词的读法",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "百位与十位间加 and：365 → three hundred and sixty-five"
+      },
+      {
+       "kind": "bullet",
+       "text": "hundred/thousand/million 表确数时不加 s：two hundred students"
+      },
+      {
+       "kind": "bullet",
+       "text": "表约数时加 s 并接 of：hundreds of / thousands of（成百上千的）"
+      },
+      {
+       "kind": "bullet",
+       "text": "年份：1998 → nineteen ninety-eight；2008 → two thousand and eight"
+      }
+     ]
+    },
+    {
+     "heading": "三、分数、时间与日期",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "分数：分子基数词，分母序数词；分子大于1分母加 s"
+      },
+      {
+       "kind": "eg",
+       "text": "1/3 → one third   2/5 → two fifths   1/2 → a half   3/4 → three quarters"
+      },
+      {
+       "kind": "sub",
+       "text": "时间"
+      },
+      {
+       "kind": "eg",
+       "text": "6:15 → six fifteen / a quarter past six    7:45 → seven forty-five / a quarter to eight"
+      },
+      {
+       "kind": "sub",
+       "text": "日期"
+      },
+      {
+       "kind": "eg",
+       "text": "May 1st → May the first / the first of May"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "Today is my ______ (nine) birthday.",
+     "answer": "ninth",
+     "tip": "nine 的序数词去 e 加 th"
+    },
+    {
+     "q": "September is the ______ (nine) month of the year.",
+     "answer": "ninth",
+     "tip": "序数词表顺序"
+    },
+    {
+     "q": "There are ______ (twelve) months in a year.",
+     "answer": "twelve",
+     "tip": "基数词表数目"
+    },
+    {
+     "q": "This is the ______ (twenty) time I have been here.",
+     "answer": "twentieth",
+     "tip": "-ty 变 -tieth"
+    },
+    {
+     "q": "There are ______ (hundred) of people in the square.",
+     "answer": "hundreds",
+     "tip": "约数用 hundreds of"
+    },
+    {
+     "q": "Two ______ (third) of the students are girls.",
+     "answer": "thirds",
+     "tip": "分子大于1分母加 s"
+    },
+    {
+     "q": "His office is on the ______ (five) floor.",
+     "answer": "fifth",
+     "tip": "five→fifth"
+    },
+    {
+     "q": "We have ______ (two hundred) books.",
+     "answer": "two hundred",
+     "tip": "确数不加 s"
+    },
+    {
+     "q": "It's a ______ (quarter) past seven now.",
+     "answer": "quarter",
+     "tip": "a quarter past"
+    },
+    {
+     "q": "Children's Day is on the ______ (one) of June.",
+     "answer": "first",
+     "tip": "日期用序数词"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "file": "形容词",
+   "category": "词法",
+   "title": "形容词 (Adjectives)",
+   "instruction": "用括号内形容词的适当形式或选择正确形式填空。",
+   "sections": [
+    {
+     "heading": "一、形容词的作用",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "形容词用来修饰名词或代词，说明其性质、状态或特征。",
+       "opts": {}
+      },
+      {
+       "kind": "sub",
+       "text": "1. 作定语（放在名词前）"
+      },
+      {
+       "kind": "eg",
+       "text": "a beautiful girl（一个漂亮的女孩）  something delicious（好吃的东西，形容词后置）"
+      },
+      {
+       "kind": "sub",
+       "text": "2. 作表语（放在系动词后）"
+      },
+      {
+       "kind": "eg",
+       "text": "She is clever. / The soup tastes good.（系动词 look/feel/taste/sound/smell + 形容词）"
+      },
+      {
+       "kind": "sub",
+       "text": "3. 作宾语补足语"
+      },
+      {
+       "kind": "eg",
+       "text": "Keep the room clean.（保持房间干净）"
+      }
+     ]
+    },
+    {
+     "heading": "二、形容词的位置与顺序",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "多个形容词修饰同一名词时，大致顺序为：限定词→大小→形状→年龄→颜色→国籍→材料→名词。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "a big round wooden table  a nice little old red English car"
+      },
+      {
+       "kind": "note",
+       "text": "复合不定代词（something/anything 等）后，形容词后置：nothing important。"
+      }
+     ]
+    },
+    {
+     "heading": "三、以 -ed 与 -ing 结尾的形容词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "-ed 结尾",
+        "-ing 结尾"
+       ],
+       "rows": [
+        [
+         "表示人的感受“感到……的”",
+         "表示事物性质“令人……的”"
+        ],
+        [
+         "interested 感兴趣的",
+         "interesting 有趣的"
+        ],
+        [
+         "excited 激动的",
+         "exciting 令人激动的"
+        ],
+        [
+         "bored 感到无聊的",
+         "boring 令人厌烦的"
+        ],
+        [
+         "tired 疲倦的",
+         "tiring 累人的"
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "I am interested in the interesting book."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "The film is very ______ (interest).",
+     "answer": "interesting",
+     "tip": "修饰事物用 -ing"
+    },
+    {
+     "q": "The children are ______ (excite) about the trip.",
+     "answer": "excited",
+     "tip": "表示人的感受用 -ed"
+    },
+    {
+     "q": "Please keep your hands ______ (clean).",
+     "answer": "clean",
+     "tip": "作宾补用形容词"
+    },
+    {
+     "q": "Is there anything ______ (new) today?",
+     "answer": "new",
+     "tip": "复合不定代词后形容词后置"
+    },
+    {
+     "q": "The soup smells ______ (good).",
+     "answer": "good",
+     "tip": "系动词后用形容词"
+    },
+    {
+     "q": "It was a ______ (tire) day; I felt very ______ (tire).",
+     "answer": "tiring / tired",
+     "tip": "累人的/感到累"
+    },
+    {
+     "q": "She looks ______ (happy) today.",
+     "answer": "happy",
+     "tip": "look 系动词后用形容词"
+    },
+    {
+     "q": "They live in a ______ (big) new house.",
+     "answer": "big",
+     "tip": "作定语"
+    },
+    {
+     "q": "I feel ______ (bore); this game is ______ (bore).",
+     "answer": "bored / boring",
+     "tip": "感到无聊/令人无聊"
+    },
+    {
+     "q": "He is an ______ (honest) and kind man.",
+     "answer": "honest",
+     "tip": "作定语修饰名词"
+    }
+   ]
+  },
+  {
+   "id": "06",
+   "file": "副词",
+   "category": "词法",
+   "title": "副词 (Adverbs)",
+   "instruction": "用括号内词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、副词的种类",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "种类",
+        "例词",
+        "作用"
+       ],
+       "rows": [
+        [
+         "方式副词",
+         "quickly, well, carefully",
+         "说明动作方式"
+        ],
+        [
+         "时间副词",
+         "now, today, soon, already",
+         "说明时间"
+        ],
+        [
+         "地点副词",
+         "here, there, home, outside",
+         "说明地点"
+        ],
+        [
+         "频度副词",
+         "always, often, sometimes, never",
+         "说明频率"
+        ],
+        [
+         "程度副词",
+         "very, too, quite, so, enough",
+         "说明程度"
+        ],
+        [
+         "疑问副词",
+         "how, when, where, why",
+         "引导疑问"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "二、形容词变副词的规则",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "变化",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般情况",
+         "加 -ly",
+         "quick→quickly, slow→slowly"
+        ],
+        [
+         "以 辅音+y 结尾",
+         "变 y 为 i 加 -ly",
+         "happy→happily, easy→easily"
+        ],
+        [
+         "以 -le 结尾",
+         "去 e 加 -y",
+         "possible→possibly, terrible→terribly"
+        ],
+        [
+         "以 -ic 结尾",
+         "加 -ally",
+         "basic→basically"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "有些词形容词副词同形：fast, hard, early, late, high, near；well 是 good 的副词。"
+      },
+      {
+       "kind": "eg",
+       "text": "He is a hard worker. He works hard.（hard 作形容词/副词同形）"
+      },
+      {
+       "kind": "note",
+       "text": "hardly 意为“几乎不”，不是 hard 的副词：I can hardly hear you."
+      }
+     ]
+    },
+    {
+     "heading": "三、副词的位置",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "频度副词一般放在 be 动词/情态动词之后，实义动词之前：She is always late. / He often gets up early."
+      },
+      {
+       "kind": "bullet",
+       "text": "方式副词一般放在动词或宾语之后：He speaks English well."
+      },
+      {
+       "kind": "bullet",
+       "text": "enough 修饰形容词/副词时后置：old enough；修饰名词时前置：enough money。"
+      },
+      {
+       "kind": "bullet",
+       "text": "too...to（太……而不能）：He is too young to go to school."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "He runs very ______ (quick).",
+     "answer": "quickly",
+     "tip": "修饰动词用副词"
+    },
+    {
+     "q": "She sings ______ (beautiful).",
+     "answer": "beautifully",
+     "tip": "形容词加 -ly"
+    },
+    {
+     "q": "They can ______ (easy) finish the work.",
+     "answer": "easily",
+     "tip": "y 变 i 加 -ly"
+    },
+    {
+     "q": "Tom studies ______ (hard) every day.",
+     "answer": "hard",
+     "tip": "hard 副词同形"
+    },
+    {
+     "q": "I can ______ (hard) believe it.",
+     "answer": "hardly",
+     "tip": "hardly 意为几乎不"
+    },
+    {
+     "q": "She speaks English very ______ (good).",
+     "answer": "well",
+     "tip": "good 的副词是 well"
+    },
+    {
+     "q": "He is ______ (careful) a driver and drives ______ (careful).",
+     "answer": "careful / carefully",
+     "tip": "形容词/副词"
+    },
+    {
+     "q": "The boy is old ______ (enough) to dress himself.",
+     "answer": "enough",
+     "tip": "enough 修饰形容词后置"
+    },
+    {
+     "q": "He is ______ (too) tired to walk on.",
+     "answer": "too",
+     "tip": "too...to 结构"
+    },
+    {
+     "q": "She ______ (usual) goes to school on foot.",
+     "answer": "usually",
+     "tip": "频度副词"
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "file": "形容词和副词的比较等级",
+   "category": "词法",
+   "title": "形容词和副词的比较等级 (Comparison)",
+   "instruction": "用括号内词的适当形式（比较级或最高级）填空。",
+   "sections": [
+    {
+     "heading": "一、三个等级",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "形容词和副词有原级、比较级和最高级三个等级。比较级表示两者比较，最高级表示三者及以上中最……。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、规则变化",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "比较级 / 最高级",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般单音节",
+         "加 -er / -est",
+         "tall→taller→tallest"
+        ],
+        [
+         "以 e 结尾",
+         "加 -r / -st",
+         "nice→nicer→nicest"
+        ],
+        [
+         "辅音+y 结尾",
+         "变 y 为 i 加 -er/-est",
+         "happy→happier→happiest"
+        ],
+        [
+         "重读闭音节（辅元辅）",
+         "双写末尾辅音字母",
+         "big→bigger→biggest, hot→hotter→hottest"
+        ],
+        [
+         "多音节/部分双音节",
+         "前加 more / most",
+         "beautiful→more/most beautiful"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、不规则变化（必记）",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "原级",
+        "比较级",
+        "最高级"
+       ],
+       "rows": [
+        [
+         "good / well",
+         "better",
+         "best"
+        ],
+        [
+         "bad / badly / ill",
+         "worse",
+         "worst"
+        ],
+        [
+         "many / much",
+         "more",
+         "most"
+        ],
+        [
+         "little",
+         "less",
+         "least"
+        ],
+        [
+         "far",
+         "farther/further",
+         "farthest/furthest"
+        ],
+        [
+         "old",
+         "older/elder",
+         "oldest/eldest"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、常见句型",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "原级比较 as...as（和……一样）：He is as tall as me. 否定 not as/so...as。"
+      },
+      {
+       "kind": "bullet",
+       "text": "比较级 + than：This box is heavier than that one."
+      },
+      {
+       "kind": "bullet",
+       "text": "比较级前可用 much / a little / even 修饰程度：much bigger, a little taller。"
+      },
+      {
+       "kind": "bullet",
+       "text": "the + 最高级 + of/in 范围：He is the tallest in his class."
+      },
+      {
+       "kind": "bullet",
+       "text": "“越来越……”：比较级 and 比较级 / more and more + 多音节：hotter and hotter, more and more beautiful。"
+      },
+      {
+       "kind": "bullet",
+       "text": "“越……越……”：The more, the better.（越多越好）"
+      },
+      {
+       "kind": "bullet",
+       "text": "“三者中较……的一个”：one of the + 最高级 + 复数名词：one of the best students。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "This book is ______ (interesting) than that one.",
+     "answer": "more interesting",
+     "tip": "多音节用 more"
+    },
+    {
+     "q": "He is the ______ (tall) student in his class.",
+     "answer": "tallest",
+     "tip": "最高级 + in 范围"
+    },
+    {
+     "q": "My bag is ______ (heavy) than yours.",
+     "answer": "heavier",
+     "tip": "y 变 i 加 -er"
+    },
+    {
+     "q": "Health is ______ (important) than money.",
+     "answer": "more important",
+     "tip": "多音节比较级"
+    },
+    {
+     "q": "She sings ______ (well) than I.",
+     "answer": "better",
+     "tip": "well 的比较级"
+    },
+    {
+     "q": "It is one of the ______ (big) cities in China.",
+     "answer": "biggest",
+     "tip": "one of the 最高级"
+    },
+    {
+     "q": "The weather is getting ______ (warm) and ______ (warm).",
+     "answer": "warmer / warmer",
+     "tip": "越来越……"
+    },
+    {
+     "q": "This is ______ (bad) film I have ever seen.",
+     "answer": "the worst",
+     "tip": "bad 的最高级"
+    },
+    {
+     "q": "Tom runs ______ (fast) than Jack.",
+     "answer": "faster",
+     "tip": "fast 加 -er"
+    },
+    {
+     "q": "The more you read, the ______ (much) you know.",
+     "answer": "more",
+     "tip": "the more...the more 句型"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "file": "介词",
+   "category": "词法",
+   "title": "介词 (Prepositions)",
+   "instruction": "用适当的介词填空。",
+   "sections": [
+    {
+     "heading": "一、时间介词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "介词",
+        "用法",
+        "例子"
+       ],
+       "rows": [
+        [
+         "at",
+         "具体时刻、某点时间",
+         "at 6 o'clock, at noon, at night"
+        ],
+        [
+         "on",
+         "具体某天、星期、特定日期",
+         "on Monday, on May 1st, on a cold morning"
+        ],
+        [
+         "in",
+         "年、月、季节、上午/下午",
+         "in 2020, in May, in spring, in the morning"
+        ],
+        [
+         "for + 时间段",
+         "持续多久",
+         "for two hours"
+        ],
+        [
+         "since + 时间点",
+         "自从",
+         "since 2010"
+        ],
+        [
+         "before / after",
+         "在……前/后",
+         "before dinner, after class"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "in the morning 但 on a cold morning（有具体修饰时用 on）。"
+      }
+     ]
+    },
+    {
+     "heading": "二、地点/方位介词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "介词",
+        "含义",
+        "例子"
+       ],
+       "rows": [
+        [
+         "in",
+         "在……里面（范围内）",
+         "in the room, in China"
+        ],
+        [
+         "on",
+         "在……上面（接触表面）",
+         "on the desk, on the wall"
+        ],
+        [
+         "at",
+         "在……（较小地点）",
+         "at the station, at home"
+        ],
+        [
+         "under / over",
+         "在……正下方/正上方",
+         "under the tree, over the bridge"
+        ],
+        [
+         "behind / in front of",
+         "在……后面/前面",
+         "behind the door"
+        ],
+        [
+         "between / among",
+         "两者之间/三者之间",
+         "between A and B, among the trees"
+        ],
+        [
+         "next to / near",
+         "紧挨着/在……附近",
+         "next to the bank"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、其他常用介词与固定搭配",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "方式：by bus/bike, on foot, in English, with a pen"
+      },
+      {
+       "kind": "bullet",
+       "text": "with（带有）/ without（没有）：a girl with long hair"
+      },
+      {
+       "kind": "bullet",
+       "text": "about（关于）, like（像）, for（为了）, of（……的）"
+      },
+      {
+       "kind": "note",
+       "text": "介词后接动词要用动名词形式：be good at swimming, look forward to seeing you。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I get up ______ six o'clock every morning.",
+     "answer": "at",
+     "tip": "具体时刻用 at"
+    },
+    {
+     "q": "We have a party ______ Christmas Day.",
+     "answer": "on",
+     "tip": "具体某天用 on"
+    },
+    {
+     "q": "It often rains ______ summer.",
+     "answer": "in",
+     "tip": "季节用 in"
+    },
+    {
+     "q": "The picture is ______ the wall.",
+     "answer": "on",
+     "tip": "接触表面用 on"
+    },
+    {
+     "q": "There is a ball ______ the desk.",
+     "answer": "under",
+     "tip": "在下方用 under"
+    },
+    {
+     "q": "He has lived here ______ 2015.",
+     "answer": "since",
+     "tip": "自从时间点用 since"
+    },
+    {
+     "q": "She sits ______ Tom and Jack.",
+     "answer": "between",
+     "tip": "两者之间用 between"
+    },
+    {
+     "q": "I go to school ______ bike.",
+     "answer": "by",
+     "tip": "交通方式用 by"
+    },
+    {
+     "q": "He is good ______ playing football.",
+     "answer": "at",
+     "tip": "be good at 固定搭配"
+    },
+    {
+     "q": "We waited for the bus ______ half an hour.",
+     "answer": "for",
+     "tip": "持续时间段用 for"
+    }
+   ]
+  },
+  {
+   "id": "09",
+   "file": "连词",
+   "category": "词法",
+   "title": "连词 (Conjunctions)",
+   "instruction": "用适当的连词填空。",
+   "sections": [
+    {
+     "heading": "一、并列连词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "并列连词连接对等的词、短语或句子。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "连词",
+        "含义",
+        "例子"
+       ],
+       "rows": [
+        [
+         "and",
+         "和、并且",
+         "Tom and Jack are friends."
+        ],
+        [
+         "but",
+         "但是",
+         "He is poor but happy."
+        ],
+        [
+         "or",
+         "或者、否则",
+         "Hurry up, or you'll be late."
+        ],
+        [
+         "so",
+         "所以",
+         "It rained, so we stayed at home."
+        ],
+        [
+         "for",
+         "因为",
+         "He stayed at home, for he was ill."
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "汉语“虽然……但是……”“因为……所以……”在英语中 although/because 与 but/so 不能同时使用。"
+      }
+     ]
+    },
+    {
+     "heading": "二、关联连词（成对使用）",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "结构",
+        "含义",
+        "谓语一致"
+       ],
+       "rows": [
+        [
+         "both...and",
+         "两者都",
+         "谓语用复数"
+        ],
+        [
+         "either...or",
+         "要么……要么",
+         "就近原则"
+        ],
+        [
+         "neither...nor",
+         "既不……也不",
+         "就近原则"
+        ],
+        [
+         "not only...but also",
+         "不但……而且",
+         "就近原则"
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "Both Tom and Jack are students. Either you or he is right."
+      }
+     ]
+    },
+    {
+     "heading": "三、从属连词",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "时间：when, while, as, before, after, until, as soon as"
+      },
+      {
+       "kind": "bullet",
+       "text": "原因：because, since, as"
+      },
+      {
+       "kind": "bullet",
+       "text": "条件：if, unless"
+      },
+      {
+       "kind": "bullet",
+       "text": "让步：although / though, even if"
+      },
+      {
+       "kind": "bullet",
+       "text": "结果/目的：so...that, so that"
+      },
+      {
+       "kind": "eg",
+       "text": "I will call you as soon as I arrive. He is so tired that he can't walk."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "Hurry up, ______ you will miss the train.",
+     "answer": "or",
+     "tip": "否则用 or"
+    },
+    {
+     "q": "He was ill, ______ he didn't go to school.",
+     "answer": "so",
+     "tip": "所以用 so"
+    },
+    {
+     "q": "______ Tom ______ Jack like sports. (两者都)",
+     "answer": "Both / and",
+     "tip": "both...and"
+    },
+    {
+     "q": "______ it was raining, we went out. (虽然)",
+     "answer": "Although/Though",
+     "tip": "让步连词"
+    },
+    {
+     "q": "I'll wait ______ you come back.",
+     "answer": "until",
+     "tip": "直到用 until"
+    },
+    {
+     "q": "______ you don't hurry, you'll be late. (如果不)",
+     "answer": "Unless",
+     "tip": "unless = if not"
+    },
+    {
+     "q": "Not only he ______ also I ______ interested in it.",
+     "answer": "but / am",
+     "tip": "就近原则"
+    },
+    {
+     "q": "He stayed at home ______ he was ill. (因为)",
+     "answer": "because",
+     "tip": "原因连词"
+    },
+    {
+     "q": "Call me ______ you get there. (一……就)",
+     "answer": "as soon as",
+     "tip": "as soon as"
+    },
+    {
+     "q": "She is ______ tired ______ she can't move. (如此……以至于)",
+     "answer": "so / that",
+     "tip": "so...that"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "file": "一般现在时",
+   "category": "动词的时态",
+   "title": "一般现在时 (The Simple Present Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "一般现在时表示经常性、习惯性的动作或状态，客观存在的事实、真理，以及主语当前的特征和能力。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、基本用法",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. 表示经常性、习惯性的动作"
+      },
+      {
+       "kind": "eg",
+       "text": "I get up at six every morning.（我每天早上六点起床。）"
+      },
+      {
+       "kind": "sub",
+       "text": "2. 表示客观真理、自然规律"
+      },
+      {
+       "kind": "eg",
+       "text": "The earth goes around the sun.（地球绕着太阳转。）"
+      },
+      {
+       "kind": "sub",
+       "text": "3. 表示主语现在的特征、状态或能力"
+      },
+      {
+       "kind": "eg",
+       "text": "My father is a doctor. / Tom likes basketball."
+      },
+      {
+       "kind": "sub",
+       "text": "4. 表示按时间表将要发生的动作"
+      },
+      {
+       "kind": "eg",
+       "text": "The train leaves at 8:00 tomorrow."
+      },
+      {
+       "kind": "sub",
+       "text": "5. 时间/条件状语从句中用一般现在时表将来（主将从现）"
+      },
+      {
+       "kind": "eg",
+       "text": "I will call you when he comes back."
+      }
+     ]
+    },
+    {
+     "heading": "三、结构构成",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. be 动词 (am / is / are)"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "主语",
+        "be 动词",
+        "例句"
+       ],
+       "rows": [
+        [
+         "I",
+         "am",
+         "I am a student."
+        ],
+        [
+         "you / we / they / 复数",
+         "are",
+         "They are teachers."
+        ],
+        [
+         "he / she / it / 单数",
+         "is",
+         "He is tall."
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "2. 实义动词（第三人称单数加 -s/-es，其余用原形）"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "主语",
+        "动词形式",
+        "例句"
+       ],
+       "rows": [
+        [
+         "I/you/we/they/复数",
+         "动词原形",
+         "They like apples."
+        ],
+        [
+         "he/she/it/单数",
+         "动词第三人称单数",
+         "She likes apples."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、动词第三人称单数变化规则",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "变化",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般情况",
+         "加 -s",
+         "work→works, play→plays"
+        ],
+        [
+         "s/x/ch/sh/o 结尾",
+         "加 -es",
+         "watch→watches, go→goes, do→does"
+        ],
+        [
+         "辅音+y 结尾",
+         "变 y 为 i 加 -es",
+         "study→studies, fly→flies"
+        ],
+        [
+         "元音+y 结尾",
+         "直接加 -s",
+         "play→plays, buy→buys"
+        ],
+        [
+         "特殊",
+         "单独记忆",
+         "have→has"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "五、否定句与疑问句",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "be 动词的句子"
+      },
+      {
+       "kind": "eg",
+       "text": "否定：He isn't at home.  疑问：Is he at home? —Yes, he is."
+      },
+      {
+       "kind": "sub",
+       "text": "实义动词的句子（借助 do/does）"
+      },
+      {
+       "kind": "eg",
+       "text": "否定：She doesn't like coffee. / They don't like coffee."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Does she like coffee? —Yes, she does. / No, she doesn't."
+      },
+      {
+       "kind": "eg",
+       "text": "特殊疑问：Where does he live?"
+      }
+     ]
+    },
+    {
+     "heading": "六、时间标志词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "always, usually, often, sometimes, seldom, never, every day/week, on Sundays, once a week 等。",
+       "opts": {}
+      },
+      {
+       "kind": "note",
+       "text": "频度副词一般放在 be 动词后、实义动词前：He often plays football."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "My sister ______ (get) up at seven every day.",
+     "answer": "gets",
+     "tip": "第三人称单数加 -s"
+    },
+    {
+     "q": "We ______ (not like) rainy days.",
+     "answer": "don't like",
+     "tip": "复数否定用 don't"
+    },
+    {
+     "q": "______ he ______ (do) his homework every evening?",
+     "answer": "Does / do",
+     "tip": "Does + 主语 + 原形"
+    },
+    {
+     "q": "The sun ______ (rise) in the east.",
+     "answer": "rises",
+     "tip": "客观真理"
+    },
+    {
+     "q": "Tom and Jack ______ (be) good friends.",
+     "answer": "are",
+     "tip": "复数用 are"
+    },
+    {
+     "q": "She usually ______ (go) to school by bike.",
+     "answer": "goes",
+     "tip": "o 结尾加 -es"
+    },
+    {
+     "q": "My father ______ (watch) TV after dinner.",
+     "answer": "watches",
+     "tip": "ch 结尾加 -es"
+    },
+    {
+     "q": "Lucy ______ (have) a nice bag.",
+     "answer": "has",
+     "tip": "have→has"
+    },
+    {
+     "q": "Water ______ (not boil) at 50°C.",
+     "answer": "doesn't boil",
+     "tip": "第三人称单数否定"
+    },
+    {
+     "q": "If it ______ (rain) tomorrow, we will stay home.",
+     "answer": "rains",
+     "tip": "主将从现"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "file": "一般过去时",
+   "category": "动词的时态",
+   "title": "一般过去时 (The Simple Past Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "一般过去时表示过去某个时间发生的动作或存在的状态，也表示过去经常或反复发生的动作。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、基本用法",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "表示过去某时发生的动作：I saw him yesterday."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示过去的状态：He was a teacher ten years ago."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示过去反复的动作：We often played football after school."
+      }
+     ]
+    },
+    {
+     "heading": "三、结构构成",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. be 动词：was / were"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "主语",
+        "be 动词过去式"
+       ],
+       "rows": [
+        [
+         "I / he / she / it / 单数",
+         "was"
+        ],
+        [
+         "you / we / they / 复数",
+         "were"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "2. 实义动词过去式（所有人称相同）"
+      },
+      {
+       "kind": "eg",
+       "text": "I / He / They worked hard yesterday."
+      }
+     ]
+    },
+    {
+     "heading": "四、动词过去式变化规则",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "变化",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般情况",
+         "加 -ed",
+         "work→worked, play→played"
+        ],
+        [
+         "以 e 结尾",
+         "加 -d",
+         "like→liked, live→lived"
+        ],
+        [
+         "辅音+y 结尾",
+         "变 y 为 i 加 -ed",
+         "study→studied, carry→carried"
+        ],
+        [
+         "重读闭音节",
+         "双写末尾辅音加 -ed",
+         "stop→stopped, plan→planned"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "常见不规则动词（必记）"
+      },
+      {
+       "kind": "eg",
+       "text": "am/is→was, are→were, go→went, do→did, have→had, see→saw"
+      },
+      {
+       "kind": "eg",
+       "text": "come→came, get→got, make→made, take→took, buy→bought, think→thought"
+      }
+     ]
+    },
+    {
+     "heading": "五、否定句与疑问句",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "be 动词句子"
+      },
+      {
+       "kind": "eg",
+       "text": "否定：He wasn't at home.  疑问：Were you there? —Yes, I was."
+      },
+      {
+       "kind": "sub",
+       "text": "实义动词句子（借助 did，动词还原为原形）"
+      },
+      {
+       "kind": "eg",
+       "text": "否定：I didn't go to school yesterday."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Did you see him? —Yes, I did. / No, I didn't."
+      },
+      {
+       "kind": "eg",
+       "text": "特殊疑问：What did you do last night?"
+      }
+     ]
+    },
+    {
+     "heading": "六、时间标志词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "yesterday, last night/week/year, ... ago, just now, in 2010, this morning, at that time 等。",
+       "opts": {}
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I ______ (go) to the park yesterday.",
+     "answer": "went",
+     "tip": "go 的过去式 went"
+    },
+    {
+     "q": "She ______ (be) ill last week.",
+     "answer": "was",
+     "tip": "单数用 was"
+    },
+    {
+     "q": "They ______ (not come) to school yesterday.",
+     "answer": "didn't come",
+     "tip": "did + not + 原形"
+    },
+    {
+     "q": "______ you ______ (see) the film last night?",
+     "answer": "Did / see",
+     "tip": "Did + 主语 + 原形"
+    },
+    {
+     "q": "He ______ (study) English very hard last term.",
+     "answer": "studied",
+     "tip": "y 变 i 加 -ed"
+    },
+    {
+     "q": "We ______ (stop) the car and got off.",
+     "answer": "stopped",
+     "tip": "双写 p 加 -ed"
+    },
+    {
+     "q": "My parents ______ (be) teachers ten years ago.",
+     "answer": "were",
+     "tip": "复数用 were"
+    },
+    {
+     "q": "What ______ you ______ (do) last weekend?",
+     "answer": "did / do",
+     "tip": "特殊疑问"
+    },
+    {
+     "q": "Tom ______ (buy) a new bike last month.",
+     "answer": "bought",
+     "tip": "buy 的过去式"
+    },
+    {
+     "q": "She ______ (not be) at home this morning.",
+     "answer": "wasn't",
+     "tip": "was not"
+    }
+   ]
+  },
+  {
+   "id": "12",
+   "file": "一般将来时",
+   "category": "动词的时态",
+   "title": "一般将来时 (The Simple Future Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "一般将来时表示将来某个时间要发生的动作或存在的状态，也表示将来经常发生的动作。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、常见结构",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. will + 动词原形（各人称通用）"
+      },
+      {
+       "kind": "eg",
+       "text": "I will go to Beijing next week.  否定：won't (will not)  疑问：Will you go...?"
+      },
+      {
+       "kind": "sub",
+       "text": "2. be going to + 动词原形"
+      },
+      {
+       "kind": "eg",
+       "text": "They are going to have a picnic tomorrow."
+      },
+      {
+       "kind": "sub",
+       "text": "3. be about to + 动词原形（即将，表马上要做）"
+      },
+      {
+       "kind": "eg",
+       "text": "The train is about to leave."
+      }
+     ]
+    },
+    {
+     "heading": "三、will 与 be going to 的区别",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "",
+        "will",
+        "be going to"
+       ],
+       "rows": [
+        [
+         "计划打算",
+         "临时决定",
+         "事先计划、打算"
+        ],
+        [
+         "预测依据",
+         "主观推测",
+         "有迹象的客观推测"
+        ],
+        [
+         "例句",
+         "I'll help you.（临时决定）",
+         "It's going to rain.（乌云密布）"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、其他表将来的方式",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "现在进行时表将来（表按计划的位移动作）：I am leaving tomorrow."
+      },
+      {
+       "kind": "bullet",
+       "text": "一般现在时表将来（时间表）：The film starts at seven."
+      },
+      {
+       "kind": "bullet",
+       "text": "时间/条件状语从句用一般现在时表将来：主句 will，从句用一般现在时。"
+      }
+     ]
+    },
+    {
+     "heading": "五、时间标志词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "tomorrow, next week/month/year, in the future, soon, in +时间段（in three days）, from now on 等。",
+       "opts": {}
+      },
+      {
+       "kind": "note",
+       "text": "There be 的将来时：There will be / There is going to be a meeting."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I ______ (visit) my grandma next Sunday.",
+     "answer": "will visit / am going to visit",
+     "tip": "一般将来时"
+    },
+    {
+     "q": "Look at the clouds! It ______ (rain).",
+     "answer": "is going to rain",
+     "tip": "有迹象用 be going to"
+    },
+    {
+     "q": "They ______ (not have) a meeting tomorrow.",
+     "answer": "won't have",
+     "tip": "will not"
+    },
+    {
+     "q": "______ you ______ (come) to my party?",
+     "answer": "Will / come",
+     "tip": "Will + 主语 + 原形"
+    },
+    {
+     "q": "There ______ (be) a football match next week.",
+     "answer": "will be",
+     "tip": "there will be"
+    },
+    {
+     "q": "If it ______ (be) fine tomorrow, we will go out.",
+     "answer": "is",
+     "tip": "条件从句用一般现在时"
+    },
+    {
+     "q": "She ______ (leave) for Shanghai tomorrow morning.",
+     "answer": "is leaving / will leave",
+     "tip": "进行时表将来"
+    },
+    {
+     "q": "We ______ (start) our trip in three days.",
+     "answer": "will start",
+     "tip": "in + 时间段"
+    },
+    {
+     "q": "What ______ you ______ (do) this weekend?",
+     "answer": "are / going to do",
+     "tip": "计划用 be going to"
+    },
+    {
+     "q": "The train ______ (arrive) at 9 o'clock tonight.",
+     "answer": "will arrive / arrives",
+     "tip": "时间表可用一般现在"
+    }
+   ]
+  },
+  {
+   "id": "12A",
+   "file": "过去将来时",
+   "category": "动词的时态",
+   "title": "过去将来时 (The Past Future Tense)",
+   "instruction": "用括号内动词的适当形式（过去将来时）填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "过去将来时表示从过去某一时间来看将要发生的动作或存在的状态，即“过去的将来”。它最常出现在宾语从句中——当主句是过去时，从句表将来时就要用过去将来时。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "He said he would come tomorrow.（他说他明天会来。）"
+      }
+     ]
+    },
+    {
+     "heading": "二、常见结构",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. would + 动词原形（各人称通用，最常用）"
+      },
+      {
+       "kind": "eg",
+       "text": "I knew that he would help me.（我知道他会帮我。）"
+      },
+      {
+       "kind": "sub",
+       "text": "2. was / were going to + 动词原形（打算、计划）"
+      },
+      {
+       "kind": "eg",
+       "text": "They were going to have a party.（他们打算办个聚会。）"
+      },
+      {
+       "kind": "sub",
+       "text": "3. was / were about to + 动词原形（即将、马上要）"
+      },
+      {
+       "kind": "eg",
+       "text": "The train was about to leave when I arrived.（我到时火车正要开。）"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "结构",
+        "含义",
+        "例句"
+       ],
+       "rows": [
+        [
+         "would + 原形",
+         "过去看将来会发生",
+         "She said she would call."
+        ],
+        [
+         "was/were going to + 原形",
+         "过去的打算/计划",
+         "He was going to buy a car."
+        ],
+        [
+         "was/were about to + 原形",
+         "过去即将发生",
+         "It was about to rain."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、主要用法",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "宾语从句中：主句为过去时，从句表将来用过去将来时（时态呼应）。"
+      },
+      {
+       "kind": "eg",
+       "text": "He told me that he would be back soon."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示过去的打算或预定：I was going to visit you, but it rained."
+      },
+      {
+       "kind": "bullet",
+       "text": "与一般将来时对照：将来时从“现在”看，过去将来时从“过去”看。"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "从“现在”看（一般将来时）",
+        "从“过去”看（过去将来时）"
+       ],
+       "rows": [
+        [
+         "will do",
+         "would do"
+        ],
+        [
+         "am/is/are going to do",
+         "was/were going to do"
+        ],
+        [
+         "He says he will come.",
+         "He said he would come."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、否定句与疑问句",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "否定：He said he wouldn't come. / I wasn't going to tell you."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Did he say he would come? —Yes, he did."
+      },
+      {
+       "kind": "note",
+       "text": "would 是 will 的过去式；把直接引语变间接引语时，will 要相应变成 would。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "He said he ______ (come) the next day.",
+     "answer": "would come",
+     "tip": "宾语从句表过去的将来"
+    },
+    {
+     "q": "I knew that she ______ (help) me.",
+     "answer": "would help",
+     "tip": "would + 原形"
+    },
+    {
+     "q": "They ______ (be going to) have a party, but it rained.",
+     "answer": "were going to",
+     "tip": "过去的打算"
+    },
+    {
+     "q": "The teacher told us that we ______ (have) an exam.",
+     "answer": "would have",
+     "tip": "时态呼应"
+    },
+    {
+     "q": "She said she ______ (not come) to the party.",
+     "answer": "wouldn't come",
+     "tip": "否定"
+    },
+    {
+     "q": "I ______ (be going to) call you, but I lost your number.",
+     "answer": "was going to",
+     "tip": "过去打算"
+    },
+    {
+     "q": "He asked if I ______ (go) with him.",
+     "answer": "would go",
+     "tip": "宾语从句"
+    },
+    {
+     "q": "The train ______ (be about to) leave when we arrived.",
+     "answer": "was about to",
+     "tip": "过去即将"
+    },
+    {
+     "q": "We were told that the meeting ______ (start) at nine.",
+     "answer": "would start",
+     "tip": "时态呼应"
+    },
+    {
+     "q": "Tom said he ______ (finish) it soon.",
+     "answer": "would finish",
+     "tip": "would + 原形"
+    }
+   ]
+  },
+  {
+   "id": "13",
+   "file": "现在进行时",
+   "category": "动词的时态",
+   "title": "现在进行时 (The Present Continuous Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "现在进行时表示现在正在进行或发生的动作，也可表示现阶段一直在做的事，或用现在进行时表将来（计划安排）。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、结构：am / is / are + 动词-ing",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "主语",
+        "结构",
+        "例句"
+       ],
+       "rows": [
+        [
+         "I",
+         "am + doing",
+         "I am reading."
+        ],
+        [
+         "he/she/it/单数",
+         "is + doing",
+         "She is singing."
+        ],
+        [
+         "you/we/they/复数",
+         "are + doing",
+         "They are playing."
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "否定：He is not (isn't) working.  疑问：Are you working? —Yes, I am."
+      }
+     ]
+    },
+    {
+     "heading": "三、动词-ing 变化规则",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "规则",
+        "变化",
+        "例词"
+       ],
+       "rows": [
+        [
+         "一般情况",
+         "加 -ing",
+         "work→working, play→playing"
+        ],
+        [
+         "以不发音 e 结尾",
+         "去 e 加 -ing",
+         "make→making, write→writing"
+        ],
+        [
+         "重读闭音节",
+         "双写末尾辅音加 -ing",
+         "run→running, swim→swimming, sit→sitting"
+        ],
+        [
+         "以 ie 结尾",
+         "变 ie 为 y 加 -ing",
+         "lie→lying, die→dying"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、用法要点",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "表示此刻正在进行：Look! They are dancing."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示现阶段持续（未必此刻）：I am reading a novel these days."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示计划好的将来（去、来、离开等位移动词）：We are leaving tomorrow."
+      },
+      {
+       "kind": "note",
+       "text": "感官、情感、拥有类动词一般不用进行时：like, love, want, know, have(拥有), see, hear。"
+      }
+     ]
+    },
+    {
+     "heading": "五、标志词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "now, right now, at the moment, Look!, Listen!, these days 等。",
+       "opts": {}
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "Look! The children ______ (play) games.",
+     "answer": "are playing",
+     "tip": "此刻正在进行"
+    },
+    {
+     "q": "Listen! Someone ______ (sing) in the room.",
+     "answer": "is singing",
+     "tip": "现在进行时"
+    },
+    {
+     "q": "He ______ (write) a letter now.",
+     "answer": "is writing",
+     "tip": "去 e 加 -ing"
+    },
+    {
+     "q": "They ______ (run) on the playground.",
+     "answer": "are running",
+     "tip": "双写 n 加 -ing"
+    },
+    {
+     "q": "What ______ you ______ (do) now?",
+     "answer": "are / doing",
+     "tip": "特殊疑问"
+    },
+    {
+     "q": "I ______ (not watch) TV at the moment.",
+     "answer": "am not watching",
+     "tip": "否定"
+    },
+    {
+     "q": "The dog ______ (lie) on the floor.",
+     "answer": "is lying",
+     "tip": "ie 变 y 加 -ing"
+    },
+    {
+     "q": "We ______ (leave) for London tomorrow.",
+     "answer": "are leaving",
+     "tip": "进行时表将来"
+    },
+    {
+     "q": "______ she ______ (read) a book now?",
+     "answer": "Is / reading",
+     "tip": "疑问"
+    },
+    {
+     "q": "Look! It ______ (rain) outside.",
+     "answer": "is raining",
+     "tip": "此刻进行"
+    }
+   ]
+  },
+  {
+   "id": "14",
+   "file": "过去进行时",
+   "category": "动词的时态",
+   "title": "过去进行时 (The Past Continuous Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "过去进行时表示过去某一时刻或某一段时间正在进行的动作。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、结构：was / were + 动词-ing",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "I/he/she/it/单数 + was + doing；you/we/they/复数 + were + doing。"
+      },
+      {
+       "kind": "eg",
+       "text": "肯定：They were playing football at five yesterday."
+      },
+      {
+       "kind": "eg",
+       "text": "否定：He wasn't sleeping.  疑问：Were you watching TV? —Yes, I was."
+      }
+     ]
+    },
+    {
+     "heading": "三、用法要点",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "表示过去某一具体时刻正在做：At 8 o'clock last night, I was doing my homework."
+      },
+      {
+       "kind": "bullet",
+       "text": "常与 when / while 连用：一个动作进行时，另一个动作发生。"
+      },
+      {
+       "kind": "eg",
+       "text": "When the phone rang, I was cooking.（电话响时我正在做饭。）"
+      },
+      {
+       "kind": "eg",
+       "text": "While I was reading, my brother was playing.（两个动作同时进行，常用 while）"
+      },
+      {
+       "kind": "note",
+       "text": "when 后多接一般过去时（短暂动作），while 后多接过去进行时（持续动作）。"
+      }
+     ]
+    },
+    {
+     "heading": "四、标志词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "at this time yesterday, at 8 o'clock last night, this time last week, when, while 等。",
+       "opts": {}
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "At nine last night, I ______ (read) a book.",
+     "answer": "was reading",
+     "tip": "过去某时正在进行"
+    },
+    {
+     "q": "They ______ (play) football at this time yesterday.",
+     "answer": "were playing",
+     "tip": "复数用 were"
+    },
+    {
+     "q": "When I ______ (come) in, she was cooking.",
+     "answer": "came",
+     "tip": "when + 一般过去时"
+    },
+    {
+     "q": "While he ______ (watch) TV, the light went out.",
+     "answer": "was watching",
+     "tip": "while + 过去进行"
+    },
+    {
+     "q": "What ______ you ______ (do) at that time?",
+     "answer": "were / doing",
+     "tip": "特殊疑问"
+    },
+    {
+     "q": "He ______ (not sleep) when I called him.",
+     "answer": "wasn't sleeping",
+     "tip": "否定"
+    },
+    {
+     "q": "The students ______ (have) a class at 10 a.m. yesterday.",
+     "answer": "were having",
+     "tip": "过去某时进行"
+    },
+    {
+     "q": "______ she ______ (write) a letter then?",
+     "answer": "Was / writing",
+     "tip": "疑问"
+    },
+    {
+     "q": "While my mother was cooking, I ______ (do) my homework.",
+     "answer": "was doing",
+     "tip": "两动作同时进行"
+    },
+    {
+     "q": "It ______ (rain) hard when we left home.",
+     "answer": "was raining",
+     "tip": "过去某时进行"
+    }
+   ]
+  },
+  {
+   "id": "15",
+   "file": "现在完成时",
+   "category": "动词的时态",
+   "title": "现在完成时 (The Present Perfect Tense)",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "现在完成时表示过去发生的动作对现在造成的影响或结果，或从过去持续到现在的动作或状态。它强调与现在的联系。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、结构：have / has + 过去分词",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "主语为第三人称单数用 has，其余用 have。"
+      },
+      {
+       "kind": "eg",
+       "text": "肯定：I have finished my homework.  She has gone to Beijing."
+      },
+      {
+       "kind": "eg",
+       "text": "否定：I haven't finished it.  疑问：Have you finished? —Yes, I have."
+      }
+     ]
+    },
+    {
+     "heading": "三、过去分词变化",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "规则动词过去分词与过去式相同（加 -ed）；不规则动词需单独记忆。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "go→gone, do→done, see→seen, write→written, eat→eaten, take→taken, be→been"
+      }
+     ]
+    },
+    {
+     "heading": "四、两种基本用法",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. 表示动作已完成，强调对现在的影响"
+      },
+      {
+       "kind": "eg",
+       "text": "I have lost my key.（现在还没找到）"
+      },
+      {
+       "kind": "eg",
+       "text": "常用标志词：already（肯定）, yet（否定/疑问）, just, ever, never。"
+      },
+      {
+       "kind": "sub",
+       "text": "2. 表示从过去持续到现在的动作或状态"
+      },
+      {
+       "kind": "eg",
+       "text": "He has lived here for ten years. / since 2010."
+      },
+      {
+       "kind": "eg",
+       "text": "常用标志词：for + 时间段, since + 时间点, so far, in the past few years。"
+      }
+     ]
+    },
+    {
+     "heading": "五、易错点",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "have gone to（去了某地，人不在）vs have been to（去过某地，人已回来）。"
+      },
+      {
+       "kind": "note",
+       "text": "非延续性动词（come, go, buy, borrow, die）不能直接与 for/since 连用，需转换为延续性表达。"
+      },
+      {
+       "kind": "eg",
+       "text": "误 He has died for 3 years. → 正 He has been dead for 3 years."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I ______ (finish) my homework already.",
+     "answer": "have finished",
+     "tip": "already 用于肯定"
+    },
+    {
+     "q": "She ______ (not come) back yet.",
+     "answer": "hasn't come",
+     "tip": "yet 用于否定"
+    },
+    {
+     "q": "______ you ever ______ (be) to Beijing?",
+     "answer": "Have / been",
+     "tip": "have been to 去过"
+    },
+    {
+     "q": "He ______ (live) here since 2010.",
+     "answer": "has lived",
+     "tip": "since + 时间点"
+    },
+    {
+     "q": "They ______ (know) each other for ten years.",
+     "answer": "have known",
+     "tip": "for + 时间段"
+    },
+    {
+     "q": "My father ______ (go) to Shanghai; he is not here.",
+     "answer": "has gone",
+     "tip": "have gone to 人不在"
+    },
+    {
+     "q": "I ______ (just, see) that film.",
+     "answer": "have just seen",
+     "tip": "just + 现在完成"
+    },
+    {
+     "q": "We ______ (not finish) the work yet.",
+     "answer": "haven't finished",
+     "tip": "否定"
+    },
+    {
+     "q": "How long ______ you ______ (learn) English?",
+     "answer": "have / learned",
+     "tip": "for how long"
+    },
+    {
+     "q": "The old man ______ (be) dead for five years.",
+     "answer": "has been",
+     "tip": "延续性表达"
+    }
+   ]
+  },
+  {
+   "id": "16",
+   "file": "过去完成时(拓展)",
+   "category": "动词的时态",
+   "title": "过去完成时 (The Past Perfect Tense)  【拓展】",
+   "instruction": "用括号内动词的适当形式填空。",
+   "sections": [
+    {
+     "heading": "说明",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "过去完成时是初中拓展、高中重点内容，了解即可，有助于理解“过去的过去”。"
+      }
+     ]
+    },
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "过去完成时表示过去某一时刻或动作之前已经完成的动作，即“过去的过去”。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、结构：had + 过去分词（各人称通用）",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "肯定：By the time she arrived, the film had begun."
+      },
+      {
+       "kind": "eg",
+       "text": "否定：I had not (hadn't) finished it before he came."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Had you left when he called?"
+      }
+     ]
+    },
+    {
+     "heading": "三、用法要点",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "两个过去动作，先发生的用过去完成时，后发生的用一般过去时。"
+      },
+      {
+       "kind": "eg",
+       "text": "When I got to the station, the train had already left."
+      },
+      {
+       "kind": "bullet",
+       "text": "常与 by, before, after, by the time, already, never...before 连用。"
+      },
+      {
+       "kind": "eg",
+       "text": "He told me he had seen the film before.（宾语从句中主句过去，从句更早用过去完成）"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "When we arrived, the meeting ______ (begin).",
+     "answer": "had begun",
+     "tip": "先发生用过去完成"
+    },
+    {
+     "q": "By the time he came, I ______ (finish) my work.",
+     "answer": "had finished",
+     "tip": "by the time + 过去完成"
+    },
+    {
+     "q": "She said she ______ (see) the film before.",
+     "answer": "had seen",
+     "tip": "过去的过去"
+    },
+    {
+     "q": "The train ______ (leave) before I got there.",
+     "answer": "had left",
+     "tip": "before 引导"
+    },
+    {
+     "q": "I ______ (not finish) breakfast when he arrived.",
+     "answer": "hadn't finished",
+     "tip": "否定"
+    },
+    {
+     "q": "After he ______ (do) his homework, he went out.",
+     "answer": "had done",
+     "tip": "after 先做"
+    },
+    {
+     "q": "They found that the thief ______ (run) away.",
+     "answer": "had run",
+     "tip": "过去的过去"
+    },
+    {
+     "q": "By last year, he ______ (learn) English for five years.",
+     "answer": "had learned",
+     "tip": "by + 过去时间"
+    }
+   ]
+  },
+  {
+   "id": "17",
+   "file": "被动语态",
+   "category": "动词的语态",
+   "title": "被动语态 (The Passive Voice)",
+   "instruction": "用括号内动词的适当形式（被动语态）填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "语态表示主语与谓语动词之间的关系。主语是动作的执行者时用主动语态；主语是动作的承受者时用被动语态。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "主动：We clean the room every day.  被动：The room is cleaned every day."
+      }
+     ]
+    },
+    {
+     "heading": "二、基本结构：be + 过去分词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "被动语态由“助动词 be + 及物动词的过去分词”构成，be 的时态和主谓一致随句子而变。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "时态",
+        "被动结构",
+        "例句"
+       ],
+       "rows": [
+        [
+         "一般现在时",
+         "am/is/are + 过去分词",
+         "English is spoken here."
+        ],
+        [
+         "一般过去时",
+         "was/were + 过去分词",
+         "The window was broken."
+        ],
+        [
+         "一般将来时",
+         "will be + 过去分词",
+         "The work will be done tomorrow."
+        ],
+        [
+         "情态动词",
+         "情态动词 + be + 过去分词",
+         "It must be finished today."
+        ],
+        [
+         "现在进行时",
+         "am/is/are being + 过去分词",
+         "The house is being built."
+        ],
+        [
+         "现在完成时",
+         "have/has been + 过去分词",
+         "The book has been sold out."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、主动变被动的步骤",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "1. 把主动句的宾语变为被动句的主语。"
+      },
+      {
+       "kind": "bullet",
+       "text": "2. 把谓语动词变为“be + 过去分词”，be 的时态与主动句一致，并与新主语保持数的一致。"
+      },
+      {
+       "kind": "bullet",
+       "text": "3. 主动句的主语变为 by 短语放句末（不重要时可省略）。"
+      },
+      {
+       "kind": "eg",
+       "text": "主动：Tom wrote the letter. → 被动：The letter was written by Tom."
+      }
+     ]
+    },
+    {
+     "heading": "四、否定句与疑问句",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "否定：The room isn't cleaned every day."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Is the room cleaned every day? —Yes, it is."
+      },
+      {
+       "kind": "eg",
+       "text": "特殊疑问：When was the bridge built?"
+      }
+     ]
+    },
+    {
+     "heading": "五、注意事项",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "只有及物动词才有被动语态；不及物动词（happen, appear, rise 等）没有被动语态。"
+      },
+      {
+       "kind": "note",
+       "text": "含情态动词时：情态动词 + be + 过去分词。The homework must be handed in on time."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "English ______ (speak) in many countries.",
+     "answer": "is spoken",
+     "tip": "一般现在被动"
+    },
+    {
+     "q": "The window ______ (break) by Tom yesterday.",
+     "answer": "was broken",
+     "tip": "一般过去被动"
+    },
+    {
+     "q": "The work ______ (finish) tomorrow.",
+     "answer": "will be finished",
+     "tip": "将来被动"
+    },
+    {
+     "q": "This book ______ (write) by a famous writer.",
+     "answer": "was written",
+     "tip": "过去被动"
+    },
+    {
+     "q": "Rice ______ (grow) in the south of China.",
+     "answer": "is grown",
+     "tip": "一般现在被动"
+    },
+    {
+     "q": "The classroom ______ (clean) every day.",
+     "answer": "is cleaned",
+     "tip": "一般现在被动"
+    },
+    {
+     "q": "The homework must ______ (hand) in on time.",
+     "answer": "be handed",
+     "tip": "情态动词 + be + 过去分词"
+    },
+    {
+     "q": "A new hospital ______ (build) in our city last year.",
+     "answer": "was built",
+     "tip": "过去被动"
+    },
+    {
+     "q": "These trees ______ (plant) by the students last week.",
+     "answer": "were planted",
+     "tip": "复数过去被动"
+    },
+    {
+     "q": "When ______ the bridge ______ (build)?",
+     "answer": "was / built",
+     "tip": "特殊疑问被动"
+    }
+   ]
+  },
+  {
+   "id": "18",
+   "file": "情态动词",
+   "category": "情态动词",
+   "title": "情态动词 (Modal Verbs)",
+   "instruction": "用适当的情态动词或括号内动词的正确形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念与特点",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "情态动词表示说话人的语气和态度，如能力、可能、允许、义务等。它本身有词义，但不能单独作谓语，须与动词原形连用。",
+       "opts": {}
+      },
+      {
+       "kind": "bullet",
+       "text": "情态动词后接动词原形。"
+      },
+      {
+       "kind": "bullet",
+       "text": "没有人称和数的变化（第三人称单数也不加 -s）。"
+      },
+      {
+       "kind": "bullet",
+       "text": "否定直接在其后加 not，疑问把情态动词提到句首。"
+      }
+     ]
+    },
+    {
+     "heading": "二、常见情态动词及用法",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "情态动词",
+        "含义",
+        "例句"
+       ],
+       "rows": [
+        [
+         "can / could",
+         "能够、可以（能力/许可）",
+         "I can swim. Could you help me?"
+        ],
+        [
+         "may / might",
+         "可以、可能",
+         "May I come in? It may rain."
+        ],
+        [
+         "must",
+         "必须、一定",
+         "You must finish it. He must be tired."
+        ],
+        [
+         "have to",
+         "不得不（客观）",
+         "I have to go now."
+        ],
+        [
+         "should",
+         "应该",
+         "You should study hard."
+        ],
+        [
+         "would",
+         "愿意、过去将来",
+         "Would you like some tea?"
+        ],
+        [
+         "shall",
+         "将、要不要（征求意见）",
+         "Shall we go?"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、易混辨析",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. must 与 have to"
+      },
+      {
+       "kind": "eg",
+       "text": "must 强调主观必要（我认为必须）；have to 强调客观需要（不得不）。"
+      },
+      {
+       "kind": "eg",
+       "text": "must 的否定 mustn't 表示“禁止”；have to 的否定 don't have to 表示“不必”。"
+      },
+      {
+       "kind": "sub",
+       "text": "2. can 与 may 表推测"
+      },
+      {
+       "kind": "eg",
+       "text": "肯定推测用 must（一定）；否定推测用 can't（不可能）；may/might 表示“可能”。"
+      },
+      {
+       "kind": "eg",
+       "text": "He must be at home.（一定在）He can't be at home.（不可能在）"
+      },
+      {
+       "kind": "sub",
+       "text": "3. can 与 be able to"
+      },
+      {
+       "kind": "eg",
+       "text": "can 只有现在和过去（could）两种时态；be able to 可用于各种时态。"
+      }
+     ]
+    },
+    {
+     "heading": "四、注意事项",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "情态动词后一律接动词原形：He can swims.（×）→ He can swim.（√）"
+      },
+      {
+       "kind": "note",
+       "text": "回答 Must I...? 时，否定用 needn't / don't have to（不必），而非 mustn't（禁止）。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ you speak English? (能力)",
+     "answer": "Can",
+     "tip": "can 表能力"
+    },
+    {
+     "q": "You ______ finish your homework first. (必须)",
+     "answer": "must",
+     "tip": "must 表必须"
+    },
+    {
+     "q": "It's late. I ______ (have to) go home now.",
+     "answer": "have to",
+     "tip": "客观不得不"
+    },
+    {
+     "q": "You ______ (should) listen to your teacher.",
+     "answer": "should",
+     "tip": "应该"
+    },
+    {
+     "q": "May I use your pen? — Yes, you ______.",
+     "answer": "may/can",
+     "tip": "许可"
+    },
+    {
+     "q": "He ______ (can) swim when he was five.",
+     "answer": "could",
+     "tip": "过去能力"
+    },
+    {
+     "q": "The light is on. Someone ______ be in the room. (一定)",
+     "answer": "must",
+     "tip": "肯定推测"
+    },
+    {
+     "q": "—Must I go now? —No, you ______. (不必)",
+     "answer": "needn't/don't have to",
+     "tip": "不必"
+    },
+    {
+     "q": "Look at the clouds. It ______ rain soon. (可能)",
+     "answer": "may/might",
+     "tip": "可能"
+    },
+    {
+     "q": "You ______ swim here. It's dangerous. (禁止)",
+     "answer": "mustn't",
+     "tip": "禁止"
+    }
+   ]
+  },
+  {
+   "id": "19",
+   "file": "动词不定式",
+   "category": "非谓语动词",
+   "title": "动词不定式 (The Infinitive)",
+   "instruction": "用括号内动词的适当形式（不定式或原形）填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "动词不定式由“to + 动词原形”构成，它不是谓语，没有人称和数的变化，在句中可作主语、宾语、宾语补足语、定语、状语等。",
+       "opts": {}
+      },
+      {
+       "kind": "note",
+       "text": "在某些动词或结构后，to 要省略（称为不带 to 的不定式）。"
+      }
+     ]
+    },
+    {
+     "heading": "二、不定式的句法功能",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "作主语：To learn English well is not easy.（常用 It 作形式主语：It is not easy to learn English well.）"
+      },
+      {
+       "kind": "bullet",
+       "text": "作宾语：I want to go home."
+      },
+      {
+       "kind": "bullet",
+       "text": "作宾语补足语：I want you to help me."
+      },
+      {
+       "kind": "bullet",
+       "text": "作定语：I have a lot of work to do."
+      },
+      {
+       "kind": "bullet",
+       "text": "作目的状语：He came here to see you."
+      }
+     ]
+    },
+    {
+     "heading": "三、只能接不定式作宾语的动词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "want, hope, wish, decide, plan, agree, would like, learn, promise 等。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "I hope to see you again. She decided to leave."
+      }
+     ]
+    },
+    {
+     "heading": "四、省略 to 的不定式",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "情态动词后：can/must/should + 动词原形。"
+      },
+      {
+       "kind": "bullet",
+       "text": "使役动词 make/let/have + 宾语 + 动词原形：He made me laugh."
+      },
+      {
+       "kind": "bullet",
+       "text": "感官动词 see/hear/watch/feel + 宾语 + 动词原形（表全过程）：I saw him come in."
+      },
+      {
+       "kind": "note",
+       "text": "使役、感官动词变被动语态后，to 要还原：He was made to laugh."
+      }
+     ]
+    },
+    {
+     "heading": "五、常见固定结构",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "too...to（太……而不能）：He is too young to go to school."
+      },
+      {
+       "kind": "bullet",
+       "text": "enough to（足够……去做）：She is old enough to dress herself."
+      },
+      {
+       "kind": "bullet",
+       "text": "疑问词 + to do：I don't know what to do / how to swim."
+      },
+      {
+       "kind": "bullet",
+       "text": "ask/tell/want sb. to do sth.：The teacher told us to be quiet."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I want ______ (go) home now.",
+     "answer": "to go",
+     "tip": "want 后接不定式"
+    },
+    {
+     "q": "It's important ______ (learn) English well.",
+     "answer": "to learn",
+     "tip": "It 作形式主语"
+    },
+    {
+     "q": "The teacher told us ______ (be) quiet.",
+     "answer": "to be",
+     "tip": "tell sb. to do"
+    },
+    {
+     "q": "He is too tired ______ (walk) on.",
+     "answer": "to walk",
+     "tip": "too...to"
+    },
+    {
+     "q": "She made me ______ (laugh).",
+     "answer": "laugh",
+     "tip": "使役动词省 to"
+    },
+    {
+     "q": "I saw him ______ (come) into the room.",
+     "answer": "come",
+     "tip": "感官动词省 to"
+    },
+    {
+     "q": "I have a lot of homework ______ (do) tonight.",
+     "answer": "to do",
+     "tip": "作定语"
+    },
+    {
+     "q": "He came here ______ (see) his friend.",
+     "answer": "to see",
+     "tip": "目的状语"
+    },
+    {
+     "q": "Do you know how ______ (swim)?",
+     "answer": "to swim",
+     "tip": "疑问词 + to do"
+    },
+    {
+     "q": "He was made ______ (clean) the room.",
+     "answer": "to clean",
+     "tip": "被动语态还原 to"
+    }
+   ]
+  },
+  {
+   "id": "20",
+   "file": "动名词",
+   "category": "非谓语动词",
+   "title": "动名词 (The Gerund)",
+   "instruction": "用括号内动词的适当形式（动名词或不定式）填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "动名词由“动词 + -ing”构成，兼有动词和名词的特征，在句中可作主语、宾语、表语等。其变化规则与现在分词相同。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、动名词的句法功能",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "作主语：Swimming is good for health."
+      },
+      {
+       "kind": "bullet",
+       "text": "作宾语：I enjoy reading."
+      },
+      {
+       "kind": "bullet",
+       "text": "作表语：His job is teaching English."
+      },
+      {
+       "kind": "bullet",
+       "text": "作介词宾语：He is good at swimming."
+      }
+     ]
+    },
+    {
+     "heading": "三、只能接动名词作宾语的动词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "enjoy, finish, mind, keep, practise, suggest, give up, can't help, feel like 等。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "记忆口诀：“建议 (suggest) 完成 (finish) 盼望 (?)……”常记：enjoy/finish/mind/keep/practise + doing。"
+      },
+      {
+       "kind": "eg",
+       "text": "Would you mind opening the window? I have finished doing my homework."
+      }
+     ]
+    },
+    {
+     "heading": "四、介词后接动名词",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "be good at doing（擅长）"
+      },
+      {
+       "kind": "bullet",
+       "text": "be interested in doing（对……感兴趣）"
+      },
+      {
+       "kind": "bullet",
+       "text": "look forward to doing（盼望）"
+      },
+      {
+       "kind": "bullet",
+       "text": "thank you for doing（因……感谢你）"
+      },
+      {
+       "kind": "bullet",
+       "text": "be afraid of doing（害怕）"
+      },
+      {
+       "kind": "note",
+       "text": "这里的 to 是介词，后面必须接动名词，不是动词原形：look forward to seeing you。"
+      }
+     ]
+    },
+    {
+     "heading": "五、不定式与动名词意义不同的动词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "动词",
+        "+ to do",
+        "+ doing"
+       ],
+       "rows": [
+        [
+         "remember",
+         "记得要去做（未做）",
+         "记得做过（已做）"
+        ],
+        [
+         "forget",
+         "忘记要去做（未做）",
+         "忘记做过（已做）"
+        ],
+        [
+         "stop",
+         "停下来去做另一件事",
+         "停止正在做的事"
+        ],
+        [
+         "try",
+         "努力、设法做",
+         "尝试做做看"
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "Remember to close the door.（记得去关）／ I remember closing the door.（记得关过）"
+      },
+      {
+       "kind": "eg",
+       "text": "He stopped to smoke.（停下来去抽烟）／ He stopped smoking.（戒烟）"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ (swim) is good for our health.",
+     "answer": "Swimming",
+     "tip": "动名词作主语"
+    },
+    {
+     "q": "I enjoy ______ (listen) to music.",
+     "answer": "listening",
+     "tip": "enjoy + doing"
+    },
+    {
+     "q": "Would you mind ______ (open) the door?",
+     "answer": "opening",
+     "tip": "mind + doing"
+    },
+    {
+     "q": "He is good at ______ (play) football.",
+     "answer": "playing",
+     "tip": "介词后接动名词"
+    },
+    {
+     "q": "They finished ______ (do) their homework.",
+     "answer": "doing",
+     "tip": "finish + doing"
+    },
+    {
+     "q": "Please remember ______ (close) the window before leaving.",
+     "answer": "to close",
+     "tip": "记得要去做"
+    },
+    {
+     "q": "He stopped ______ (talk) when the teacher came in.",
+     "answer": "talking",
+     "tip": "停止正在做的事"
+    },
+    {
+     "q": "We are looking forward to ______ (see) you.",
+     "answer": "seeing",
+     "tip": "to 是介词"
+    },
+    {
+     "q": "Thank you for ______ (help) me.",
+     "answer": "helping",
+     "tip": "for + doing"
+    },
+    {
+     "q": "Don't forget ______ (bring) your book tomorrow.",
+     "answer": "to bring",
+     "tip": "别忘了要去做"
+    }
+   ]
+  },
+  {
+   "id": "21",
+   "file": "现在分词与过去分词(拓展)",
+   "category": "非谓语动词",
+   "title": "现在分词与过去分词 (Participles)  【拓展】",
+   "instruction": "用括号内动词的适当形式（现在分词或过去分词）填空。",
+   "sections": [
+    {
+     "heading": "说明",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "分词作定语、状语和补足语是初中拓展、高中重点，此处作了解，帮助建立体系。"
+      }
+     ]
+    },
+    {
+     "heading": "一、两种分词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "",
+        "现在分词 (-ing)",
+        "过去分词 (-ed/不规则)"
+       ],
+       "rows": [
+        [
+         "含义",
+         "主动、正在进行",
+         "被动、已完成"
+        ],
+        [
+         "例词",
+         "running, singing",
+         "broken, written, done"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "二、分词作定语",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "现在分词表主动/正在进行：the running water（流动的水）, a sleeping baby。"
+      },
+      {
+       "kind": "bullet",
+       "text": "过去分词表被动/已完成：a broken window（打破的窗户）, fallen leaves（落叶）。"
+      },
+      {
+       "kind": "eg",
+       "text": "单个分词作定语放在名词前；分词短语作定语放在名词后：the boy standing there。"
+      }
+     ]
+    },
+    {
+     "heading": "三、分词作表语（-ed/-ing 形容词）",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "The story is interesting.（令人感兴趣的）／ I am interested in it.（感到感兴趣的）"
+      }
+     ]
+    },
+    {
+     "heading": "四、分词作宾语补足语",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "感官动词 + 宾语 + 现在分词（表正在进行）：I saw him playing football."
+      },
+      {
+       "kind": "eg",
+       "text": "have/get + 宾语 + 过去分词（表被动完成）：I had my hair cut.（我理了发）"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "Look at the ______ (sleep) baby.",
+     "answer": "sleeping",
+     "tip": "现在分词表主动"
+    },
+    {
+     "q": "The ______ (break) window needs repairing.",
+     "answer": "broken",
+     "tip": "过去分词表被动"
+    },
+    {
+     "q": "Who is the boy ______ (stand) over there?",
+     "answer": "standing",
+     "tip": "分词短语作定语后置"
+    },
+    {
+     "q": "The film is very ______ (bore).",
+     "answer": "boring",
+     "tip": "令人厌烦的"
+    },
+    {
+     "q": "I am ______ (interest) in science.",
+     "answer": "interested",
+     "tip": "感到感兴趣"
+    },
+    {
+     "q": "I saw him ______ (cross) the street.",
+     "answer": "crossing",
+     "tip": "感官动词 + 现在分词"
+    },
+    {
+     "q": "The ______ (fall) leaves covered the ground.",
+     "answer": "fallen",
+     "tip": "过去分词作定语"
+    },
+    {
+     "q": "He had his bike ______ (repair) yesterday.",
+     "answer": "repaired",
+     "tip": "have sth. done"
+    }
+   ]
+  },
+  {
+   "id": "22",
+   "file": "句子成分与五种基本句型",
+   "category": "句法",
+   "title": "句子成分与五种基本句型",
+   "instruction": "判断并用括号内词的适当形式填空，体会句型结构。",
+   "sections": [
+    {
+     "heading": "一、句子成分",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "成分",
+        "作用",
+        "常由什么充当"
+       ],
+       "rows": [
+        [
+         "主语",
+         "动作的执行者/描述对象",
+         "名词、代词"
+        ],
+        [
+         "谓语",
+         "说明主语的动作或状态",
+         "动词"
+        ],
+        [
+         "宾语",
+         "动作的承受者",
+         "名词、代词"
+        ],
+        [
+         "表语",
+         "说明主语的性质、状态",
+         "名词、形容词"
+        ],
+        [
+         "定语",
+         "修饰名词/代词",
+         "形容词、名词"
+        ],
+        [
+         "状语",
+         "修饰动词、形容词、全句",
+         "副词、介词短语"
+        ],
+        [
+         "宾补",
+         "补充说明宾语",
+         "名词、形容词、不定式"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "二、五种基本句型",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "句型1：主语 + 谓语（不及物动词）S + V"
+      },
+      {
+       "kind": "eg",
+       "text": "The sun rises. / Birds fly."
+      },
+      {
+       "kind": "sub",
+       "text": "句型2：主语 + 系动词 + 表语 S + V + P"
+      },
+      {
+       "kind": "eg",
+       "text": "She is a teacher. / The soup tastes good."
+      },
+      {
+       "kind": "sub",
+       "text": "句型3：主语 + 谓语 + 宾语 S + V + O"
+      },
+      {
+       "kind": "eg",
+       "text": "I like English. / He plays football."
+      },
+      {
+       "kind": "sub",
+       "text": "句型4：主语 + 谓语 + 间接宾语 + 直接宾语 S + V + IO + DO"
+      },
+      {
+       "kind": "eg",
+       "text": "He gave me a book. = He gave a book to me."
+      },
+      {
+       "kind": "sub",
+       "text": "句型5：主语 + 谓语 + 宾语 + 宾语补足语 S + V + O + OC"
+      },
+      {
+       "kind": "eg",
+       "text": "We call him Tom. / Keep the room clean."
+      }
+     ]
+    },
+    {
+     "heading": "三、系动词",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "常见系动词：be(am/is/are)、look, feel, taste, sound, smell, become, get, turn, keep 等，后接形容词作表语。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "It's getting cold. / He became a doctor."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "The flowers ______ (smell) sweet.",
+     "answer": "smell",
+     "tip": "系动词 + 表语"
+    },
+    {
+     "q": "He ______ (give) me a nice present.",
+     "answer": "gave",
+     "tip": "双宾语句型"
+    },
+    {
+     "q": "We call the boy ______ (Tom).",
+     "answer": "Tom",
+     "tip": "宾语补足语"
+    },
+    {
+     "q": "Please keep the classroom ______ (clean).",
+     "answer": "clean",
+     "tip": "宾补用形容词"
+    },
+    {
+     "q": "The sun ______ (rise) in the east.",
+     "answer": "rises",
+     "tip": "主谓句型"
+    },
+    {
+     "q": "She ______ (be) a good teacher.",
+     "answer": "is",
+     "tip": "主系表"
+    },
+    {
+     "q": "They ______ (make) him ______ (monitor).",
+     "answer": "made / monitor",
+     "tip": "宾补"
+    },
+    {
+     "q": "The music ______ (sound) beautiful.",
+     "answer": "sounds",
+     "tip": "系动词"
+    },
+    {
+     "q": "He passed ______ (I) the salt.",
+     "answer": "me",
+     "tip": "间接宾语用宾格"
+    },
+    {
+     "q": "The weather ______ (get) warmer.",
+     "answer": "gets",
+     "tip": "系动词表变化"
+    }
+   ]
+  },
+  {
+   "id": "23",
+   "file": "简单句并列句与复合句",
+   "category": "句法",
+   "title": "简单句、并列句与复合句",
+   "instruction": "用适当的连词填空，或判断句子种类。",
+   "sections": [
+    {
+     "heading": "一、按结构分类",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "种类",
+        "定义",
+        "例句"
+       ],
+       "rows": [
+        [
+         "简单句",
+         "只有一个主谓结构",
+         "I like English."
+        ],
+        [
+         "并列句",
+         "两个及以上简单句由并列连词连接",
+         "I like English, and he likes math."
+        ],
+        [
+         "复合句",
+         "一个主句 + 一个及以上从句",
+         "I think that he is right."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "二、按用途分类",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "种类",
+        "用途",
+        "例句"
+       ],
+       "rows": [
+        [
+         "陈述句",
+         "陈述事实",
+         "He is a student."
+        ],
+        [
+         "疑问句",
+         "提出问题",
+         "Are you a student?"
+        ],
+        [
+         "祈使句",
+         "命令、请求",
+         "Open the door, please."
+        ],
+        [
+         "感叹句",
+         "抒发情感",
+         "What a nice day!"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、并列句常用连词",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "and（和）, but（但是）, or（或者/否则）, so（所以）, for（因为）"
+      },
+      {
+       "kind": "bullet",
+       "text": "关联连词：both...and, either...or, neither...nor, not only...but also"
+      },
+      {
+       "kind": "eg",
+       "text": "Hurry up, or you'll be late. He was tired, but he kept working."
+      }
+     ]
+    },
+    {
+     "heading": "四、复合句概览",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "复合句由主句和从句构成，从句根据在句中的作用分为：名词性从句（主语/宾语/表语从句）、定语从句和状语从句。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "宾语从句：I know that you are right."
+      },
+      {
+       "kind": "eg",
+       "text": "定语从句：The man who is talking is my teacher."
+      },
+      {
+       "kind": "eg",
+       "text": "状语从句：I will call you when he comes."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "He is poor ______ he is happy. (但是)",
+     "answer": "but",
+     "tip": "并列转折"
+    },
+    {
+     "q": "Study hard, ______ you will fail. (否则)",
+     "answer": "or",
+     "tip": "or 表否则"
+    },
+    {
+     "q": "It was raining, ______ we stayed at home. (所以)",
+     "answer": "so",
+     "tip": "so 表结果"
+    },
+    {
+     "q": "______ Tom ______ Jack are here. (两者都)",
+     "answer": "Both / and",
+     "tip": "both...and"
+    },
+    {
+     "q": "I believe ______ he will come. (宾语从句连词)",
+     "answer": "that",
+     "tip": "宾语从句"
+    },
+    {
+     "q": "The girl ______ is singing is my sister. (定语从句)",
+     "answer": "who",
+     "tip": "定语从句"
+    },
+    {
+     "q": "I'll wait ______ you come back. (时间状语)",
+     "answer": "until/till",
+     "tip": "状语从句"
+    },
+    {
+     "q": "Neither he ______ I am wrong. (既不……也不)",
+     "answer": "nor",
+     "tip": "neither...nor"
+    },
+    {
+     "q": "She likes English, ______ I like math. (和)",
+     "answer": "and",
+     "tip": "并列"
+    },
+    {
+     "q": "He stayed home ______ he was ill. (因为)",
+     "answer": "because",
+     "tip": "原因状语"
+    }
+   ]
+  },
+  {
+   "id": "24",
+   "file": "Therebe句型",
+   "category": "句法",
+   "title": "There be 句型",
+   "instruction": "用 there be 的适当形式填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "There be 句型表示“某处存在某人/某物”，意为“有”。be 动词的单复数由其后第一个名词决定（就近原则）。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "There is a book on the desk. There are some books on the desk."
+      }
+     ]
+    },
+    {
+     "heading": "二、就近原则",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "be 动词的单复数与紧跟其后的名词保持一致，与后面的名词无关。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "There is a pen and two books.（就近 a pen，用 is）"
+      },
+      {
+       "kind": "eg",
+       "text": "There are two books and a pen.（就近 two books，用 are）"
+      }
+     ]
+    },
+    {
+     "heading": "三、时态变化",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "时态",
+        "结构",
+        "例句"
+       ],
+       "rows": [
+        [
+         "一般现在时",
+         "There is/are",
+         "There is a cat."
+        ],
+        [
+         "一般过去时",
+         "There was/were",
+         "There was a park here."
+        ],
+        [
+         "一般将来时",
+         "There will be / is going to be",
+         "There will be a meeting."
+        ],
+        [
+         "现在完成时",
+         "There has/have been",
+         "There has been a change."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、否定句与疑问句",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "否定：There isn't any water. / There are no books."
+      },
+      {
+       "kind": "eg",
+       "text": "疑问：Is there a bank near here? —Yes, there is. / No, there isn't."
+      },
+      {
+       "kind": "eg",
+       "text": "How many + 复数名词 + are there...? How much + 不可数名词 + is there...?"
+      },
+      {
+       "kind": "note",
+       "text": "There be 句型 vs have：There be 表客观存在；have 表主观拥有。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "There ______ a book on the desk.",
+     "answer": "is",
+     "tip": "单数用 is"
+    },
+    {
+     "q": "There ______ some students in the classroom.",
+     "answer": "are",
+     "tip": "复数用 are"
+    },
+    {
+     "q": "There ______ a pen and two books on the table.",
+     "answer": "is",
+     "tip": "就近原则 a pen"
+    },
+    {
+     "q": "There ______ two books and a pen on the table.",
+     "answer": "are",
+     "tip": "就近原则 two books"
+    },
+    {
+     "q": "There ______ a park here ten years ago.",
+     "answer": "was",
+     "tip": "过去单数"
+    },
+    {
+     "q": "______ there any water in the bottle?",
+     "answer": "Is",
+     "tip": "不可数用 is"
+    },
+    {
+     "q": "There ______ a meeting tomorrow.",
+     "answer": "will be",
+     "tip": "将来时"
+    },
+    {
+     "q": "How many students ______ there in your class?",
+     "answer": "are",
+     "tip": "复数疑问"
+    },
+    {
+     "q": "There ______ (not) any milk in the fridge.",
+     "answer": "isn't",
+     "tip": "不可数否定"
+    },
+    {
+     "q": "______ there a hospital near here? —Yes, there ______.",
+     "answer": "Is / is",
+     "tip": "疑问及简答"
+    }
+   ]
+  },
+  {
+   "id": "25",
+   "file": "祈使句",
+   "category": "句法",
+   "title": "祈使句 (Imperative Sentences)",
+   "instruction": "按要求完成祈使句填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "祈使句用来表示请求、命令、建议、劝告等，主语（you）通常省略，句子以动词原形开头。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、肯定祈使句",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "动词原形开头：Open the door. / Be quiet, please."
+      },
+      {
+       "kind": "bullet",
+       "text": "Let 引导：Let's go.（我们走吧）Let me try.（让我试试）"
+      },
+      {
+       "kind": "note",
+       "text": "加上 please 语气更客气，可放句首或句末（放句末前加逗号）。"
+      }
+     ]
+    },
+    {
+     "heading": "三、否定祈使句",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "Don't + 动词原形：Don't be late. / Don't worry."
+      },
+      {
+       "kind": "bullet",
+       "text": "Let's 的否定：Let's not go. / Don't let's go."
+      },
+      {
+       "kind": "eg",
+       "text": "Never do that again!（加强否定）"
+      }
+     ]
+    },
+    {
+     "heading": "四、祈使句 + and / or + 句子",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "“祈使句 + and + 结果”表示“如果……就……”；“祈使句 + or + 结果”表示“否则……”。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "Work hard, and you will succeed.（努力就会成功）"
+      },
+      {
+       "kind": "eg",
+       "text": "Hurry up, or you'll miss the bus.（快点，否则会误车）"
+      }
+     ]
+    },
+    {
+     "heading": "五、祈使句的反意疑问句",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "肯定祈使句 + will you?：Open the window, will you?"
+      },
+      {
+       "kind": "eg",
+       "text": "Let's 开头 + shall we?：Let's go, shall we?"
+      },
+      {
+       "kind": "eg",
+       "text": "Let us（不含听话人）+ will you?：Let us have a rest, will you?"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ (open) the door, please.",
+     "answer": "Open",
+     "tip": "动词原形开头"
+    },
+    {
+     "q": "______ (not be) late for school.",
+     "answer": "Don't be",
+     "tip": "否定祈使句"
+    },
+    {
+     "q": "______ (let) us go swimming.",
+     "answer": "Let",
+     "tip": "Let 引导"
+    },
+    {
+     "q": "Work hard, ______ you will pass. (就)",
+     "answer": "and",
+     "tip": "祈使句 + and"
+    },
+    {
+     "q": "Hurry up, ______ you'll be late. (否则)",
+     "answer": "or",
+     "tip": "祈使句 + or"
+    },
+    {
+     "q": "Be quiet, ______ ______? (反意疑问)",
+     "answer": "will you",
+     "tip": "祈使句反意"
+    },
+    {
+     "q": "Let's go home, ______ ______? (反意疑问)",
+     "answer": "shall we",
+     "tip": "Let's 反意"
+    },
+    {
+     "q": "______ (not worry). Everything will be fine.",
+     "answer": "Don't worry",
+     "tip": "否定祈使"
+    },
+    {
+     "q": "Please ______ (be) careful when crossing the road.",
+     "answer": "be",
+     "tip": "be 原形"
+    },
+    {
+     "q": "______ (never) tell a lie again.",
+     "answer": "Never",
+     "tip": "加强否定"
+    }
+   ]
+  },
+  {
+   "id": "26",
+   "file": "感叹句",
+   "category": "句法",
+   "title": "感叹句 (Exclamatory Sentences)",
+   "instruction": "用 What 或 How 完成感叹句填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "感叹句用来表达强烈的感情，如惊讶、喜悦、赞叹等，通常由 what 或 how 引导，句末用感叹号。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、What 引导的感叹句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "What 修饰名词，结构为：What + (a/an) + 形容词 + 名词 + 主语 + 谓语!",
+       "opts": {}
+      },
+      {
+       "kind": "bullet",
+       "text": "可数名词单数：What a nice day (it is)!"
+      },
+      {
+       "kind": "bullet",
+       "text": "可数名词复数：What beautiful flowers (they are)!"
+      },
+      {
+       "kind": "bullet",
+       "text": "不可数名词：What delicious food (it is)!"
+      }
+     ]
+    },
+    {
+     "heading": "三、How 引导的感叹句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "How 修饰形容词、副词或动词，结构为：How + 形容词/副词 + 主语 + 谓语!",
+       "opts": {}
+      },
+      {
+       "kind": "bullet",
+       "text": "How + 形容词：How beautiful the flowers are!"
+      },
+      {
+       "kind": "bullet",
+       "text": "How + 副词：How fast he runs!"
+      },
+      {
+       "kind": "bullet",
+       "text": "How + 主语 + 谓语：How time flies!"
+      }
+     ]
+    },
+    {
+     "heading": "四、What 与 How 的转换",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "What a clever boy he is! = How clever the boy is!"
+      },
+      {
+       "kind": "eg",
+       "text": "What good news it is! = How good the news is!"
+      },
+      {
+       "kind": "note",
+       "text": "判断技巧：若强调名词用 What，若强调形容词/副词用 How。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ a beautiful garden it is!",
+     "answer": "What",
+     "tip": "What + a + 形容词 + 名词"
+    },
+    {
+     "q": "______ beautiful the garden is!",
+     "answer": "How",
+     "tip": "How + 形容词"
+    },
+    {
+     "q": "______ interesting books they are!",
+     "answer": "What",
+     "tip": "复数名词用 What"
+    },
+    {
+     "q": "______ fast the boy runs!",
+     "answer": "How",
+     "tip": "How + 副词"
+    },
+    {
+     "q": "______ delicious the food is!",
+     "answer": "How",
+     "tip": "不可数 + 形容词用 How"
+    },
+    {
+     "q": "______ good news it is!",
+     "answer": "What",
+     "tip": "不可数名词用 What"
+    },
+    {
+     "q": "______ clever a girl she is!",
+     "answer": "What",
+     "tip": "What + a + 形容词 + 名词"
+    },
+    {
+     "q": "______ well she sings!",
+     "answer": "How",
+     "tip": "How + 副词"
+    },
+    {
+     "q": "______ cold it is today!",
+     "answer": "How",
+     "tip": "How + 形容词"
+    },
+    {
+     "q": "______ a wonderful film we saw!",
+     "answer": "What",
+     "tip": "What + a + 形容词 + 名词"
+    }
+   ]
+  },
+  {
+   "id": "26A",
+   "file": "疑问句",
+   "category": "句法",
+   "title": "疑问句 (Interrogative Sentences)",
+   "instruction": "根据要求完成疑问句填空（一般/特殊/选择疑问句）。",
+   "sections": [
+    {
+     "heading": "一、疑问句的分类",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "疑问句用来提出问题，句末用问号。按结构和用途分为四类：",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "种类",
+        "作用",
+        "例句"
+       ],
+       "rows": [
+        [
+         "一般疑问句",
+         "用 Yes/No 回答",
+         "Are you a student?"
+        ],
+        [
+         "特殊疑问句",
+         "用疑问词提问，需具体回答",
+         "Where do you live?"
+        ],
+        [
+         "选择疑问句",
+         "提供两项及以上供选择",
+         "Do you like tea or coffee?"
+        ],
+        [
+         "反意疑问句",
+         "陈述后附加简短疑问",
+         "He is here, isn't he?"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "反意疑问句另有专篇讲解，本篇重点讲前三类。"
+      }
+     ]
+    },
+    {
+     "heading": "二、一般疑问句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "把陈述句中的 be动词、情态动词或助动词提到句首，句末读升调，用 Yes/No 回答。",
+       "opts": {}
+      },
+      {
+       "kind": "bullet",
+       "text": "含 be 动词：She is a nurse. → Is she a nurse?"
+      },
+      {
+       "kind": "bullet",
+       "text": "含情态动词：He can swim. → Can he swim?"
+      },
+      {
+       "kind": "bullet",
+       "text": "含实义动词：借助 do/does/did，动词还原。"
+      },
+      {
+       "kind": "eg",
+       "text": "They like music. → Do they like music?"
+      },
+      {
+       "kind": "eg",
+       "text": "He works hard. → Does he work hard?（does 出现，work 还原）"
+      },
+      {
+       "kind": "eg",
+       "text": "Tom went home. → Did Tom go home?（did 出现，go 还原）"
+      },
+      {
+       "kind": "sub",
+       "text": "肯定与否定回答"
+      },
+      {
+       "kind": "eg",
+       "text": "Are you a student? —Yes, I am. / No, I'm not."
+      },
+      {
+       "kind": "eg",
+       "text": "Do you like it? —Yes, I do. / No, I don't."
+      }
+     ]
+    },
+    {
+     "heading": "三、特殊疑问句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "用疑问词开头，对具体内容提问，句末读降调，不能用 Yes/No 回答。结构：疑问词 + 一般疑问句语序?",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "疑问词",
+        "提问内容",
+        "例句"
+       ],
+       "rows": [
+        [
+         "what",
+         "什么（事物）",
+         "What is this?"
+        ],
+        [
+         "who",
+         "谁（人，作主/宾）",
+         "Who is he?"
+        ],
+        [
+         "whose",
+         "谁的（所属）",
+         "Whose book is this?"
+        ],
+        [
+         "which",
+         "哪一个（选择）",
+         "Which do you want?"
+        ],
+        [
+         "when",
+         "什么时候（时间）",
+         "When do you get up?"
+        ],
+        [
+         "where",
+         "在哪里（地点）",
+         "Where is my bag?"
+        ],
+        [
+         "why",
+         "为什么（原因）",
+         "Why are you late?"
+        ],
+        [
+         "how",
+         "怎样（方式/程度）",
+         "How do you go to school?"
+        ]
+       ]
+      },
+      {
+       "kind": "sub",
+       "text": "how 引导的常用短语"
+      },
+      {
+       "kind": "bullet",
+       "text": "how many + 可数名词复数（多少）：How many books do you have?"
+      },
+      {
+       "kind": "bullet",
+       "text": "how much + 不可数名词 / 问价格（多少钱）：How much water is there? / How much is it?"
+      },
+      {
+       "kind": "bullet",
+       "text": "how long（多长/多久）：How long is the river?"
+      },
+      {
+       "kind": "bullet",
+       "text": "how often（多久一次，问频率）：How often do you exercise?"
+      },
+      {
+       "kind": "bullet",
+       "text": "how far（多远，问距离）：How far is it from here?"
+      },
+      {
+       "kind": "bullet",
+       "text": "how old（多大，问年龄）：How old are you?"
+      },
+      {
+       "kind": "note",
+       "text": "对主语提问时用“疑问词 + 谓语?”，不用助动词。如 Who broke it?（不是 Who did break it?）"
+      }
+     ]
+    },
+    {
+     "heading": "四、选择疑问句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "用 or 连接两个及以上选项，句中 or 前读升调、后读降调，不能用 Yes/No 回答，须选其一回答。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "Do you like apples or bananas? —I like apples."
+      },
+      {
+       "kind": "eg",
+       "text": "Is he a teacher or a doctor? —He is a teacher."
+      },
+      {
+       "kind": "eg",
+       "text": "Which do you prefer, tea or coffee? —Coffee, please."
+      },
+      {
+       "kind": "note",
+       "text": "回答须具体说明选择，不能只回答 Yes 或 No。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ you like English?（一般疑问，实义动词）",
+     "answer": "Do",
+     "tip": "实义动词借 do"
+    },
+    {
+     "q": "______ she a doctor?（一般疑问，be 动词）",
+     "answer": "Is",
+     "tip": "be 提句首"
+    },
+    {
+     "q": "______ he go to school?（一般疑问，第三人称）",
+     "answer": "Does",
+     "tip": "第三人称用 does"
+    },
+    {
+     "q": "______ is your father?（问人是谁）",
+     "answer": "Who",
+     "tip": "对人提问"
+    },
+    {
+     "q": "______ book is this?（问“谁的”）",
+     "answer": "Whose",
+     "tip": "问所属"
+    },
+    {
+     "q": "______ do you live?（问地点）",
+     "answer": "Where",
+     "tip": "问地点"
+    },
+    {
+     "q": "______ do you get up every day?（问时间）",
+     "answer": "When",
+     "tip": "问时间"
+    },
+    {
+     "q": "______ ______ apples do you want?（问数量，可数）",
+     "answer": "How many",
+     "tip": "可数用 how many"
+    },
+    {
+     "q": "______ ______ is the milk?（问价格）",
+     "answer": "How much",
+     "tip": "问价格用 how much"
+    },
+    {
+     "q": "______ ______ do you play sports?（问频率）",
+     "answer": "How often",
+     "tip": "问频率"
+    },
+    {
+     "q": "______ ______ is it from your home to school?（问距离）",
+     "answer": "How far",
+     "tip": "问距离"
+    },
+    {
+     "q": "Do you go by bus ______ by bike?（选择疑问）",
+     "answer": "or",
+     "tip": "选择疑问用 or"
+    }
+   ]
+  },
+  {
+   "id": "27",
+   "file": "反意疑问句",
+   "category": "句法",
+   "title": "反意疑问句 (Question Tags)",
+   "instruction": "写出下列句子的反意疑问部分填空。",
+   "sections": [
+    {
+     "heading": "一、概念与结构",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "反意疑问句是在陈述句后附加一个简短的疑问，用来表示反问、征求意见或核实。基本原则：前肯后否，前否后肯。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "He is a teacher, isn't he?（前肯后否）"
+      },
+      {
+       "kind": "eg",
+       "text": "She isn't here, is she?（前否后肯）"
+      }
+     ]
+    },
+    {
+     "heading": "二、构成规则",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "附加疑问部分的助动词/be动词/情态动词要与前面陈述句一致。"
+      },
+      {
+       "kind": "bullet",
+       "text": "主语用人称代词（he/she/it/they 等）。"
+      },
+      {
+       "kind": "bullet",
+       "text": "陈述句是实义动词时，附加部分借助 do/does/did。"
+      },
+      {
+       "kind": "eg",
+       "text": "You like English, don't you? He went there, didn't he?"
+      }
+     ]
+    },
+    {
+     "heading": "三、特殊情况",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "陈述句",
+        "反意疑问",
+        "说明"
+       ],
+       "rows": [
+        [
+         "祈使句 Open...",
+         "will you?",
+         "请求"
+        ],
+        [
+         "Let's...",
+         "shall we?",
+         "建议（含听话人）"
+        ],
+        [
+         "Let us...",
+         "will you?",
+         "请求（不含听话人）"
+        ],
+        [
+         "I am...",
+         "aren't I?",
+         "固定用法"
+        ],
+        [
+         "含 never/no/nothing 等否定词",
+         "用肯定",
+         "否定词视为否定句"
+        ],
+        [
+         "There be...",
+         "重复 there",
+         "There is..., isn't there?"
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "He never comes late, does he?（含 never，后用肯定）"
+      },
+      {
+       "kind": "eg",
+       "text": "There is a book, isn't there?"
+      }
+     ]
+    },
+    {
+     "heading": "四、回答",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "回答依事实而定：符合事实用 Yes + 肯定，不符合用 No + 否定，与前面陈述句的肯定否定无关。"
+      },
+      {
+       "kind": "eg",
+       "text": "You aren't a student, are you? —Yes, I am.（事实是学生就用 Yes）"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "He is a doctor, ______?",
+     "answer": "isn't he",
+     "tip": "前肯后否"
+    },
+    {
+     "q": "She isn't at home, ______?",
+     "answer": "is she",
+     "tip": "前否后肯"
+    },
+    {
+     "q": "You like music, ______?",
+     "answer": "don't you",
+     "tip": "实义动词借 do"
+    },
+    {
+     "q": "Tom went to school, ______?",
+     "answer": "didn't he",
+     "tip": "过去借 did"
+    },
+    {
+     "q": "Open the window, ______?",
+     "answer": "will you",
+     "tip": "祈使句"
+    },
+    {
+     "q": "Let's go home, ______?",
+     "answer": "shall we",
+     "tip": "Let's 用 shall we"
+    },
+    {
+     "q": "There is a pen, ______?",
+     "answer": "isn't there",
+     "tip": "There be 重复 there"
+    },
+    {
+     "q": "He never tells a lie, ______?",
+     "answer": "does he",
+     "tip": "never 视为否定"
+    },
+    {
+     "q": "I am right, ______?",
+     "answer": "aren't I",
+     "tip": "I am 用 aren't I"
+    },
+    {
+     "q": "They can swim, ______?",
+     "answer": "can't they",
+     "tip": "情态动词一致"
+    }
+   ]
+  },
+  {
+   "id": "28",
+   "file": "宾语从句",
+   "category": "句法",
+   "title": "宾语从句 (Object Clauses)",
+   "instruction": "用适当的连接词或正确语序完成宾语从句填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "在复合句中作宾语的从句叫宾语从句，通常放在及物动词或介词之后。宾语从句要注意连接词、语序和时态三方面。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、引导词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "从句类型",
+        "引导词",
+        "例句"
+       ],
+       "rows": [
+        [
+         "陈述句变来",
+         "that（可省略）",
+         "I know (that) he is right."
+        ],
+        [
+         "一般疑问句变来",
+         "if / whether（是否）",
+         "I don't know if he will come."
+        ],
+        [
+         "特殊疑问句变来",
+         "疑问词 what/when/where/who/how...",
+         "Tell me where he lives."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、语序：一律用陈述句语序",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "无论原来是什么句子，宾语从句都要用“主语 + 谓语”的陈述句语序，不能倒装。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "误 Do you know where does he live? → 正 Do you know where he lives?"
+      },
+      {
+       "kind": "eg",
+       "text": "误 I don't know what is this. → 正 I don't know what this is."
+      }
+     ]
+    },
+    {
+     "heading": "四、时态呼应",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "主句是现在时，从句时态根据需要而定。"
+      },
+      {
+       "kind": "bullet",
+       "text": "主句是过去时，从句要用相应的过去时态（一般过去、过去进行、过去完成、过去将来）。"
+      },
+      {
+       "kind": "bullet",
+       "text": "从句表示客观真理时，即使主句是过去时，仍用一般现在时。"
+      },
+      {
+       "kind": "eg",
+       "text": "He said that he was busy. / The teacher told us that the earth is round."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I know ______ he is a good student. (陈述)",
+     "answer": "that",
+     "tip": "that 引导"
+    },
+    {
+     "q": "Do you know ______ he will come? (是否)",
+     "answer": "if/whether",
+     "tip": "是否"
+    },
+    {
+     "q": "Tell me where ______ (he live).",
+     "answer": "he lives",
+     "tip": "陈述语序"
+    },
+    {
+     "q": "I don't know what ______ (this be).",
+     "answer": "this is",
+     "tip": "陈述语序"
+    },
+    {
+     "q": "He asked me ______ I could help him. (是否)",
+     "answer": "if/whether",
+     "tip": "是否"
+    },
+    {
+     "q": "She said that she ______ (be) busy then.",
+     "answer": "was",
+     "tip": "主句过去从句过去"
+    },
+    {
+     "q": "The teacher told us the earth ______ (be) round.",
+     "answer": "is",
+     "tip": "客观真理用现在时"
+    },
+    {
+     "q": "Do you know when the train ______ (leave)?",
+     "answer": "leaves",
+     "tip": "陈述语序"
+    },
+    {
+     "q": "I wonder if it ______ (rain) tomorrow.",
+     "answer": "will rain",
+     "tip": "从句表将来"
+    },
+    {
+     "q": "He asked me where I ______ (live).",
+     "answer": "lived",
+     "tip": "主句过去从句过去"
+    }
+   ]
+  },
+  {
+   "id": "29",
+   "file": "定语从句",
+   "category": "句法",
+   "title": "定语从句 (Attributive Clauses)",
+   "instruction": "用适当的关系词（who/which/that/whose/where/when）填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "在复合句中修饰某一名词或代词的从句叫定语从句。被修饰的词叫先行词，引导定语从句的词叫关系代词或关系副词，放在先行词之后。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、关系代词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "关系代词",
+        "指代",
+        "在从句中作用"
+       ],
+       "rows": [
+        [
+         "who",
+         "人",
+         "主语/宾语"
+        ],
+        [
+         "whom",
+         "人",
+         "宾语"
+        ],
+        [
+         "whose",
+         "人/物",
+         "定语（所属）"
+        ],
+        [
+         "which",
+         "物",
+         "主语/宾语"
+        ],
+        [
+         "that",
+         "人或物",
+         "主语/宾语"
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "The man who/that is talking is my teacher.（先行词 the man，指人）"
+      },
+      {
+       "kind": "eg",
+       "text": "This is the book which/that I bought yesterday.（先行词 the book，指物）"
+      }
+     ]
+    },
+    {
+     "heading": "三、关系副词",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "when（时间）：I'll never forget the day when we met."
+      },
+      {
+       "kind": "bullet",
+       "text": "where（地点）：This is the house where he lives."
+      },
+      {
+       "kind": "bullet",
+       "text": "why（原因）：Tell me the reason why you were late."
+      }
+     ]
+    },
+    {
+     "heading": "四、只用 that 的情况",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "先行词是 all, everything, something, nothing, anything 等不定代词。"
+      },
+      {
+       "kind": "bullet",
+       "text": "先行词被序数词、最高级修饰。"
+      },
+      {
+       "kind": "bullet",
+       "text": "先行词被 the only, the very, the same 修饰。"
+      },
+      {
+       "kind": "bullet",
+       "text": "先行词既有人又有物。"
+      },
+      {
+       "kind": "eg",
+       "text": "This is the best film that I have ever seen."
+      },
+      {
+       "kind": "note",
+       "text": "关系代词在从句中作宾语时可省略：The book (that/which) I bought is good."
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "The man ______ is talking is my teacher.",
+     "answer": "who/that",
+     "tip": "指人作主语"
+    },
+    {
+     "q": "This is the book ______ I bought yesterday.",
+     "answer": "which/that",
+     "tip": "指物作宾语"
+    },
+    {
+     "q": "The girl ______ bag is red is Lucy.",
+     "answer": "whose",
+     "tip": "表所属"
+    },
+    {
+     "q": "This is the house ______ he lives.",
+     "answer": "where",
+     "tip": "地点关系副词"
+    },
+    {
+     "q": "I'll never forget the day ______ we first met.",
+     "answer": "when",
+     "tip": "时间关系副词"
+    },
+    {
+     "q": "This is the best film ______ I have ever seen.",
+     "answer": "that",
+     "tip": "最高级后用 that"
+    },
+    {
+     "q": "All ______ glitters is not gold.",
+     "answer": "that",
+     "tip": "先行词 all 用 that"
+    },
+    {
+     "q": "The teacher ______ we love is very kind.",
+     "answer": "who/whom/that",
+     "tip": "指人作宾语"
+    },
+    {
+     "q": "The dog ______ is running is mine.",
+     "answer": "which/that",
+     "tip": "指物作主语"
+    },
+    {
+     "q": "Tell me the reason ______ you were late.",
+     "answer": "why",
+     "tip": "原因关系副词"
+    }
+   ]
+  },
+  {
+   "id": "30",
+   "file": "状语从句",
+   "category": "句法",
+   "title": "状语从句 (Adverbial Clauses)",
+   "instruction": "用适当的连词或动词形式完成状语从句填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "状语从句在复合句中作状语，修饰主句的谓语动词或整个主句，根据意义可分为时间、原因、条件、让步、结果、目的等。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、时间状语从句",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "连词：when, while, as, before, after, until/till, as soon as, since。"
+      },
+      {
+       "kind": "eg",
+       "text": "I will call you as soon as I arrive."
+      },
+      {
+       "kind": "note",
+       "text": "主将从现：主句用将来时，时间状语从句用一般现在时表将来。"
+      }
+     ]
+    },
+    {
+     "heading": "三、条件状语从句",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "连词：if（如果）, unless（除非，=if...not）。"
+      },
+      {
+       "kind": "eg",
+       "text": "If it rains tomorrow, we will stay at home."
+      },
+      {
+       "kind": "eg",
+       "text": "You will fail unless you work hard.（=if you don't work hard）"
+      },
+      {
+       "kind": "note",
+       "text": "条件状语从句同样遵循“主将从现”。"
+      }
+     ]
+    },
+    {
+     "heading": "四、原因、让步、结果状语从句",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "原因：because, since, as。He didn't come because he was ill."
+      },
+      {
+       "kind": "bullet",
+       "text": "让步：although/though（尽管），although 与 but 不能连用。"
+      },
+      {
+       "kind": "eg",
+       "text": "Although he is old, he still works hard."
+      },
+      {
+       "kind": "bullet",
+       "text": "结果：so...that（如此……以至于）, such...that。"
+      },
+      {
+       "kind": "eg",
+       "text": "He is so tired that he can't walk. It was such a nice day that we went out."
+      }
+     ]
+    },
+    {
+     "heading": "五、so...that 与 such...that",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "结构",
+        "用法",
+        "例句"
+       ],
+       "rows": [
+        [
+         "so + 形容词/副词 + that",
+         "修饰形容词或副词",
+         "so tired that..."
+        ],
+        [
+         "such + (a/an) + 形容词 + 名词 + that",
+         "修饰名词",
+         "such a nice day that..."
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I will call you when he ______ (come) back.",
+     "answer": "comes",
+     "tip": "主将从现"
+    },
+    {
+     "q": "If it ______ (rain) tomorrow, we won't go out.",
+     "answer": "rains",
+     "tip": "条件从句用现在时"
+    },
+    {
+     "q": "______ he was ill, he still went to school. (尽管)",
+     "answer": "Although/Though",
+     "tip": "让步"
+    },
+    {
+     "q": "He didn't come ______ he was ill. (因为)",
+     "answer": "because",
+     "tip": "原因"
+    },
+    {
+     "q": "You will be late ______ you hurry. (除非)",
+     "answer": "unless",
+     "tip": "unless=if not"
+    },
+    {
+     "q": "He is ______ tired ______ he can't move. (如此……以至于)",
+     "answer": "so / that",
+     "tip": "so...that"
+    },
+    {
+     "q": "It was ______ a nice day ______ we went out. (如此……)",
+     "answer": "such / that",
+     "tip": "such...that"
+    },
+    {
+     "q": "I'll wait ______ you come back. (直到)",
+     "answer": "until/till",
+     "tip": "时间"
+    },
+    {
+     "q": "As soon as he ______ (arrive), he called me.",
+     "answer": "arrived",
+     "tip": "as soon as"
+    },
+    {
+     "q": "______ you study hard, you will succeed. (如果)",
+     "answer": "If",
+     "tip": "条件"
+    }
+   ]
+  },
+  {
+   "id": "31",
+   "file": "主语从句与表语从句(拓展)",
+   "category": "句法",
+   "title": "主语从句与表语从句  【拓展】",
+   "instruction": "用适当的连接词完成填空。",
+   "sections": [
+    {
+     "heading": "说明",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "主语从句、表语从句属名词性从句，初中偶有涉及、高中重点，此处作了解，帮助建立完整体系。"
+      }
+     ]
+    },
+    {
+     "heading": "一、主语从句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "在复合句中作主语的从句叫主语从句，常由 that, whether, 疑问词引导。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "That he passed the exam made us happy.（that 引导主语从句）"
+      },
+      {
+       "kind": "sub",
+       "text": "常用 it 作形式主语"
+      },
+      {
+       "kind": "eg",
+       "text": "It is important that we (should) protect the environment."
+      },
+      {
+       "kind": "eg",
+       "text": "It is said that he has left.（据说他已离开）"
+      }
+     ]
+    },
+    {
+     "heading": "二、表语从句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "在复合句中作表语的从句叫表语从句，位于系动词 be 之后，常由 that, whether, 疑问词, because 引导。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "The problem is that we have no money."
+      },
+      {
+       "kind": "eg",
+       "text": "The question is whether we can finish it on time."
+      },
+      {
+       "kind": "eg",
+       "text": "That's because he was late.（那是因为他迟到了）"
+      },
+      {
+       "kind": "note",
+       "text": "表语从句一律用陈述句语序，同宾语从句。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "______ he will come is not certain. (是否)",
+     "answer": "Whether",
+     "tip": "主语从句"
+    },
+    {
+     "q": "It is important ______ we should study hard. (that)",
+     "answer": "that",
+     "tip": "形式主语"
+    },
+    {
+     "q": "The problem is ______ we have no time. (that)",
+     "answer": "that",
+     "tip": "表语从句"
+    },
+    {
+     "q": "The question is ______ he can do it. (是否)",
+     "answer": "whether",
+     "tip": "表语从句"
+    },
+    {
+     "q": "It is said ______ he is rich. (that)",
+     "answer": "that",
+     "tip": "It is said that"
+    },
+    {
+     "q": "That's ______ he was ill. (因为)",
+     "answer": "because",
+     "tip": "表语从句"
+    },
+    {
+     "q": "______ she said made us angry. (所……的话)",
+     "answer": "What",
+     "tip": "主语从句"
+    },
+    {
+     "q": "It is clear ______ he made a mistake. (that)",
+     "answer": "that",
+     "tip": "形式主语"
+    }
+   ]
+  },
+  {
+   "id": "32",
+   "file": "倒装句(拓展)",
+   "category": "句法",
+   "title": "倒装句 (Inversion)  【拓展】",
+   "instruction": "完成下列倒装句填空。",
+   "sections": [
+    {
+     "heading": "说明",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "倒装是初中拓展、高中重点，了解常见形式即可。"
+      }
+     ]
+    },
+    {
+     "heading": "一、什么是倒装",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "把谓语（或部分谓语）放到主语之前，叫倒装。分为完全倒装和部分倒装。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、初中常见的倒装",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. There be 结构（完全倒装）"
+      },
+      {
+       "kind": "eg",
+       "text": "There is a book on the desk."
+      },
+      {
+       "kind": "sub",
+       "text": "2. Here / There 开头（完全倒装，主语为名词）"
+      },
+      {
+       "kind": "eg",
+       "text": "Here comes the bus! / There goes the bell!"
+      },
+      {
+       "kind": "note",
+       "text": "但主语是代词时不倒装：Here it is! / Here you are!"
+      },
+      {
+       "kind": "sub",
+       "text": "3. so / neither / nor 开头表示“也……”（部分倒装）"
+      },
+      {
+       "kind": "eg",
+       "text": "肯定：—I like English. —So do I.（我也是）"
+      },
+      {
+       "kind": "eg",
+       "text": "否定：—I can't swim. —Neither/Nor can I.（我也不会）"
+      }
+     ]
+    },
+    {
+     "heading": "三、So + 主语 + 助动词（表示“的确如此”）",
+     "blocks": [
+      {
+       "kind": "eg",
+       "text": "—He works hard. —So he does.（他的确努力，不倒装，表赞同）"
+      },
+      {
+       "kind": "note",
+       "text": "区分：So do I（我也……，倒装）vs So he does（他的确……，不倒装）。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "—I like music. —So ______ I. (我也是)",
+     "answer": "do",
+     "tip": "So do I"
+    },
+    {
+     "q": "—She can't swim. —Neither ______ I. (我也不会)",
+     "answer": "can",
+     "tip": "Neither can I"
+    },
+    {
+     "q": "Here ______ the bus! (来了)",
+     "answer": "comes",
+     "tip": "完全倒装"
+    },
+    {
+     "q": "—Tom is a student. —So ______ Jack. (也是)",
+     "answer": "is",
+     "tip": "So is Jack"
+    },
+    {
+     "q": "There ______ a pen on the desk.",
+     "answer": "is",
+     "tip": "There be"
+    },
+    {
+     "q": "—He didn't go. —Nor ______ I. (我也没)",
+     "answer": "did",
+     "tip": "Nor did I"
+    },
+    {
+     "q": "There ______ the bell! (响了)",
+     "answer": "goes",
+     "tip": "完全倒装"
+    },
+    {
+     "q": "—They will come. —So ______ we. (也会)",
+     "answer": "will",
+     "tip": "So will we"
+    }
+   ]
+  },
+  {
+   "id": "33",
+   "file": "直接引语与间接引语",
+   "category": "句法",
+   "title": "直接引语与间接引语 (Direct & Indirect Speech)",
+   "instruction": "把直接引语改为间接引语，完成填空。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "直接引用别人的原话叫直接引语，用引号标出；用自己的话转述别人的话叫间接引语，不用引号，常构成宾语从句。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "直接：He said, “I am busy.”  间接：He said that he was busy."
+      }
+     ]
+    },
+    {
+     "heading": "二、陈述句的转换",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "用 that 引导宾语从句（that 可省略），人称、时态、时间地点状语相应变化。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "He said, “I like English.” → He said that he liked English."
+      }
+     ]
+    },
+    {
+     "heading": "三、疑问句的转换",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "一般疑问句：用 if/whether 引导，变陈述语序。"
+      },
+      {
+       "kind": "eg",
+       "text": "He asked, “Do you like it?” → He asked if I liked it."
+      },
+      {
+       "kind": "bullet",
+       "text": "特殊疑问句：用原疑问词引导，变陈述语序。"
+      },
+      {
+       "kind": "eg",
+       "text": "She asked, “Where do you live?” → She asked where I lived."
+      }
+     ]
+    },
+    {
+     "heading": "四、人称、时态、状语的变化",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "变化项",
+        "直接引语",
+        "间接引语"
+       ],
+       "rows": [
+        [
+         "时态",
+         "一般现在",
+         "一般过去"
+        ],
+        [
+         "时态",
+         "现在进行",
+         "过去进行"
+        ],
+        [
+         "时态",
+         "一般过去/现在完成",
+         "过去完成"
+        ],
+        [
+         "时间",
+         "now / today / tomorrow",
+         "then / that day / the next day"
+        ],
+        [
+         "地点",
+         "here",
+         "there"
+        ],
+        [
+         "指示词",
+         "this / these",
+         "that / those"
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "若主句谓语是现在时，或从句是客观真理，时态不变。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "He said, “I am tired.” → He said that he ______ tired.",
+     "answer": "was",
+     "tip": "现在变过去"
+    },
+    {
+     "q": "She said, “I will come.” → She said she ______ come.",
+     "answer": "would",
+     "tip": "will 变 would"
+    },
+    {
+     "q": "Tom said, “I like English.” → Tom said he ______ English.",
+     "answer": "liked",
+     "tip": "现在变过去"
+    },
+    {
+     "q": "He asked, “Do you know it?” → He asked ______ I knew it.",
+     "answer": "if/whether",
+     "tip": "一般疑问用 if"
+    },
+    {
+     "q": "She asked, “Where do you live?” → She asked where I ______.",
+     "answer": "lived",
+     "tip": "陈述语序过去时"
+    },
+    {
+     "q": "He said, “I am reading.” → He said he ______ reading.",
+     "answer": "was",
+     "tip": "进行时变过去进行"
+    },
+    {
+     "q": "They said, “We have finished.” → They said they ______ finished.",
+     "answer": "had",
+     "tip": "完成变过去完成"
+    },
+    {
+     "q": "The teacher said, “The earth is round.” → The teacher said the earth ______ round.",
+     "answer": "is",
+     "tip": "真理不变"
+    },
+    {
+     "q": "He said, “I saw him yesterday.” → He said he ______ seen him the day before.",
+     "answer": "had",
+     "tip": "过去变过去完成"
+    },
+    {
+     "q": "She asked, “Can you help me?” → She asked if I ______ help her.",
+     "answer": "could",
+     "tip": "can 变 could"
+    }
+   ]
+  },
+  {
+   "id": "33A",
+   "file": "主谓一致",
+   "category": "句法",
+   "title": "主谓一致 (Subject-Verb Agreement)",
+   "instruction": "用括号内动词的适当形式填空，注意主谓一致。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "主谓一致指谓语动词在人称和数上要与主语保持一致。判断的关键是看主语是“单数”还是“复数”。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "He likes music.（单数主语用 likes）"
+      },
+      {
+       "kind": "eg",
+       "text": "They like music.（复数主语用 like）"
+      }
+     ]
+    },
+    {
+     "heading": "二、语法一致原则",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "谓语的单复数由主语的语法形式决定。",
+       "opts": {}
+      },
+      {
+       "kind": "bullet",
+       "text": "主语是单数或不可数名词，谓语用单数：The news is good."
+      },
+      {
+       "kind": "bullet",
+       "text": "主语是复数，谓语用复数：The students are here."
+      },
+      {
+       "kind": "bullet",
+       "text": "and 连接的两个主语，谓语一般用复数：Tom and Jerry are friends."
+      },
+      {
+       "kind": "note",
+       "text": "and 连接的若指同一人/物或同一概念，谓语用单数：The writer and teacher is coming.（一人身兼两职）"
+      }
+     ]
+    },
+    {
+     "heading": "三、就近原则",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "由 or, either...or, neither...nor, not only...but also, there be 等连接的并列主语，谓语与最近的主语保持一致。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "结构",
+        "谓语看谁",
+        "例句"
+       ],
+       "rows": [
+        [
+         "either...or",
+         "就近",
+         "Either you or he is right."
+        ],
+        [
+         "neither...nor",
+         "就近",
+         "Neither he nor they are wrong."
+        ],
+        [
+         "not only...but also",
+         "就近",
+         "Not only I but also she likes it."
+        ],
+        [
+         "or",
+         "就近",
+         "A pen or two books are on the desk."
+        ],
+        [
+         "There be",
+         "就近（第一个主语）",
+         "There is a book and two pens."
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "四、意义一致原则",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "集体名词看含义：family, class, team 等表整体用单数，表成员用复数。"
+      },
+      {
+       "kind": "eg",
+       "text": "My family is big.（整体） / My family are watching TV.（成员）"
+      },
+      {
+       "kind": "bullet",
+       "text": "“the + 形容词”表一类人，用复数：The old are respected."
+      },
+      {
+       "kind": "bullet",
+       "text": "表示时间、金钱、距离的复数名词表整体概念，用单数：Ten years is a long time."
+      }
+     ]
+    },
+    {
+     "heading": "五、特殊注意",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "主语类型",
+        "谓语",
+        "例句"
+       ],
+       "rows": [
+        [
+         "each / every / everyone",
+         "单数",
+         "Every student is here."
+        ],
+        [
+         "不定代词 someone/nobody/anything",
+         "单数",
+         "Everyone is happy."
+        ],
+        [
+         "a number of + 复数",
+         "复数（许多）",
+         "A number of students are here."
+        ],
+        [
+         "the number of + 复数",
+         "单数（……的数量）",
+         "The number of students is 40."
+        ],
+        [
+         "主语 + with/along with/as well as",
+         "看前面主语",
+         "Tom, as well as I, is right."
+        ]
+       ]
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "The news ______ (be) exciting.",
+     "answer": "is",
+     "tip": "news 不可数用单数"
+    },
+    {
+     "q": "Tom and Jerry ______ (be) good friends.",
+     "answer": "are",
+     "tip": "and 连接用复数"
+    },
+    {
+     "q": "Either you or he ______ (be) right.",
+     "answer": "is",
+     "tip": "either...or 就近"
+    },
+    {
+     "q": "Neither he nor they ______ (be) wrong.",
+     "answer": "are",
+     "tip": "neither...nor 就近，看 they"
+    },
+    {
+     "q": "Not only I but also she ______ (like) it.",
+     "answer": "likes",
+     "tip": "not only...but also 就近，看 she"
+    },
+    {
+     "q": "Every student ______ (have) a book.",
+     "answer": "has",
+     "tip": "every 用单数"
+    },
+    {
+     "q": "There ______ (be) a pen and two books on the desk.",
+     "answer": "is",
+     "tip": "there be 就近"
+    },
+    {
+     "q": "The number of students ______ (be) 40.",
+     "answer": "is",
+     "tip": "the number of 用单数"
+    },
+    {
+     "q": "A number of students ______ (be) playing.",
+     "answer": "are",
+     "tip": "a number of 用复数"
+    },
+    {
+     "q": "Ten years ______ (be) a long time.",
+     "answer": "is",
+     "tip": "时间整体用单数"
+    },
+    {
+     "q": "My family ______ (be) watching TV now.",
+     "answer": "are",
+     "tip": "指成员用复数"
+    },
+    {
+     "q": "Everyone ______ (be) here today.",
+     "answer": "is",
+     "tip": "不定代词用单数"
+    }
+   ]
+  },
+  {
+   "id": "34",
+   "file": "系动词与表语(be结构)",
+   "category": "句法",
+   "title": "系动词与表语 (Linking Verbs & Predicative)",
+   "instruction": "用括号内词的适当形式填空（注意系动词后接形容词）。",
+   "sections": [
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "系动词本身有一定词义，但不能单独作谓语，必须与表语一起构成“系动词 + 表语”结构，说明主语的身份、性质或状态。其中最重要、最常用的系动词就是 be 动词 (am / is / are / was / were)。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "She is a teacher.（说明身份）  The soup tastes good.（说明状态）"
+      }
+     ]
+    },
+    {
+     "heading": "二、be 动词的基本用法",
+     "blocks": [
+      {
+       "kind": "sub",
+       "text": "1. be + 名词（说明身份、职业）"
+      },
+      {
+       "kind": "eg",
+       "text": "He is a doctor. / They are students."
+      },
+      {
+       "kind": "sub",
+       "text": "2. be + 形容词（说明性质、特征）"
+      },
+      {
+       "kind": "eg",
+       "text": "The flowers are beautiful. / I am happy."
+      },
+      {
+       "kind": "sub",
+       "text": "3. be + 介词短语（说明位置、状态）"
+      },
+      {
+       "kind": "eg",
+       "text": "The book is on the desk. / He is at home."
+      },
+      {
+       "kind": "sub",
+       "text": "4. be + 表示年龄、价格、时间等"
+      },
+      {
+       "kind": "eg",
+       "text": "She is twelve (years old). / The price is high. / It is seven o'clock."
+      },
+      {
+       "kind": "sub",
+       "text": "be 动词的人称变化"
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "主语",
+        "现在式",
+        "过去式"
+       ],
+       "rows": [
+        [
+         "I",
+         "am",
+         "was"
+        ],
+        [
+         "he / she / it / 单数",
+         "is",
+         "was"
+        ],
+        [
+         "you / we / they / 复数",
+         "are",
+         "were"
+        ]
+       ]
+      }
+     ]
+    },
+    {
+     "heading": "三、其他常见系动词",
+     "blocks": [
+      {
+       "kind": "table",
+       "headers": [
+        "系动词",
+        "含义",
+        "例句"
+       ],
+       "rows": [
+        [
+         "look",
+         "看起来",
+         "You look tired."
+        ],
+        [
+         "feel",
+         "感觉",
+         "I feel cold."
+        ],
+        [
+         "sound",
+         "听起来",
+         "It sounds good."
+        ],
+        [
+         "taste",
+         "尝起来",
+         "The cake tastes sweet."
+        ],
+        [
+         "smell",
+         "闻起来",
+         "The flower smells nice."
+        ],
+        [
+         "become / get / turn",
+         "变得（表变化）",
+         "It is getting dark. Leaves turn yellow."
+        ],
+        [
+         "keep / stay",
+         "保持",
+         "Keep quiet. Stay healthy."
+        ]
+       ]
+      },
+      {
+       "kind": "note",
+       "text": "感官系动词 (look/feel/sound/taste/smell) 后接形容词，不接副词。误 It sounds well. → 正 It sounds good."
+      }
+     ]
+    },
+    {
+     "heading": "四、系动词 vs 实义动词（易错）",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "同一个词有时是系动词（后接形容词），有时是实义动词（后接宾语或副词）。要根据句意判断。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "系动词：The apple tastes good.（苹果尝起来不错，接形容词）"
+      },
+      {
+       "kind": "eg",
+       "text": "实义动词：She tastes the soup carefully.（她仔细尝汤，接宾语/副词）"
+      },
+      {
+       "kind": "note",
+       "text": "判断技巧：系动词可用 be 替换而句意基本不变；实义动词不能。"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "The soup tastes ______ (good).",
+     "answer": "good",
+     "tip": "系动词后接形容词"
+    },
+    {
+     "q": "You look ______ (tire) today.",
+     "answer": "tired",
+     "tip": "look 系动词 + 形容词"
+    },
+    {
+     "q": "It ______ (be) seven o'clock now.",
+     "answer": "is",
+     "tip": "be 表时间"
+    },
+    {
+     "q": "The flowers ______ (be) beautiful.",
+     "answer": "are",
+     "tip": "复数用 are"
+    },
+    {
+     "q": "The music sounds ______ (beautiful).",
+     "answer": "beautiful",
+     "tip": "sound + 形容词"
+    },
+    {
+     "q": "It is getting ______ (cold) in winter.",
+     "answer": "cold",
+     "tip": "get 表变化 + 形容词"
+    },
+    {
+     "q": "Please keep ______ (quiet) in the library.",
+     "answer": "quiet",
+     "tip": "keep + 形容词"
+    },
+    {
+     "q": "Leaves ______ (turn) yellow in autumn.",
+     "answer": "turn",
+     "tip": "turn 表变化"
+    },
+    {
+     "q": "The cake smells ______ (sweet).",
+     "answer": "sweet",
+     "tip": "smell + 形容词"
+    },
+    {
+     "q": "They ______ (be) students two years ago.",
+     "answer": "were",
+     "tip": "过去复数用 were"
+    }
+   ]
+  },
+  {
+   "id": "35",
+   "file": "虚拟语气(拓展)",
+   "category": "动词的语气",
+   "title": "虚拟语气 (The Subjunctive Mood)  【拓展】",
+   "instruction": "用括号内动词的适当形式（虚拟语气）填空。",
+   "sections": [
+    {
+     "heading": "说明",
+     "blocks": [
+      {
+       "kind": "note",
+       "text": "虚拟语气是初中拓展、高中重点。初中主要考查两种基础形式：wish 引导的从句 和 与现在事实相反的 if 条件句。"
+      }
+     ]
+    },
+    {
+     "heading": "一、概念",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "虚拟语气表示说话人的假设、愿望、建议等，所说的并非事实，或与事实相反、难以实现。谓语动词要用特殊的形式。",
+       "opts": {}
+      }
+     ]
+    },
+    {
+     "heading": "二、wish 引导的宾语从句（表示愿望）",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "wish 后的宾语从句表示一种难以实现或与事实相反的愿望，从句谓语要“时态后退”。",
+       "opts": {}
+      },
+      {
+       "kind": "table",
+       "headers": [
+        "愿望",
+        "从句谓语形式",
+        "例句"
+       ],
+       "rows": [
+        [
+         "与现在事实相反",
+         "用一般过去时（be 用 were）",
+         "I wish I were a bird."
+        ],
+        [
+         "与将来相反/难实现",
+         "用 would / could + 动词原形",
+         "I wish it would stop raining."
+        ],
+        [
+         "与过去事实相反",
+         "用 had + 过去分词",
+         "I wish I had studied harder."
+        ]
+       ]
+      },
+      {
+       "kind": "eg",
+       "text": "I wish I knew the answer.（但愿我知道答案——其实不知道）"
+      },
+      {
+       "kind": "note",
+       "text": "虚拟语气中，所有人称的 be 一律用 were：I wish I were you."
+      }
+     ]
+    },
+    {
+     "heading": "三、与现在事实相反的 if 条件句",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "结构：If + 主语 + 一般过去时（be 用 were），主句 + would/could/might + 动词原形。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "If I were you, I would accept it.（如果我是你，我会接受——但我不是你）"
+      },
+      {
+       "kind": "eg",
+       "text": "If I had time, I would help you.（如果我有时间就帮你——其实没时间）"
+      },
+      {
+       "kind": "note",
+       "text": "对比真实条件句：If it rains tomorrow, I will stay home.（可能发生，用一般现在时，不是虚拟）"
+      }
+     ]
+    },
+    {
+     "heading": "四、与过去事实相反的 if 条件句（了解）",
+     "blocks": [
+      {
+       "kind": "para",
+       "text": "结构：If + 主语 + had + 过去分词，主句 + would/could have + 过去分词。",
+       "opts": {}
+      },
+      {
+       "kind": "eg",
+       "text": "If I had known, I would have told you.（要是我早知道就告诉你了）"
+      }
+     ]
+    },
+    {
+     "heading": "五、其他常见虚拟结构",
+     "blocks": [
+      {
+       "kind": "bullet",
+       "text": "would rather + 从句（宁愿）：I would rather you came tomorrow."
+      },
+      {
+       "kind": "bullet",
+       "text": "It's time + 从句（该……了）：It's time we went home."
+      },
+      {
+       "kind": "bullet",
+       "text": "if only（要是……就好了）：If only I were younger!"
+      }
+     ]
+    }
+   ],
+   "exercises": [
+    {
+     "q": "I wish I ______ (be) a bird.",
+     "answer": "were",
+     "tip": "虚拟中 be 用 were"
+    },
+    {
+     "q": "If I ______ (be) you, I would study harder.",
+     "answer": "were",
+     "tip": "与现在相反 be 用 were"
+    },
+    {
+     "q": "I wish I ______ (know) the answer now.",
+     "answer": "knew",
+     "tip": "与现在相反用过去时"
+    },
+    {
+     "q": "If he ______ (have) money, he would buy a car.",
+     "answer": "had",
+     "tip": "与现在相反用过去时"
+    },
+    {
+     "q": "I wish it ______ (stop) raining soon.",
+     "answer": "would stop",
+     "tip": "对将来的愿望用 would"
+    },
+    {
+     "q": "If I ______ (have) time, I would help you.",
+     "answer": "had",
+     "tip": "与现在相反"
+    },
+    {
+     "q": "I wish I ______ (study) harder last year.",
+     "answer": "had studied",
+     "tip": "与过去相反用 had done"
+    },
+    {
+     "q": "If I were you, I ______ (accept) the job.",
+     "answer": "would accept",
+     "tip": "主句用 would + 原形"
+    },
+    {
+     "q": "It's time we ______ (go) home.",
+     "answer": "went",
+     "tip": "It's time + 过去时"
+    },
+    {
+     "q": "If only I ______ (be) younger!",
+     "answer": "were",
+     "tip": "if only 虚拟"
+    }
+   ]
+  }
+ ]
+}

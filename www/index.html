@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>初中英语提升</title>
+  <link rel="stylesheet" href="style.css?v=6" />
+  <style>
+    body { background: var(--bg); }
+    .app-home {
+      max-width: 640px;
+      margin: 0 auto;
+      padding: calc(env(safe-area-inset-top, 0px) + 28px) 20px
+               calc(env(safe-area-inset-bottom, 0px) + 28px);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+    }
+    .ah-hero { text-align: center; margin-bottom: 26px; }
+    .ah-hero h1 {
+      margin: 0;
+      font-size: 26px;
+      color: var(--blue-900);
+      letter-spacing: 1px;
+    }
+    .ah-hero .ah-sub {
+      margin-top: 8px;
+      font-size: 14px;
+      color: var(--gray-500);
+      letter-spacing: 3px;
+    }
+    .ah-cards {
+      display: flex;
+      flex-direction: column;
+      gap: 18px;
+      flex: 1;
+    }
+    .ah-card {
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      padding: 22px 20px;
+      border-radius: 20px;
+      color: #fff;
+      text-decoration: none;
+      box-shadow: 0 8px 22px rgba(31, 59, 115, 0.18);
+      -webkit-tap-highlight-color: transparent;
+      transition: transform .12s ease, box-shadow .12s ease;
+    }
+    .ah-card:active { transform: scale(0.98); box-shadow: 0 4px 12px rgba(31,59,115,0.2); }
+    .ah-card .ah-icon {
+      font-size: 40px;
+      width: 62px; height: 62px;
+      flex: none;
+      display: flex; align-items: center; justify-content: center;
+      background: rgba(255,255,255,0.2);
+      border-radius: 16px;
+    }
+    .ah-card .ah-text { flex: 1; }
+    .ah-card h2 { margin: 0 0 4px; font-size: 21px; }
+    .ah-card p { margin: 0; font-size: 13px; opacity: 0.92; line-height: 1.5; }
+    .ah-card .ah-go { font-size: 26px; opacity: 0.85; flex: none; }
+    .card-grammar { background: linear-gradient(135deg, #2e5b9e, #1f3b73); }
+    .card-vocab   { background: linear-gradient(135deg, #e0872f, #c0641c); }
+    .card-reading { background: linear-gradient(135deg, #1a8a4a, #0f6a38); }
+    .ah-foot {
+      margin-top: 26px;
+      text-align: center;
+      font-size: 12px;
+      color: var(--gray-500);
+    }
+  </style>
+</head>
+<body>
+  <main class="app-home">
+    <div class="ah-hero">
+      <h1>初中英语 · 四周提升</h1>
+      <div class="ah-sub">GRAMMAR · WORDS · READING</div>
+    </div>
+
+    <div class="ah-cards">
+      <a class="ah-card card-grammar" href="grammar.html">
+        <div class="ah-icon">📘</div>
+        <div class="ah-text">
+          <h2>语法精讲</h2>
+          <p>41 个知识点，讲解 + 例句 + 填空练习，支持点读与朗读</p>
+        </div>
+        <div class="ah-go">›</div>
+      </a>
+
+      <a class="ah-card card-vocab" href="vocab.html">
+        <div class="ah-icon">🃏</div>
+        <div class="ah-text">
+          <h2>背单词</h2>
+          <p>1580 个核心词，卡片记忆，带音标，点击朗读单词与例句</p>
+        </div>
+        <div class="ah-go">›</div>
+      </a>
+
+      <a class="ah-card card-reading" href="reading.html">
+        <div class="ah-icon">📖</div>
+        <div class="ah-text">
+          <h2>分级阅读</h2>
+          <p>28 篇短文，难度递进，中英对照 + 生词 + 理解练习，可点读</p>
+        </div>
+        <div class="ah-go">›</div>
+      </a>
+    </div>
+
+    <div class="ah-foot">初中英语四周提升 · 离线学习</div>
+  </main>
+</body>
+</html>
