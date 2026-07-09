@@ -287,36 +287,4 @@
     els.sidebar.classList.remove("open");
     els.overlay.classList.remove("show");
   }
-
-  // 返回键：正在读某天 → 返回阅读列表首屏；已在首屏 → 返回三大模块首页
-  function resetReadingHome() {
-    stopReading();
-    cur = null;
-    els.main.innerHTML =
-      '<div class="vocab-empty">点左上角 ☰ 选择一天的阅读（第 1–28 天）</div>';
-    Array.from(els.nav.querySelectorAll(".nav-link")).forEach(function (a) {
-      a.classList.remove("active");
-    });
-    els.readAll.disabled = true;
-  }
-  var backBtn = document.getElementById("backBtn");
-  if (backBtn) {
-    backBtn.addEventListener("click", function () {
-      if (cur) {
-        resetReadingHome();
-        if (history.replaceState) history.replaceState(null, "", location.pathname);
-      } else {
-        location.href = "index.html";
-      }
-    });
-  }
-
-  var menuToggle = document.getElementById("menuToggle");
-  if (menuToggle) {
-    menuToggle.onclick = function () {
-      els.sidebar.classList.toggle("open");
-      els.overlay.classList.toggle("show");
-    };
-  }
-  if (els.overlay) els.overlay.onclick = closeSidebar;
 })();

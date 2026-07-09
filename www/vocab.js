@@ -35,9 +35,6 @@
 
   const els = {
     unitList: document.getElementById("unitList"),
-    side: document.getElementById("vocabSide"),
-    overlay: document.getElementById("overlay"),
-    menuToggle: document.getElementById("menuToggle"),
     toolbar: document.getElementById("vocabToolbar"),
     vtTitle: document.getElementById("vtTitle"),
     vtProgress: document.getElementById("vtProgress"),
@@ -100,41 +97,6 @@
     els.toolbar.classList.remove("hidden");
     els.cardControls.classList.remove("hidden");
     renderCard();
-    closeSide();
-  }
-
-  function toggleSide() {
-    if (!els.side) return;
-    els.side.classList.toggle("open");
-    if (els.overlay) els.overlay.classList.toggle("show");
-  }
-  function closeSide() {
-    if (els.side) els.side.classList.remove("open");
-    if (els.overlay) els.overlay.classList.remove("show");
-  }
-  if (els.menuToggle) els.menuToggle.onclick = toggleSide;
-  if (els.overlay) els.overlay.onclick = closeSide;
-
-  // 返回键：正在背某单元 → 返回单元选择首屏；已在首屏 → 返回三大模块首页
-  function resetVocabHome() {
-    curWords = [];
-    idx = 0;
-    flipped = false;
-    els.toolbar.classList.add("hidden");
-    els.cardControls.classList.add("hidden");
-    els.cardArea.innerHTML =
-      '<div class="vocab-empty">点左上角 ☰ 选择一个单元开始背单词</div>';
-    Array.from(els.unitList.children).forEach(function (c) {
-      c.classList.remove("active");
-    });
-    closeSide();
-  }
-  var backBtn = document.getElementById("backBtn");
-  if (backBtn) {
-    backBtn.addEventListener("click", function () {
-      if (curWords.length) resetVocabHome();
-      else window.location.href = "index.html";
-    });
   }
 
   function renderCard() {

@@ -4,12 +4,12 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>分级阅读 · 初中英语四周提升</title>
-  <link rel="stylesheet" href="style.css?v=5" />
+  <link rel="icon" href="icons/favicon-32.png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="icons/icon-192.png" />
+  <link rel="stylesheet" href="style.css?v=6" />
 </head>
 <body>
   <header class="topbar">
-    <button id="backBtn" class="top-back" aria-label="返回">←</button>
-    <button id="menuToggle" class="menu-toggle" aria-label="目录">☰</button>
     <div class="brand">
       <span class="brand-title">分级阅读</span>
       <span class="brand-sub">MODULE · READING</span>
@@ -19,6 +19,7 @@
       <a href="grammar.html">语法</a>
       <a href="vocab.html">背单词</a>
       <a href="reading.html" class="active">阅读</a>
+      <a href="plan.html">计划</a>
     </nav>
     <div class="read-controls">
       <button id="readAll" class="teach-btn" disabled>▶ 朗读全文</button>
@@ -34,13 +35,11 @@
 
     <main class="content">
       <article id="reading" class="reading">
-        <div class="vocab-empty">点左上角 ☰ 选择一天的阅读（第 1–28 天）</div>
+        <div class="vocab-empty">← 请从左侧选择一天的阅读（第 1–28 天）</div>
       </article>
     </main>
   </div>
 
-  <script src="hw-back.js"></script>
-  <script src="tts-bridge.js"></script>
   <script src="reading.js?v=5"></script>
 </body>
 </html>
